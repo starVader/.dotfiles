@@ -13,5 +13,35 @@ Hello mate
  :only            - keep only this window open
  :ls              - show current buffers
  :b 2             - open buffer #2 in this window
+ 
+ searching
+
+For basic searching:
+
+/pattern       - search forward for pattern
+?pattern       - search backward
+n              - repeat forward search
+N              - repeat backward
+
+Some variables you might want to set:
+
+:set ignorecase - case insensitive
+:set smartcase  - use case if any caps used 
+:set incsearch  - show match as search proceeds
+:set hlsearch   - search highlighting
+
+More cool searching tricks:
+
+*               - search for word currently under cursor
+g*              - search for partial word under cursor 
+                  (repeat with n)
+ctrl-o, ctrl-i  - go through jump locations
+[I              - show lines with matching word under cursor
+
+
+plugins:
+
+vimspell: spell checker
+timestamp: automatically timestamp files
 
 
