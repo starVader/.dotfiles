@@ -1,0 +1,592 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3083,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 743.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ath",
+						"athlete"
+					],
+					[
+						"athlete",
+						"athlete"
+					],
+					[
+						"in",
+						"inlcude_footer"
+					],
+					[
+						"dta",
+						"data_files"
+					],
+					[
+						"Pickle",
+						"PickleError"
+					],
+					[
+						"file",
+						"files_list"
+					],
+					[
+						"data",
+						"data"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"apt-get pylinter",
+					"apt-get install pylinter",
+					"install"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/magic server.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/for i in range(n).py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_timing_list.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/test.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_list.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/athletelist.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/athletemodel.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/index.html",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/yate.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_timing_data.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/gui.py",
+				"/home/rakesh/Downloads/yate/yate/yate.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/simple_httpd.py",
+				"/home/rakesh/Python/Python3.5/Exercise/Webdevelopment/athletelist.py",
+				"/home/rakesh/Python/Python3.5/Exercise/Webdevelopment/athlete.py",
+				"/home/rakesh/Python/Python3.5/Exercise/athletelist.py",
+				"/home/rakesh/Python/Python3.5/Exercise/coachdatawithdict.py",
+				"/home/rakesh/Python/Python3.5/Exercise/coacdata and split.py",
+				"/home/rakesh/Downloads/yate/yate/templates/header.html",
+				"/home/rakesh/Python/Python3.5/Exercise/Claaseess and obbjjeecccttss.py",
+				"/home/rakesh/Python/Python3.5/Exercise/inheritfromexistinclass.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1269.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sho",
+						"showinfo"
+					],
+					[
+						"W",
+						"window"
+					],
+					[
+						"row",
+						"row_data"
+					],
+					[
+						"ro",
+						"row_data"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					],
+					[
+						"html",
+						"html’"
+					],
+					[
+						"S",
+						"StringProperty"
+					],
+					[
+						"athlete",
+						"athlete_name"
+					],
+					[
+						"ath",
+						"athlete"
+					],
+					[
+						"athle",
+						"athlete"
+					],
+					[
+						"A",
+						"athletes"
+					],
+					[
+						"input",
+						"inputs_list"
+					],
+					[
+						"form",
+						"form_text"
+					],
+					[
+						"Te",
+						"Template"
+					],
+					[
+						"hmtl",
+						"html_inputs"
+					],
+					[
+						"fomr",
+						"form_text"
+					],
+					[
+						"from",
+						"form_text"
+					],
+					[
+						"t",
+						"templates"
+					],
+					[
+						"li",
+						"list_of_strings"
+					],
+					[
+						"in",
+						"Input"
+					],
+					[
+						"h",
+						"h2	Tag"
+					],
+					[
+						"for",
+						"form	Tag"
+					],
+					[
+						"dta",
+						"data_files"
+					],
+					[
+						"Pickle",
+						"PickleError"
+					],
+					[
+						"file",
+						"files_list"
+					],
+					[
+						"data",
+						"data"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/rakesh/git commands",
+					"settings":
+					{
+						"buffer_size": 249,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"apt-get pylinter",
+					"apt-get install pylinter",
+					"install"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter3/name.txt",
+				"/home/rakesh/.python_history",
+				"/home/rakesh/Desktop/scripts/alias",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter3/ch0304.txt",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter3/ch0303.txt",
+				"/home/rakesh/Python/Python3.5/Head first Exercise/Exercise/athletelist.py",
+				"/home/rakesh/Desktop/Bash/bash.txt",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter 3/ch0302.txt",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter 3/ch0303.txt",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter 3/ch0301.txt",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/Chapter 2/ch0202",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0207",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0204",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0203",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0202",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0201",
+				"/home/rakesh/Python/Python3.5/Head first Exercise/Exercise/Webdevelopment/athlete.py",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0206",
+				"/home/rakesh/Desktop/Bash/Exerciseeeee/ch0205",
+				"/home/rakesh/Desktop/bash.txt",
+				"/home/rakesh/Python/ProgrammingPython/GUI/initdata.py",
+				"/home/rakesh/Python/ProgrammingPython/GUI/gui.py",
+				"/home/rakesh/Python/ProgrammingPython/initdata.py",
+				"/home/rakesh/Python/ProgrammingPython/shelves.py",
+				"/home/rakesh/Python/ProgrammingPython/import shelve.py",
+				"/home/rakesh/Python/ProgrammingPython/BasicGUI.py",
+				"/home/rakesh/Python/Python Scripts/Doormat.py",
+				"/home/rakesh/Python/PythonScripts/Doormat.py",
+				"/home/rakesh/Python/Python3.5/Head first Exercise/Exercise/webapp/cgi-bin/generate_list.py",
+				"/home/rakesh/mygaetest/templates/footer.html",
+				"/home/rakesh/mygaetest/birtdb.py",
+				"/home/rakesh/mygaetest/justin.py",
+				"/home/rakesh/mygaetest/hfwwg.py",
+				"/home/rakesh/mygaetest/hfwwgDB.py",
+				"/home/rakesh/mygaetest/app.yaml",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/magic server.py",
+				"/home/rakesh/Python/Python3.5/Exercise/pacedata.py",
+				"/home/rakesh/Downloads/PaceData.csv",
+				"/home/rakesh/Downloads/chapter10/chapter10/page389.yaml",
+				"/home/rakesh/mygaetest/sayhello.py",
+				"/home/rakesh/Downloads/google_appengine/google/appengine/ext/db/djangoforms.py",
+				"/home/rakesh/mygaetest/templates/header.html",
+				"/home/rakesh/mygaetest/templates/form_end.html",
+				"/home/rakesh/mygaetest/templates/form_start.html",
+				"/home/rakesh/Python/Python3.5/Exercise/Chapter4here only/webapp/cgi-bin/athletemodel.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/athletemodel.py",
+				"/home/rakesh/mygaetest/ch10-templates/templates/footer.html",
+				"/home/rakesh/mygaetest/ch10-templates/templates/header.html",
+				"/home/rakesh/mygaetest/ch10-templates/templates/form_end.html",
+				"/home/rakesh/mygaetest/ch10-templates/templates/form_start.html",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/templates/header.html",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/templates/form.html",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/test.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/createdbtables.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/initdbtimingdata.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/qeury.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/initdbathletes.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/athletelist.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_list.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_names.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_timing_data.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_data.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/yate.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/add_timing_data.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/testform.py",
+				"/home/rakesh/Python/Python3.5/Exercise/dumpwithpickle.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/simple_httpd.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/index.html",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/for i in range(n).py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/generate_timing_list.py",
+				"/home/rakesh/Python/Python3.5/Exercise/webapp/cgi-bin/gui.py",
+				"/home/rakesh/Downloads/yate/yate/yate.py",
+				"/home/rakesh/Python/Python3.5/Exercise/Webdevelopment/athletelist.py",
+				"/home/rakesh/Python/Python3.5/Exercise/Webdevelopment/athlete.py",
+				"/home/rakesh/Python/Python3.5/Exercise/athletelist.py",
+				"/home/rakesh/Python/Python3.5/Exercise/coachdatawithdict.py",
+				"/home/rakesh/Python/Python3.5/Exercise/coacdata and split.py",
+				"/home/rakesh/Downloads/yate/yate/templates/header.html",
+				"/home/rakesh/Python/Python3.5/Exercise/Claaseess and obbjjeecccttss.py",
+				"/home/rakesh/Python/Python3.5/Exercise/inheritfromexistinclass.py"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tom"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/rakesh/git commands",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 249,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										249,
+										249
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,750,119,1466,690,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
