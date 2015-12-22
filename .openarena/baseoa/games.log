@@ -1,0 +1,3715 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_protocol\71\g_lms_mode\0\elimination_roundtime\120\g_delagHitscan\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\g_voteGametypes\/0/1/3/4/5/6/7/8/9/10/11/12/\g_allowVote\1\capturelimit\8\videoflags\7\g_maxGameClients\0\g_doWarmup\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\6\sv_hostname\noname\timelimit\30\fraglimit\0\dmflags\0\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86 Jan 18 2014\com_gamename\Quake3Arena\g_gametype\4\mapname\oasago2\sv_privateClients\0\sv_allowDownload\0\g_instantgib\0\g_rockets\0\gamename\baseoa\elimflags\0\voteflags\0\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2015-12-22 18:56:06
+  0:00 Info: ServerInfo length: 815 of 1024
+  0:00 ClientUserinfoChanged: 0 n\DarthVader\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\DarthVader\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 Playerstore: Nothing to restore. Guid: 1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 ClientBegin: 0
+  0:00 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 Playerstore: Nothing to restore. Guid: 1C2C8B6F8F9CE0E2C0D860E79C114C79
+  0:00 ClientBegin: 0
+  0:10 Item: 0 weapon_railgun
+  0:18 ClientUserinfoChanged: 1 n\kar\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\936499F7D6A1C380B07868B5278C3165
+  0:18 ClientConnect: 1
+  0:19 Item: 0 weapon_plasmagun
+  0:23 ClientUserinfoChanged: 1 n\kar\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\936499F7D6A1C380B07868B5278C3165
+  0:23 ClientBegin: 1
+  0:23 Item: 0 ammo_cells
+  0:37 Item: 0 ammo_rockets
+  0:40 Item: 0 weapon_rocketlauncher
+  0:40 Item: 0 ammo_rockets
+  0:48 Item: 0 ammo_shells
+  0:49 Item: 0 ammo_bullets
+  0:50 Item: 0 ammo_cells
+  0:52 Item: 0 ammo_rockets
+  0:52 Item: 0 weapon_rocketlauncher
+  0:52 Item: 0 ammo_rockets
+  0:54 Item: 0 ammo_cells
+  0:54 Item: 0 ammo_bullets
+  0:55 Item: 0 ammo_shells
+  0:58 Item: 0 ammo_shells
+  0:59 Item: 0 weapon_rocketlauncher
+  1:01 Item: 0 weapon_plasmagun
+  1:02 Item: 0 ammo_cells
+  1:04 Item: 0 item_health
+  1:07 Item: 0 ammo_rockets
+  1:10 Item: 0 ammo_rockets
+  1:29 Item: 0 team_CTF_redflag
+  1:29 CTF: 0 1 0: DarthVader got the RED flag!
+  1:29 PlayerScore: 0 0: DarthVader now has 0 points
+  1:47 Item: 0 team_CTF_blueflag
+  1:47 CTF: 0 1 1: DarthVader captured the RED flag!
+  1:47 Award: 0 4: DarthVader gained the CAPTURE award!
+  1:47 PlayerScore: 0 5: DarthVader now has 5 points
+  1:51 Item: 0 weapon_rocketlauncher
+  1:51 Item: 0 ammo_rockets
+  1:54 Item: 0 ammo_rockets
+  2:02 Item: 0 weapon_lightning
+  2:03 Item: 0 ammo_lightning
+  2:06 ClientUserinfoChanged: 1 n\kar\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\936499F7D6A1C380B07868B5278C3165
+  2:06 ClientUserinfoChanged: 1 n\kar\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\936499F7D6A1C380B07868B5278C3165
+  2:06 Playerstore: Nothing to restore. Guid: 936499F7D6A1C380B07868B5278C3165
+  2:06 ClientBegin: 1
+  2:07 Item: 1 weapon_rocketlauncher
+  2:13 Item: 0 weapon_plasmagun
+  2:13 Item: 0 ammo_cells
+  2:20 ClientUserinfoChanged: 2 n\DarkWolf\t\3\model\skelebot/blue\hmodel\skelebot/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8937A8914904C3F25544130D30AA9AAA
+  2:20 ClientConnect: 2
+  2:20 Item: 0 ammo_rockets
+  2:21 Item: 0 weapon_rocketlauncher
+  2:21 Item: 0 team_CTF_redflag
+  2:21 CTF: 0 1 0: DarthVader got the RED flag!
+  2:21 PlayerScore: 0 5: DarthVader now has 5 points
+  2:22 Item: 1 team_CTF_blueflag
+  2:22 CTF: 1 2 0: kar got the BLUE flag!
+  2:22 PlayerScore: 1 0: kar now has 0 points
+  2:24 ClientUserinfoChanged: 2 n\DarkWolf\t\3\model\skelebot/blue\hmodel\skelebot/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8937A8914904C3F25544130D30AA9AAA
+  2:24 ClientBegin: 2
+  2:26 Item: 1 ammo_shells
+  2:27 Item: 0 weapon_plasmagun
+  2:31 Kill: 1 0 7: kar killed DarthVader by MOD_ROCKET_SPLASH
+  2:31 PlayerScore: 1 1: kar now has 1 points
+  2:31 Challenge: 1 205 1: Client 1 got award 205
+  2:31 Challenge: 1 1 1: Client 1 got award 1
+  2:31 Challenge: 0 2 1: Client 0 got award 2
+  2:31 PlayerScore: 1 3: kar now has 3 points
+  2:31 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+  2:32 Item: 1 weapon_plasmagun
+  2:32 Item: 1 team_CTF_redflag
+  2:32 PlayerScore: 1 4: kar now has 4 points
+  2:32 CTF: 1 1 2: kar returned the RED flag!
+  2:35 Item: 1 weapon_plasmagun
+  2:36 ClientUserinfoChanged: 2 n\DarkWolf\t\1\model\skelebot/blue\hmodel\skelebot/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8937A8914904C3F25544130D30AA9AAA
+  2:36 Playerstore: Nothing to restore. Guid: 8937A8914904C3F25544130D30AA9AAA
+  2:36 ClientBegin: 2
+  2:39 Item: 1 team_CTF_redflag
+  2:39 CTF: 1 2 1: kar captured the BLUE flag!
+  2:39 Award: 1 4: kar gained the CAPTURE award!
+  2:39 Challenge: 1 303 1: Client 1 got award 303
+  2:39 PlayerScore: 1 9: kar now has 9 points
+  2:39 PlayerScore: 2 0: DarkWolf now has 0 points
+  2:40 Item: 1 ammo_rockets
+  2:41 Item: 1 weapon_rocketlauncher
+  2:48 Item: 1 weapon_rocketlauncher
+  2:49 Item: 0 ammo_rockets
+  2:49 Item: 2 ammo_lightning
+  2:49 Item: 0 weapon_rocketlauncher
+  2:49 Item: 2 weapon_lightning
+  2:50 Item: 0 ammo_rockets
+  2:50 Item: 2 ammo_lightning
+  2:53 Item: 1 ammo_lightning
+  2:53 Item: 1 weapon_lightning
+  2:53 Item: 1 ammo_lightning
+  2:55 Kill: 0 2 7: DarthVader killed DarkWolf by MOD_ROCKET_SPLASH
+  2:55 PlayerScore: 0 6: DarthVader now has 6 points
+  2:55 Challenge: 0 205 1: Client 0 got award 205
+  2:55 Challenge: 0 1 1: Client 0 got award 1
+  2:55 Challenge: 2 2 1: Client 2 got award 2
+  2:55 PlayerScore: 0 7: DarthVader now has 7 points
+  2:55 Challenge: 0 305 1: Client 0 got award 305
+  2:55 Award: 0 3: DarthVader gained the DEFENCE award!
+  2:58 Item: 0 weapon_lightning
+  2:58 Item: 2 weapon_shotgun
+  3:05 Item: 0 weapon_lightning
+  3:07 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+  3:07 PlayerScore: 0 8: DarthVader now has 8 points
+  3:07 Challenge: 0 206 1: Client 0 got award 206
+  3:07 Challenge: 0 1 1: Client 0 got award 1
+  3:07 Challenge: 2 2 1: Client 2 got award 2
+  3:14 Item: 2 weapon_lightning
+  3:17 Item: 2 ammo_rockets
+  3:17 Item: 2 weapon_rocketlauncher
+  3:18 Item: 2 ammo_rockets
+  3:18 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+  3:18 PlayerScore: 0 9: DarthVader now has 9 points
+  3:18 Challenge: 0 206 1: Client 0 got award 206
+  3:18 Challenge: 0 1 1: Client 0 got award 1
+  3:18 Challenge: 1 2 1: Client 1 got award 2
+  3:19 Item: 2 weapon_shotgun
+  3:19 Item: 0 weapon_lightning
+  3:19 Item: 0 team_CTF_redflag
+  3:19 CTF: 0 1 0: DarthVader got the RED flag!
+  3:19 PlayerScore: 0 9: DarthVader now has 9 points
+  3:21 Item: 1 weapon_shotgun
+  3:24 Item: 2 weapon_lightning
+  3:24 Item: 0 ammo_shells
+  3:25 Item: 0 ammo_bullets
+  3:25 Kill: 1 0 1: kar killed DarthVader by MOD_SHOTGUN
+  3:25 PlayerScore: 1 10: kar now has 10 points
+  3:25 Challenge: 1 203 1: Client 1 got award 203
+  3:25 Challenge: 1 1 1: Client 1 got award 1
+  3:25 Challenge: 0 2 1: Client 0 got award 2
+  3:25 PlayerScore: 1 12: kar now has 12 points
+  3:25 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+  3:25 Item: 1 weapon_lightning
+  3:26 Item: 1 team_CTF_redflag
+  3:26 PlayerScore: 1 13: kar now has 13 points
+  3:26 CTF: 1 1 2: kar returned the RED flag!
+  3:28 Item: 1 weapon_shotgun
+  3:32 Item: 1 weapon_rocketlauncher
+  3:37 Item: 1 ammo_rockets
+  3:37 Item: 2 weapon_rocketlauncher
+  3:40 Item: 2 weapon_lightning
+  3:40 Item: 2 ammo_lightning
+  3:41 Item: 1 ammo_rockets
+  3:46 Item: 1 weapon_rocketlauncher
+  3:51 Item: 1 weapon_lightning
+  3:51 Item: 1 ammo_lightning
+  3:58 Item: 0 ammo_lightning
+  3:58 Item: 1 weapon_rocketlauncher
+  3:58 Item: 0 weapon_lightning
+  3:58 Item: 0 ammo_lightning
+  4:04 Item: 0 ammo_rockets
+  4:04 Item: 0 ammo_rockets
+  4:04 Item: 0 weapon_rocketlauncher
+  4:06 Item: 0 ammo_cells
+  4:08 Item: 0 ammo_shells
+  4:09 Item: 2 ammo_rockets
+  4:09 Item: 2 weapon_rocketlauncher
+  4:10 Item: 2 team_CTF_blueflag
+  4:10 CTF: 2 2 0: DarkWolf got the BLUE flag!
+  4:10 PlayerScore: 2 0: DarkWolf now has 0 points
+  4:12 Item: 1 weapon_rocketlauncher
+  4:16 Item: 2 ammo_shells
+  4:16 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+  4:16 PlayerScore: 0 10: DarthVader now has 10 points
+  4:16 Challenge: 0 206 1: Client 0 got award 206
+  4:16 Challenge: 0 1 1: Client 0 got award 1
+  4:16 Challenge: 1 2 1: Client 1 got award 2
+  4:18 Item: 0 team_CTF_redflag
+  4:18 CTF: 0 1 0: DarthVader got the RED flag!
+  4:18 PlayerScore: 0 10: DarthVader now has 10 points
+  4:19 Item: 1 weapon_lightning
+  4:24 Item: 0 ammo_bullets
+  4:25 Item: 1 weapon_rocketlauncher
+  4:33 Item: 2 weapon_rocketlauncher
+  4:34 Item: 2 ammo_rockets
+  4:36 Item: 0 weapon_rocketlauncher
+  4:38 Item: 1 ammo_lightning
+  4:38 Item: 1 weapon_lightning
+  4:38 Item: 1 ammo_lightning
+  4:39 Item: 2 ammo_rockets
+  4:40 Item: 2 weapon_rocketlauncher
+  4:41 Item: 1 weapon_rocketlauncher
+  4:43 Item: 0 ammo_lightning
+  4:43 Item: 0 weapon_lightning
+  4:43 Item: 0 ammo_lightning
+  4:44 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+  4:44 PlayerScore: 1 14: kar now has 14 points
+  4:44 Challenge: 1 205 1: Client 1 got award 205
+  4:44 Challenge: 1 1 1: Client 1 got award 1
+  4:44 Challenge: 0 2 1: Client 0 got award 2
+  4:44 PlayerScore: 1 16: kar now has 16 points
+  4:44 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+  4:44 Item: 1 weapon_lightning
+  4:46 Item: 1 team_CTF_redflag
+  4:46 PlayerScore: 1 17: kar now has 17 points
+  4:46 CTF: 1 1 2: kar returned the RED flag!
+  4:47 Item: 2 weapon_rocketlauncher
+  4:48 Item: 0 ammo_rockets
+  4:49 Item: 0 weapon_rocketlauncher
+  4:49 Item: 0 ammo_rockets
+  4:51 Item: 2 item_armor_combat
+  4:52 Item: 1 weapon_lightning
+  4:54 Item: 2 weapon_plasmagun
+  5:00 Kill: 0 2 7: DarthVader killed DarkWolf by MOD_ROCKET_SPLASH
+  5:00 PlayerScore: 0 11: DarthVader now has 11 points
+  5:00 Challenge: 0 205 1: Client 0 got award 205
+  5:00 Challenge: 0 1 1: Client 0 got award 1
+  5:00 Challenge: 2 2 1: Client 2 got award 2
+  5:00 PlayerScore: 0 13: DarthVader now has 13 points
+  5:00 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+  5:02 Item: 0 weapon_plasmagun
+  5:02 Item: 0 team_CTF_blueflag
+  5:02 PlayerScore: 0 14: DarthVader now has 14 points
+  5:02 CTF: 0 2 2: DarthVader returned the BLUE flag!
+  5:05 Item: 1 team_CTF_blueflag
+  5:05 CTF: 1 2 0: kar got the BLUE flag!
+  5:05 PlayerScore: 1 17: kar now has 17 points
+  5:08 Item: 2 ammo_cells
+  5:08 Item: 2 weapon_plasmagun
+  5:10 Item: 1 ammo_shells
+  5:13 Item: 1 ammo_rockets
+  5:13 Item: 1 weapon_rocketlauncher
+  5:13 Item: 1 ammo_rockets
+  5:14 Item: 2 weapon_rocketlauncher
+  5:17 Item: 0 weapon_lightning
+  5:21 Item: 1 team_CTF_redflag
+  5:21 CTF: 1 2 1: kar captured the BLUE flag!
+  5:21 Award: 1 4: kar gained the CAPTURE award!
+  5:21 Challenge: 1 303 1: Client 1 got award 303
+  5:21 PlayerScore: 1 22: kar now has 22 points
+  5:21 PlayerScore: 2 0: DarkWolf now has 0 points
+  5:24 Item: 2 ammo_rockets
+  5:27 Item: 1 ammo_shells
+  5:30 Item: 1 weapon_rocketlauncher
+  5:35 Kill: 2 0 7: DarkWolf killed DarthVader by MOD_ROCKET_SPLASH
+  5:35 PlayerScore: 2 1: DarkWolf now has 1 points
+  5:35 Challenge: 2 205 1: Client 2 got award 205
+  5:35 Challenge: 2 1 1: Client 2 got award 1
+  5:35 Challenge: 0 2 1: Client 0 got award 2
+  5:35 PlayerScore: 2 2: DarkWolf now has 2 points
+  5:35 Challenge: 2 305 1: Client 2 got award 305
+  5:35 Award: 2 3: DarkWolf gained the DEFENCE award!
+  5:37 Item: 1 team_CTF_blueflag
+  5:37 CTF: 1 2 0: kar got the BLUE flag!
+  5:37 PlayerScore: 1 22: kar now has 22 points
+  5:37 ClientUserinfoChanged: 3 n\Shakuntla\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\176B583E9ED43C4D6463901AE6EA4070
+  5:37 ClientConnect: 3
+  5:39 Item: 2 weapon_rocketlauncher
+  5:44 Item: 1 item_health_large
+  5:45 Item: 1 weapon_rocketlauncher
+  5:50 Item: 2 ammo_rockets
+  5:50 Item: 2 weapon_rocketlauncher
+  5:53 ClientUserinfoChanged: 3 n\Shakuntla\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\176B583E9ED43C4D6463901AE6EA4070
+  5:53 ClientBegin: 3
+  5:53 Item: 1 team_CTF_redflag
+  5:53 CTF: 1 2 1: kar captured the BLUE flag!
+  5:53 Award: 1 4: kar gained the CAPTURE award!
+  5:53 Challenge: 1 303 1: Client 1 got award 303
+  5:53 PlayerScore: 1 27: kar now has 27 points
+  5:53 PlayerScore: 2 2: DarkWolf now has 2 points
+  5:58 Item: 2 weapon_rocketlauncher
+  5:58 ClientUserinfoChanged: 3 n\Shakuntla\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\176B583E9ED43C4D6463901AE6EA4070
+  5:58 Playerstore: Nothing to restore. Guid: 176B583E9ED43C4D6463901AE6EA4070
+  5:58 ClientBegin: 3
+  6:01 Item: 1 ammo_rockets
+  6:02 Item: 1 weapon_rocketlauncher
+  6:02 Item: 1 ammo_rockets
+  6:02 ShutdownGame:
+  6:02 ------------------------------------------------------------
+  6:02 ------------------------------------------------------------
+  6:02 InitGame: \com_protocol\71\g_lms_mode\0\elimination_roundtime\120\g_delagHitscan\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\g_voteGametypes\/0/1/3/4/5/6/7/8/9/10/11/12/\g_allowVote\1\capturelimit\8\videoflags\7\g_maxGameClients\0\g_doWarmup\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\6\sv_hostname\noname\timelimit\30\fraglimit\0\dmflags\0\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86 Jan 18 2014\com_gamename\Quake3Arena\g_gametype\4\mapname\oasago2\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\g_instantgib\0\g_rockets\0\gamename\baseoa\elimflags\0\voteflags\767\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2015-12-22 19:02:09
+  6:02 Info: ServerInfo length: 834 of 1024
+  6:03 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  6:03 ClientConnect: 0
+  6:03 Playerstore: Nothing to restore. Guid: 1C2C8B6F8F9CE0E2C0D860E79C114C79
+  6:03 ClientBegin: 0
+  6:03 ClientUserinfoChanged: 1 n\kar\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\936499F7D6A1C380B07868B5278C3165
+  6:03 ClientConnect: 1
+  6:03 Playerstore: Nothing to restore. Guid: 936499F7D6A1C380B07868B5278C3165
+  6:03 ClientBegin: 1
+  6:03 ClientUserinfoChanged: 2 n\DarkWolf\t\1\model\skelebot/blue\hmodel\skelebot/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8937A8914904C3F25544130D30AA9AAA
+  6:03 ClientConnect: 2
+  6:03 Playerstore: Nothing to restore. Guid: 8937A8914904C3F25544130D30AA9AAA
+  6:03 ClientBegin: 2
+  6:03 ClientUserinfoChanged: 3 n\Shakuntla\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\176B583E9ED43C4D6463901AE6EA4070
+  6:03 ClientConnect: 3
+  6:03 Playerstore: Nothing to restore. Guid: 176B583E9ED43C4D6463901AE6EA4070
+  6:03 ClientBegin: 3
+  6:03 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+  6:05 Item: 0 weapon_rocketlauncher
+  6:05 Item: 1 ammo_cells
+  6:05 Item: 1 weapon_plasmagun
+  6:06 Item: 0 ammo_rockets
+  6:07 Item: 1 weapon_rocketlauncher
+  6:08 Item: 2 ammo_rockets
+  6:08 Item: 2 weapon_rocketlauncher
+  6:08 Item: 3 ammo_lightning
+  6:08 Item: 3 weapon_lightning
+  6:08 Item: 3 ammo_lightning
+  6:08 Item: 2 ammo_rockets
+  6:10 Item: 0 ammo_rockets
+  6:15 Item: 0 ammo_shells
+  6:16 Item: 1 team_CTF_blueflag
+  6:16 CTF: 1 2 0: kar got the BLUE flag!
+  6:16 PlayerScore: 1 0: kar now has 0 points
+  6:16 Item: 2 weapon_rocketlauncher
+  6:19 Kill: 1 3 7: kar killed Shakuntla by MOD_ROCKET_SPLASH
+  6:19 PlayerScore: 1 1: kar now has 1 points
+  6:19 Challenge: 1 205 1: Client 1 got award 205
+  6:19 Challenge: 1 1 1: Client 1 got award 1
+  6:19 Challenge: 3 2 1: Client 3 got award 2
+  6:19 PlayerScore: 1 3: kar now has 3 points
+  6:19 Challenge: 1 305 1: Client 1 got award 305
+  6:19 Award: 1 3: kar gained the DEFENCE award!
+  6:21 Item: 1 weapon_plasmagun
+  6:21 Item: 0 ammo_lightning
+  6:21 Item: 0 weapon_lightning
+  6:21 Item: 0 ammo_lightning
+  6:23 Kill: 2 0 6: DarkWolf killed DarthVader by MOD_ROCKET
+  6:23 PlayerScore: 2 1: DarkWolf now has 1 points
+  6:23 Challenge: 2 205 1: Client 2 got award 205
+  6:23 Challenge: 2 1 1: Client 2 got award 1
+  6:23 Challenge: 0 2 1: Client 0 got award 2
+  6:23 PlayerScore: 2 2: DarkWolf now has 2 points
+  6:23 Challenge: 2 305 1: Client 2 got award 305
+  6:23 Award: 2 3: DarkWolf gained the DEFENCE award!
+  6:24 Item: 3 weapon_plasmagun
+  6:25 Item: 0 weapon_lightning
+  6:28 Item: 1 weapon_lightning
+  6:30 Item: 2 weapon_rocketlauncher
+  6:31 Item: 1 team_CTF_redflag
+  6:31 CTF: 1 2 1: kar captured the BLUE flag!
+  6:31 Award: 1 4: kar gained the CAPTURE award!
+  6:31 Challenge: 1 303 1: Client 1 got award 303
+  6:31 PlayerScore: 1 8: kar now has 8 points
+  6:31 PlayerScore: 2 2: DarkWolf now has 2 points
+  6:34 Item: 3 weapon_lightning
+  6:35 Item: 0 ammo_bullets
+  6:35 Item: 0 ammo_cells
+  6:37 Item: 1 ammo_shells
+  6:40 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+  6:40 PlayerScore: 2 3: DarkWolf now has 3 points
+  6:40 Challenge: 2 205 1: Client 2 got award 205
+  6:40 Challenge: 2 1 1: Client 2 got award 1
+  6:40 Challenge: 3 2 1: Client 3 got award 2
+  6:40 PlayerScore: 2 4: DarkWolf now has 4 points
+  6:40 Challenge: 2 305 1: Client 2 got award 305
+  6:40 Award: 2 3: DarkWolf gained the DEFENCE award!
+  6:40 Item: 1 ammo_rockets
+  6:40 Item: 1 weapon_rocketlauncher
+  6:40 Item: 1 ammo_rockets
+  6:43 Item: 2 weapon_lightning
+  6:44 Item: 3 weapon_rocketlauncher
+  6:45 Item: 0 team_CTF_redflag
+  6:45 CTF: 0 1 0: DarthVader got the RED flag!
+  6:45 PlayerScore: 0 0: DarthVader now has 0 points
+  6:45 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+  6:45 PlayerScore: 0 1: DarthVader now has 1 points
+  6:45 Challenge: 0 206 1: Client 0 got award 206
+  6:45 Challenge: 0 1 1: Client 0 got award 1
+  6:45 Challenge: 2 2 1: Client 2 got award 2
+  6:46 Kill: 3 1 7: Shakuntla killed kar by MOD_ROCKET_SPLASH
+  6:46 PlayerScore: 3 1: Shakuntla now has 1 points
+  6:46 Challenge: 3 205 1: Client 3 got award 205
+  6:46 Challenge: 3 1 1: Client 3 got award 1
+  6:46 Challenge: 1 2 1: Client 1 got award 2
+  6:46 PlayerScore: 3 2: Shakuntla now has 2 points
+  6:46 Challenge: 3 305 1: Client 3 got award 305
+  6:46 Award: 3 3: Shakuntla gained the DEFENCE award!
+  6:47 Item: 2 weapon_lightning
+  6:49 Item: 1 weapon_plasmagun
+  6:52 Item: 3 ammo_rockets
+  6:52 Item: 1 weapon_plasmagun
+  6:54 Item: 3 weapon_lightning
+  6:56 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+  6:56 PlayerScore: 2 5: DarkWolf now has 5 points
+  6:56 Challenge: 2 206 1: Client 2 got award 206
+  6:56 Challenge: 2 1 1: Client 2 got award 1
+  6:56 Challenge: 0 2 1: Client 0 got award 2
+  6:56 PlayerScore: 2 7: DarkWolf now has 7 points
+  6:56 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+  6:57 Item: 2 team_CTF_redflag
+  6:57 PlayerScore: 2 8: DarkWolf now has 8 points
+  6:57 CTF: 2 1 2: DarkWolf returned the RED flag!
+  6:57 Item: 2 weapon_lightning
+  7:01 Item: 2 ammo_rockets
+  7:02 Item: 2 team_CTF_blueflag
+  7:02 CTF: 2 2 0: DarkWolf got the BLUE flag!
+  7:02 PlayerScore: 2 8: DarkWolf now has 8 points
+  7:03 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+  7:03 PlayerScore: 2 9: DarkWolf now has 9 points
+  7:03 Challenge: 2 206 1: Client 2 got award 206
+  7:03 Challenge: 2 1 1: Client 2 got award 1
+  7:03 Challenge: 3 2 1: Client 3 got award 2
+  7:06 Item: 1 weapon_lightning
+  7:07 Kill: 0 2 3: DarthVader killed DarkWolf by MOD_MACHINEGUN
+  7:07 PlayerScore: 0 2: DarthVader now has 2 points
+  7:07 Challenge: 0 202 1: Client 0 got award 202
+  7:07 Challenge: 0 1 1: Client 0 got award 1
+  7:07 Challenge: 2 2 1: Client 2 got award 2
+  7:07 PlayerScore: 0 4: DarthVader now has 4 points
+  7:07 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+  7:08 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+  7:08 PlayerScore: 3 3: Shakuntla now has 3 points
+  7:08 Challenge: 3 202 1: Client 3 got award 202
+  7:08 Challenge: 3 1 1: Client 3 got award 1
+  7:08 Challenge: 1 2 1: Client 1 got award 2
+  7:08 PlayerScore: 3 4: Shakuntla now has 4 points
+  7:08 Challenge: 3 305 1: Client 3 got award 305
+  7:08 Award: 3 3: Shakuntla gained the DEFENCE award!
+  7:10 Item: 0 team_CTF_blueflag
+  7:10 PlayerScore: 0 5: DarthVader now has 5 points
+  7:10 CTF: 0 2 2: DarthVader returned the BLUE flag!
+  7:11 Item: 1 weapon_lightning
+  7:13 Item: 0 weapon_lightning
+  7:14 Item: 1 weapon_rocketlauncher
+  7:15 Item: 2 ammo_rockets
+  7:17 Item: 2 weapon_rocketlauncher
+  7:18 Item: 3 ammo_lightning
+  7:18 Item: 3 weapon_lightning
+  7:18 Item: 3 ammo_lightning
+  7:20 Item: 0 weapon_rocketlauncher
+  7:22 Item: 1 team_CTF_blueflag
+  7:22 CTF: 1 2 0: kar got the BLUE flag!
+  7:22 PlayerScore: 1 8: kar now has 8 points
+  7:22 Kill: 2 3 6: DarkWolf killed Shakuntla by MOD_ROCKET
+  7:22 PlayerScore: 2 10: DarkWolf now has 10 points
+  7:22 Challenge: 2 205 1: Client 2 got award 205
+  7:22 Challenge: 2 1 1: Client 2 got award 1
+  7:22 Challenge: 3 2 1: Client 3 got award 2
+  7:22 PlayerScore: 2 11: DarkWolf now has 11 points
+  7:22 Challenge: 2 305 1: Client 2 got award 305
+  7:22 Award: 2 3: DarkWolf gained the DEFENCE award!
+  7:22 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+  7:22 PlayerScore: 1 9: kar now has 9 points
+  7:22 Challenge: 1 205 1: Client 1 got award 205
+  7:22 Challenge: 1 1 1: Client 1 got award 1
+  7:22 Challenge: 0 2 1: Client 0 got award 2
+  7:24 Item: 2 weapon_lightning
+  7:26 Item: 3 weapon_plasmagun
+  7:27 Item: 2 weapon_rocketlauncher
+  7:29 Item: 0 weapon_rocketlauncher
+  7:35 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+  7:35 PlayerScore: 2 12: DarkWolf now has 12 points
+  7:35 Challenge: 2 206 1: Client 2 got award 206
+  7:35 Challenge: 2 1 1: Client 2 got award 1
+  7:35 Challenge: 3 2 1: Client 3 got award 2
+  7:35 PlayerScore: 2 14: DarkWolf now has 14 points
+  7:35 Award: 2 3: DarkWolf gained the DEFENCE award!
+  7:35 Challenge: 2 305 1: Client 2 got award 305
+  7:37 Item: 1 team_CTF_redflag
+  7:37 CTF: 1 2 1: kar captured the BLUE flag!
+  7:37 Award: 1 4: kar gained the CAPTURE award!
+  7:37 Challenge: 1 303 1: Client 1 got award 303
+  7:37 PlayerScore: 1 14: kar now has 14 points
+  7:37 PlayerScore: 2 14: DarkWolf now has 14 points
+  7:39 Item: 1 ammo_rockets
+  7:39 Item: 1 weapon_rocketlauncher
+  7:41 Item: 3 ammo_lightning
+  7:41 Item: 3 weapon_lightning
+  7:42 Item: 0 weapon_rocketlauncher
+  7:42 Item: 3 ammo_lightning
+  7:42 Item: 0 ammo_rockets
+  7:45 Item: 1 weapon_lightning
+  7:47 Item: 0 weapon_rocketlauncher
+  7:47 Item: 1 ammo_rockets
+  7:48 Item: 1 weapon_rocketlauncher
+  7:48 Item: 1 ammo_rockets
+  7:49 Item: 2 weapon_rocketlauncher
+  7:49 Item: 0 ammo_rockets
+  7:56 Item: 1 team_CTF_blueflag
+  7:56 CTF: 1 2 0: kar got the BLUE flag!
+  7:56 PlayerScore: 1 14: kar now has 14 points
+  7:58 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+  7:58 PlayerScore: 1 15: kar now has 15 points
+  7:58 Challenge: 1 205 1: Client 1 got award 205
+  7:58 Challenge: 1 1 1: Client 1 got award 1
+  7:58 Challenge: 0 2 1: Client 0 got award 2
+  7:59 Item: 3 team_CTF_redflag
+  7:59 CTF: 3 1 0: Shakuntla got the RED flag!
+  7:59 PlayerScore: 3 4: Shakuntla now has 4 points
+  8:01 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+  8:01 PlayerScore: 3 5: Shakuntla now has 5 points
+  8:01 Challenge: 3 202 1: Client 3 got award 202
+  8:01 Challenge: 3 1 1: Client 3 got award 1
+  8:01 Challenge: 2 2 1: Client 2 got award 2
+  8:02 Item: 1 ammo_shells
+  8:03 Item: 3 weapon_lightning
+  8:05 Item: 1 weapon_rocketlauncher
+  8:06 Kill: 0 1 3: DarthVader killed kar by MOD_MACHINEGUN
+  8:06 PlayerScore: 0 6: DarthVader now has 6 points
+  8:06 Challenge: 0 202 1: Client 0 got award 202
+  8:06 Challenge: 0 1 1: Client 0 got award 1
+  8:06 Challenge: 1 2 1: Client 1 got award 2
+  8:06 PlayerScore: 0 8: DarthVader now has 8 points
+  8:06 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+  8:06 Kill: 2 3 3: DarkWolf killed Shakuntla by MOD_MACHINEGUN
+  8:06 PlayerScore: 2 15: DarkWolf now has 15 points
+  8:06 Challenge: 2 202 1: Client 2 got award 202
+  8:06 Challenge: 2 1 1: Client 2 got award 1
+  8:06 Challenge: 3 2 1: Client 3 got award 2
+  8:06 PlayerScore: 2 17: DarkWolf now has 17 points
+  8:06 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+  8:08 Item: 2 team_CTF_redflag
+  8:08 PlayerScore: 2 18: DarkWolf now has 18 points
+  8:08 CTF: 2 1 2: DarkWolf returned the RED flag!
+  8:08 Item: 0 team_CTF_blueflag
+  8:08 PlayerScore: 0 9: DarthVader now has 9 points
+  8:08 CTF: 0 2 2: DarthVader returned the BLUE flag!
+  8:09 Item: 2 ammo_shells
+  8:09 Item: 0 weapon_rocketlauncher
+  8:09 Item: 2 ammo_bullets
+  8:09 Item: 1 weapon_rocketlauncher
+  8:10 Item: 1 ammo_rockets
+  8:10 Item: 2 weapon_rocketlauncher
+  8:10 Item: 0 ammo_lightning
+  8:11 Item: 0 weapon_lightning
+  8:11 Item: 0 ammo_lightning
+  8:14 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+  8:14 PlayerScore: 0 10: DarthVader now has 10 points
+  8:14 Challenge: 0 206 1: Client 0 got award 206
+  8:14 Challenge: 0 1 1: Client 0 got award 1
+  8:14 Challenge: 1 2 1: Client 1 got award 2
+  8:17 Item: 3 weapon_rocketlauncher
+  8:18 Kill: 1 0 3: kar killed DarthVader by MOD_MACHINEGUN
+  8:18 PlayerScore: 1 16: kar now has 16 points
+  8:18 Challenge: 1 202 1: Client 1 got award 202
+  8:18 Challenge: 1 1 1: Client 1 got award 1
+  8:18 Challenge: 0 2 1: Client 0 got award 2
+  8:18 PlayerScore: 1 17: kar now has 17 points
+  8:18 Challenge: 1 305 1: Client 1 got award 305
+  8:18 Award: 1 3: kar gained the DEFENCE award!
+  8:19 Item: 1 weapon_lightning
+  8:20 Item: 2 ammo_rockets
+  8:21 Item: 1 ammo_shells
+  8:22 Item: 2 weapon_rocketlauncher
+  8:23 Item: 3 weapon_rocketlauncher
+  8:24 Item: 1 weapon_rocketlauncher
+  8:25 Item: 3 ammo_rockets
+  8:29 Item: 0 ammo_shells
+  8:29 Item: 0 ammo_bullets
+  8:31 Item: 0 weapon_rocketlauncher
+  8:32 Item: 1 team_CTF_blueflag
+  8:32 CTF: 1 2 0: kar got the BLUE flag!
+  8:32 PlayerScore: 1 17: kar now has 17 points
+  8:33 Kill: 1 3 7: kar killed Shakuntla by MOD_ROCKET_SPLASH
+  8:33 PlayerScore: 1 18: kar now has 18 points
+  8:33 Challenge: 1 205 1: Client 1 got award 205
+  8:33 Challenge: 1 1 1: Client 1 got award 1
+  8:33 Challenge: 3 2 1: Client 3 got award 2
+  8:34 Item: 2 weapon_lightning
+  8:35 Item: 3 weapon_rocketlauncher
+  8:36 Item: 2 ammo_cells
+  8:39 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+  8:39 PlayerScore: 2 19: DarkWolf now has 19 points
+  8:39 Challenge: 2 206 1: Client 2 got award 206
+  8:39 Challenge: 2 1 1: Client 2 got award 1
+  8:39 Challenge: 0 2 1: Client 0 got award 2
+  8:39 PlayerScore: 2 20: DarkWolf now has 20 points
+  8:39 Challenge: 2 305 1: Client 2 got award 305
+  8:39 Award: 2 3: DarkWolf gained the DEFENCE award!
+  8:43 Item: 0 weapon_plasmagun
+  8:48 Kill: 2 2 7: DarkWolf killed DarkWolf by MOD_ROCKET_SPLASH
+  8:48 Item: 1 team_CTF_redflag
+  8:48 CTF: 1 2 1: kar captured the BLUE flag!
+  8:48 Award: 1 4: kar gained the CAPTURE award!
+  8:48 Challenge: 1 303 1: Client 1 got award 303
+  8:48 PlayerScore: 1 23: kar now has 23 points
+  8:48 PlayerScore: 2 20: DarkWolf now has 20 points
+  8:50 Item: 0 weapon_shotgun
+  8:50 Item: 2 ammo_slugs
+  8:51 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+  8:51 PlayerScore: 1 24: kar now has 24 points
+  8:51 Challenge: 1 205 1: Client 1 got award 205
+  8:51 Challenge: 1 1 1: Client 1 got award 1
+  8:51 Challenge: 3 2 1: Client 3 got award 2
+  8:51 PlayerScore: 1 25: kar now has 25 points
+  8:51 Challenge: 1 305 1: Client 1 got award 305
+  8:51 Award: 1 3: kar gained the DEFENCE award!
+  8:54 Item: 3 weapon_lightning
+  8:54 Item: 3 ammo_lightning
+  8:55 Item: 1 weapon_rocketlauncher
+  8:57 Item: 2 weapon_rocketlauncher
+  8:57 Item: 1 ammo_lightning
+  8:58 Item: 1 weapon_lightning
+  8:58 Item: 1 ammo_lightning
+  8:58 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+  8:58 PlayerScore: 3 6: Shakuntla now has 6 points
+  8:58 Challenge: 3 202 1: Client 3 got award 202
+  8:58 Challenge: 3 1 1: Client 3 got award 1
+  8:58 Challenge: 1 2 1: Client 1 got award 2
+  8:59 Item: 0 weapon_rocketlauncher
+  8:59 Item: 2 ammo_rockets
+  9:01 Item: 0 ammo_rockets
+  9:02 Item: 1 weapon_rocketlauncher
+  9:03 Item: 2 weapon_rocketlauncher
+  9:04 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+  9:04 PlayerScore: 2 21: DarkWolf now has 21 points
+  9:04 Challenge: 2 205 1: Client 2 got award 205
+  9:04 Challenge: 2 1 1: Client 2 got award 1
+  9:04 Challenge: 3 2 1: Client 3 got award 2
+  9:04 PlayerScore: 2 22: DarkWolf now has 22 points
+  9:04 Challenge: 2 305 1: Client 2 got award 305
+  9:04 Award: 2 3: DarkWolf gained the DEFENCE award!
+  9:08 Item: 2 weapon_lightning
+  9:09 Item: 1 weapon_rocketlauncher
+  9:10 Item: 3 weapon_lightning
+  9:11 Item: 1 ammo_rockets
+  9:12 Item: 1 weapon_rocketlauncher
+  9:12 Item: 1 ammo_rockets
+  9:14 Kill: 0 1 1: DarthVader killed kar by MOD_SHOTGUN
+  9:14 PlayerScore: 0 11: DarthVader now has 11 points
+  9:14 Challenge: 0 203 1: Client 0 got award 203
+  9:14 Challenge: 0 1 1: Client 0 got award 1
+  9:14 Challenge: 1 2 1: Client 1 got award 2
+  9:15 Item: 0 weapon_rocketlauncher
+  9:16 Item: 2 weapon_rocketlauncher
+  9:17 Item: 3 weapon_shotgun
+  9:18 Item: 1 weapon_shotgun
+  9:20 Item: 1 weapon_plasmagun
+  9:22 Item: 0 ammo_rockets
+  9:22 Item: 0 weapon_rocketlauncher
+  9:28 Item: 3 team_CTF_redflag
+  9:28 CTF: 3 1 0: Shakuntla got the RED flag!
+  9:28 PlayerScore: 3 6: Shakuntla now has 6 points
+  9:29 Kill: 3 2 1: Shakuntla killed DarkWolf by MOD_SHOTGUN
+  9:29 PlayerScore: 3 7: Shakuntla now has 7 points
+  9:29 Challenge: 3 203 1: Client 3 got award 203
+  9:29 Challenge: 3 1 1: Client 3 got award 1
+  9:29 Challenge: 2 2 1: Client 2 got award 2
+  9:31 Item: 2 weapon_rocketlauncher
+  9:31 Item: 1 team_CTF_blueflag
+  9:31 CTF: 1 2 0: kar got the BLUE flag!
+  9:31 PlayerScore: 1 25: kar now has 25 points
+  9:36 Item: 1 ammo_shells
+  9:38 Item: 2 weapon_rocketlauncher
+  9:46 Item: 3 ammo_rockets
+  9:50 Item: 0 ammo_rockets
+  9:50 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+  9:50 PlayerScore: 2 23: DarkWolf now has 23 points
+  9:50 Challenge: 2 205 1: Client 2 got award 205
+  9:50 Challenge: 2 1 1: Client 2 got award 1
+  9:50 Challenge: 3 2 1: Client 3 got award 2
+  9:50 PlayerScore: 2 25: DarkWolf now has 25 points
+  9:50 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+  9:50 Item: 0 weapon_rocketlauncher
+  9:51 Item: 0 ammo_rockets
+  9:51 Item: 2 team_CTF_redflag
+  9:51 PlayerScore: 2 26: DarkWolf now has 26 points
+  9:51 CTF: 2 1 2: DarkWolf returned the RED flag!
+  9:52 Item: 2 weapon_lightning
+  9:52 Kill: 1 0 8: kar killed DarthVader by MOD_PLASMA
+  9:52 PlayerScore: 1 26: kar now has 26 points
+  9:52 Challenge: 1 207 1: Client 1 got award 207
+  9:52 Challenge: 1 1 1: Client 1 got award 1
+  9:52 Challenge: 0 2 1: Client 0 got award 2
+  9:52 PlayerScore: 1 28: kar now has 28 points
+  9:52 Challenge: 1 305 1: Client 1 got award 305
+  9:52 Award: 1 3: kar gained the DEFENCE award!
+  9:53 Item: 2 weapon_rocketlauncher
+  9:54 Item: 1 team_CTF_redflag
+  9:54 CTF: 1 2 1: kar captured the BLUE flag!
+  9:54 Award: 1 4: kar gained the CAPTURE award!
+  9:54 Challenge: 1 303 1: Client 1 got award 303
+  9:54 PlayerScore: 1 33: kar now has 33 points
+  9:54 PlayerScore: 2 26: DarkWolf now has 26 points
+  9:54 PlayerScore: 2 27: DarkWolf now has 27 points
+  9:54 Challenge: 2 304 1: Client 2 got award 304
+  9:54 Award: 2 5: DarkWolf gained the ASSIST award!
+  9:54 PlayerScore: 2 29: DarkWolf now has 29 points
+  9:54 Challenge: 2 304 1: Client 2 got award 304
+  9:54 Award: 2 5: DarkWolf gained the ASSIST award!
+  9:54 Item: 3 weapon_rocketlauncher
+  9:55 Item: 2 team_CTF_blueflag
+  9:55 CTF: 2 2 0: DarkWolf got the BLUE flag!
+  9:55 PlayerScore: 2 29: DarkWolf now has 29 points
+  9:56 Item: 1 weapon_rocketlauncher
+  9:59 Kill: 3 2 6: Shakuntla killed DarkWolf by MOD_ROCKET
+  9:59 PlayerScore: 3 8: Shakuntla now has 8 points
+  9:59 Challenge: 3 205 1: Client 3 got award 205
+  9:59 Challenge: 3 1 1: Client 3 got award 1
+  9:59 Challenge: 2 2 1: Client 2 got award 2
+  9:59 PlayerScore: 3 10: Shakuntla now has 10 points
+  9:59 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 10:00 Item: 3 weapon_rocketlauncher
+ 10:00 Item: 3 team_CTF_blueflag
+ 10:00 PlayerScore: 3 11: Shakuntla now has 11 points
+ 10:00 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 10:03 Item: 2 weapon_rocketlauncher
+ 10:07 Item: 0 ammo_lightning
+ 10:08 Item: 0 weapon_lightning
+ 10:08 Item: 0 ammo_lightning
+ 10:09 Item: 3 weapon_rocketlauncher
+ 10:10 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 10:10 PlayerScore: 0 12: DarthVader now has 12 points
+ 10:10 Challenge: 0 206 1: Client 0 got award 206
+ 10:10 Challenge: 0 1 1: Client 0 got award 1
+ 10:10 Challenge: 2 2 1: Client 2 got award 2
+ 10:10 Item: 0 weapon_rocketlauncher
+ 10:11 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 10:11 PlayerScore: 1 34: kar now has 34 points
+ 10:11 Challenge: 1 205 1: Client 1 got award 205
+ 10:11 Challenge: 1 1 1: Client 1 got award 1
+ 10:11 Challenge: 0 2 1: Client 0 got award 2
+ 10:11 PlayerScore: 1 35: kar now has 35 points
+ 10:11 Challenge: 1 305 1: Client 1 got award 305
+ 10:11 Award: 1 3: kar gained the DEFENCE award!
+ 10:12 Item: 1 weapon_rocketlauncher
+ 10:13 Item: 2 weapon_shotgun
+ 10:13 Item: 3 item_health
+ 10:16 Item: 1 weapon_lightning
+ 10:16 Item: 0 weapon_rocketlauncher
+ 10:16 Item: 0 ammo_rockets
+ 10:18 Item: 2 weapon_plasmagun
+ 10:19 Item: 2 ammo_cells
+ 10:23 Item: 0 weapon_lightning
+ 10:23 Item: 2 weapon_shotgun
+ 10:23 Item: 0 ammo_lightning
+ 10:26 Item: 3 weapon_rocketlauncher
+ 10:32 Item: 1 ammo_rockets
+ 10:32 Item: 3 weapon_rocketlauncher
+ 10:33 Item: 2 weapon_lightning
+ 10:33 Item: 2 ammo_lightning
+ 10:33 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 10:33 PlayerScore: 0 13: DarthVader now has 13 points
+ 10:33 Challenge: 0 206 1: Client 0 got award 206
+ 10:33 Challenge: 0 1 1: Client 0 got award 1
+ 10:33 Challenge: 1 2 1: Client 1 got award 2
+ 10:34 Item: 3 ammo_rockets
+ 10:34 Item: 0 team_CTF_redflag
+ 10:34 CTF: 0 1 0: DarthVader got the RED flag!
+ 10:34 PlayerScore: 0 13: DarthVader now has 13 points
+ 10:35 Item: 0 weapon_lightning
+ 10:36 Item: 1 weapon_shotgun
+ 10:39 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 10:39 PlayerScore: 2 30: DarkWolf now has 30 points
+ 10:39 Challenge: 2 206 1: Client 2 got award 206
+ 10:39 Challenge: 2 1 1: Client 2 got award 1
+ 10:39 Challenge: 3 2 1: Client 3 got award 2
+ 10:40 Item: 1 ammo_shells
+ 10:40 Item: 1 ammo_bullets
+ 10:41 Item: 2 team_CTF_blueflag
+ 10:41 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 10:41 PlayerScore: 2 30: DarkWolf now has 30 points
+ 10:41 Item: 1 weapon_rocketlauncher
+ 10:45 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 10:45 PlayerScore: 3 12: Shakuntla now has 12 points
+ 10:45 Challenge: 3 202 1: Client 3 got award 202
+ 10:45 Challenge: 3 1 1: Client 3 got award 1
+ 10:45 Challenge: 2 2 1: Client 2 got award 2
+ 10:45 PlayerScore: 3 14: Shakuntla now has 14 points
+ 10:45 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 10:46 Item: 1 ammo_rockets
+ 10:46 Item: 1 weapon_rocketlauncher
+ 10:46 Item: 3 weapon_lightning
+ 10:46 Item: 1 ammo_rockets
+ 10:46 Item: 3 team_CTF_blueflag
+ 10:46 PlayerScore: 3 15: Shakuntla now has 15 points
+ 10:46 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 10:48 Item: 3 weapon_rocketlauncher
+ 10:49 Item: 0 team_CTF_blueflag
+ 10:49 CTF: 0 1 1: DarthVader captured the RED flag!
+ 10:49 Award: 0 4: DarthVader gained the CAPTURE award!
+ 10:49 Challenge: 0 303 1: Client 0 got award 303
+ 10:49 PlayerScore: 0 18: DarthVader now has 18 points
+ 10:49 PlayerScore: 3 15: Shakuntla now has 15 points
+ 10:49 PlayerScore: 3 16: Shakuntla now has 16 points
+ 10:49 Challenge: 3 304 1: Client 3 got award 304
+ 10:49 Award: 3 5: Shakuntla gained the ASSIST award!
+ 10:49 PlayerScore: 3 18: Shakuntla now has 18 points
+ 10:49 Challenge: 3 304 1: Client 3 got award 304
+ 10:49 Award: 3 5: Shakuntla gained the ASSIST award!
+ 10:50 Item: 2 weapon_rocketlauncher
+ 10:53 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 10:53 PlayerScore: 1 36: kar now has 36 points
+ 10:53 Challenge: 1 205 1: Client 1 got award 205
+ 10:53 Challenge: 1 1 1: Client 1 got award 1
+ 10:53 Challenge: 3 2 1: Client 3 got award 2
+ 10:54 Item: 1 weapon_lightning
+ 10:57 Item: 1 team_CTF_blueflag
+ 10:57 CTF: 1 2 0: kar got the BLUE flag!
+ 10:57 PlayerScore: 1 36: kar now has 36 points
+ 10:58 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 10:58 PlayerScore: 0 19: DarthVader now has 19 points
+ 10:58 Challenge: 0 206 1: Client 0 got award 206
+ 10:58 Challenge: 0 1 1: Client 0 got award 1
+ 10:58 Challenge: 1 2 1: Client 1 got award 2
+ 10:58 PlayerScore: 0 21: DarthVader now has 21 points
+ 10:58 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 10:59 Item: 0 weapon_rocketlauncher
+ 11:00 Item: 0 weapon_lightning
+ 11:00 Item: 3 team_CTF_blueflag
+ 11:00 PlayerScore: 3 19: Shakuntla now has 19 points
+ 11:00 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 11:02 Item: 2 weapon_lightning
+ 11:03 Item: 3 weapon_rocketlauncher
+ 11:05 Item: 0 ammo_cells
+ 11:07 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 11:07 PlayerScore: 2 31: DarkWolf now has 31 points
+ 11:07 Challenge: 2 206 1: Client 2 got award 206
+ 11:07 Challenge: 2 1 1: Client 2 got award 1
+ 11:07 Challenge: 3 2 1: Client 3 got award 2
+ 11:10 Item: 2 team_CTF_blueflag
+ 11:10 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 11:10 PlayerScore: 2 31: DarkWolf now has 31 points
+ 11:10 Item: 1 weapon_plasmagun
+ 11:16 Item: 2 weapon_plasmagun
+ 11:18 Item: 1 weapon_lightning
+ 11:18 Item: 1 ammo_lightning
+ 11:18 Item: 1 ammo_lightning
+ 11:19 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 11:19 PlayerScore: 0 22: DarthVader now has 22 points
+ 11:19 Challenge: 0 206 1: Client 0 got award 206
+ 11:19 Challenge: 0 1 1: Client 0 got award 1
+ 11:19 Challenge: 2 2 1: Client 2 got award 2
+ 11:19 PlayerScore: 0 24: DarthVader now has 24 points
+ 11:19 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 11:20 Item: 3 weapon_plasmagun
+ 11:20 Item: 3 team_CTF_blueflag
+ 11:20 PlayerScore: 3 20: Shakuntla now has 20 points
+ 11:20 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 11:22 Item: 1 weapon_rocketlauncher
+ 11:23 Item: 2 ammo_rockets
+ 11:23 Item: 2 weapon_rocketlauncher
+ 11:24 Item: 1 team_CTF_blueflag
+ 11:24 CTF: 1 2 0: kar got the BLUE flag!
+ 11:24 PlayerScore: 1 36: kar now has 36 points
+ 11:26 Item: 3 weapon_plasmagun
+ 11:26 Item: 3 ammo_cells
+ 11:28 Item: 1 ammo_shells
+ 11:31 Kill: 2 3 6: DarkWolf killed Shakuntla by MOD_ROCKET
+ 11:31 PlayerScore: 2 32: DarkWolf now has 32 points
+ 11:31 Challenge: 2 205 1: Client 2 got award 205
+ 11:31 Challenge: 2 1 1: Client 2 got award 1
+ 11:31 Challenge: 3 2 1: Client 3 got award 2
+ 11:31 PlayerScore: 2 33: DarkWolf now has 33 points
+ 11:31 Challenge: 2 305 1: Client 2 got award 305
+ 11:31 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 11:31 Item: 1 ammo_rockets
+ 11:31 Item: 1 weapon_rocketlauncher
+ 11:31 Item: 1 ammo_rockets
+ 11:33 Item: 2 weapon_rocketlauncher
+ 11:33 Item: 2 ammo_rockets
+ 11:34 Item: 3 weapon_plasmagun
+ 11:35 Item: 2 weapon_plasmagun
+ 11:38 Kill: 2 0 8: DarkWolf killed DarthVader by MOD_PLASMA
+ 11:38 PlayerScore: 2 34: DarkWolf now has 34 points
+ 11:38 Challenge: 2 207 1: Client 2 got award 207
+ 11:38 Challenge: 2 1 1: Client 2 got award 1
+ 11:38 Challenge: 0 2 1: Client 0 got award 2
+ 11:38 PlayerScore: 2 35: DarkWolf now has 35 points
+ 11:38 Challenge: 2 305 1: Client 2 got award 305
+ 11:38 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 11:39 Item: 1 team_CTF_redflag
+ 11:39 CTF: 1 2 1: kar captured the BLUE flag!
+ 11:39 Award: 1 4: kar gained the CAPTURE award!
+ 11:39 Challenge: 1 303 1: Client 1 got award 303
+ 11:39 PlayerScore: 1 41: kar now has 41 points
+ 11:39 PlayerScore: 2 35: DarkWolf now has 35 points
+ 11:40 Item: 3 item_armor_combat
+ 11:41 Item: 2 weapon_rocketlauncher
+ 11:41 Item: 0 ammo_rockets
+ 11:41 Item: 0 ammo_bullets
+ 11:42 Item: 0 ammo_cells
+ 11:42 Item: 0 ammo_bullets
+ 11:42 Item: 0 ammo_shells
+ 11:43 Item: 0 weapon_plasmagun
+ 11:43 Item: 3 weapon_plasmagun
+ 11:45 Item: 1 ammo_shells
+ 11:46 Item: 1 ammo_bullets
+ 11:47 Item: 2 weapon_rocketlauncher
+ 11:48 Item: 1 weapon_rocketlauncher
+ 11:49 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 11:49 PlayerScore: 3 21: Shakuntla now has 21 points
+ 11:49 Challenge: 3 202 1: Client 3 got award 202
+ 11:49 Challenge: 3 1 1: Client 3 got award 1
+ 11:49 Challenge: 2 2 1: Client 2 got award 2
+ 11:51 Item: 3 team_CTF_redflag
+ 11:51 CTF: 3 1 0: Shakuntla got the RED flag!
+ 11:51 PlayerScore: 3 21: Shakuntla now has 21 points
+ 11:51 Item: 2 weapon_lightning
+ 11:57 Item: 1 team_CTF_blueflag
+ 11:57 CTF: 1 2 0: kar got the BLUE flag!
+ 11:57 PlayerScore: 1 41: kar now has 41 points
+ 12:00 Kill: 0 1 8: DarthVader killed kar by MOD_PLASMA
+ 12:00 PlayerScore: 0 25: DarthVader now has 25 points
+ 12:00 Challenge: 0 207 1: Client 0 got award 207
+ 12:00 Challenge: 0 1 1: Client 0 got award 1
+ 12:00 Challenge: 1 2 1: Client 1 got award 2
+ 12:00 PlayerScore: 0 27: DarthVader now has 27 points
+ 12:00 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 12:01 Item: 3 ammo_lightning
+ 12:01 Item: 3 weapon_lightning
+ 12:01 Item: 3 ammo_lightning
+ 12:03 Item: 0 team_CTF_blueflag
+ 12:03 PlayerScore: 0 28: DarthVader now has 28 points
+ 12:03 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 12:03 Item: 1 weapon_rocketlauncher
+ 12:03 Item: 0 weapon_rocketlauncher
+ 12:04 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 12:04 PlayerScore: 2 36: DarkWolf now has 36 points
+ 12:04 Challenge: 2 206 1: Client 2 got award 206
+ 12:04 Challenge: 2 1 1: Client 2 got award 1
+ 12:04 Challenge: 3 2 1: Client 3 got award 2
+ 12:04 PlayerScore: 2 38: DarkWolf now has 38 points
+ 12:04 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 12:06 Item: 2 team_CTF_redflag
+ 12:06 PlayerScore: 2 39: DarkWolf now has 39 points
+ 12:06 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 12:06 Item: 1 weapon_lightning
+ 12:07 Item: 3 weapon_lightning
+ 12:08 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+ 12:08 PlayerScore: 2 40: DarkWolf now has 40 points
+ 12:08 Challenge: 2 206 1: Client 2 got award 206
+ 12:08 Challenge: 2 1 1: Client 2 got award 1
+ 12:08 Challenge: 0 2 1: Client 0 got award 2
+ 12:08 Item: 2 weapon_rocketlauncher
+ 12:08 Item: 2 team_CTF_blueflag
+ 12:08 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 12:08 PlayerScore: 2 40: DarkWolf now has 40 points
+ 12:09 Item: 1 weapon_rocketlauncher
+ 12:11 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 12:11 PlayerScore: 1 42: kar now has 42 points
+ 12:11 Challenge: 1 206 1: Client 1 got award 206
+ 12:11 Challenge: 1 1 1: Client 1 got award 1
+ 12:11 Challenge: 3 2 1: Client 3 got award 2
+ 12:13 Item: 0 weapon_plasmagun
+ 12:16 Item: 1 weapon_lightning
+ 12:16 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+ 12:16 PlayerScore: 3 22: Shakuntla now has 22 points
+ 12:16 Challenge: 3 202 1: Client 3 got award 202
+ 12:16 Challenge: 3 1 1: Client 3 got award 1
+ 12:16 Challenge: 1 2 1: Client 1 got award 2
+ 12:16 PlayerScore: 3 23: Shakuntla now has 23 points
+ 12:16 Challenge: 3 305 1: Client 3 got award 305
+ 12:16 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 12:16 Item: 2 ammo_rockets
+ 12:17 Item: 3 weapon_lightning
+ 12:24 Item: 2 team_CTF_redflag
+ 12:24 CTF: 2 2 1: DarkWolf captured the BLUE flag!
+ 12:24 Award: 2 4: DarkWolf gained the CAPTURE award!
+ 12:24 Challenge: 2 303 1: Client 2 got award 303
+ 12:24 PlayerScore: 2 45: DarkWolf now has 45 points
+ 12:24 PlayerScore: 1 42: kar now has 42 points
+ 12:25 Item: 0 team_CTF_redflag
+ 12:25 CTF: 0 1 0: DarthVader got the RED flag!
+ 12:25 PlayerScore: 0 28: DarthVader now has 28 points
+ 12:28 Item: 1 weapon_rocketlauncher
+ 12:28 Item: 0 ammo_rockets
+ 12:28 Kill: 2 0 6: DarkWolf killed DarthVader by MOD_ROCKET
+ 12:28 PlayerScore: 2 46: DarkWolf now has 46 points
+ 12:28 Challenge: 2 205 1: Client 2 got award 205
+ 12:28 Challenge: 2 1 1: Client 2 got award 1
+ 12:28 Challenge: 0 2 1: Client 0 got award 2
+ 12:28 PlayerScore: 2 48: DarkWolf now has 48 points
+ 12:28 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 12:30 Item: 2 team_CTF_redflag
+ 12:30 PlayerScore: 2 49: DarkWolf now has 49 points
+ 12:30 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 12:31 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 12:31 PlayerScore: 1 43: kar now has 43 points
+ 12:31 Challenge: 1 205 1: Client 1 got award 205
+ 12:31 Challenge: 1 1 1: Client 1 got award 1
+ 12:31 Challenge: 3 2 1: Client 3 got award 2
+ 12:31 PlayerScore: 1 44: kar now has 44 points
+ 12:31 Challenge: 1 305 1: Client 1 got award 305
+ 12:31 Award: 1 3: kar gained the DEFENCE award!
+ 12:33 Item: 0 ammo_rockets
+ 12:33 Item: 0 ammo_bullets
+ 12:33 Item: 0 ammo_cells
+ 12:34 Item: 0 ammo_bullets
+ 12:34 Item: 0 ammo_shells
+ 12:35 Item: 0 weapon_plasmagun
+ 12:38 Item: 2 ammo_rockets
+ 12:38 Item: 2 weapon_rocketlauncher
+ 12:40 Item: 1 weapon_lightning
+ 12:40 Item: 1 ammo_lightning
+ 12:40 Item: 1 ammo_lightning
+ 12:41 Item: 3 item_armor_combat
+ 12:42 Kill: 0 1 8: DarthVader killed kar by MOD_PLASMA
+ 12:42 PlayerScore: 0 29: DarthVader now has 29 points
+ 12:42 Challenge: 0 207 1: Client 0 got award 207
+ 12:42 Challenge: 0 1 1: Client 0 got award 1
+ 12:42 Challenge: 1 2 1: Client 1 got award 2
+ 12:42 Kill: 2 0 6: DarkWolf killed DarthVader by MOD_ROCKET
+ 12:42 PlayerScore: 2 50: DarkWolf now has 50 points
+ 12:42 Challenge: 2 205 1: Client 2 got award 205
+ 12:42 Challenge: 2 1 1: Client 2 got award 1
+ 12:42 Challenge: 0 2 1: Client 0 got award 2
+ 12:42 PlayerScore: 2 51: DarkWolf now has 51 points
+ 12:42 Challenge: 2 305 1: Client 2 got award 305
+ 12:42 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 12:45 Item: 3 weapon_plasmagun
+ 12:45 Item: 3 ammo_cells
+ 12:46 Item: 2 weapon_rocketlauncher
+ 12:47 Item: 1 weapon_shotgun
+ 12:49 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 12:49 PlayerScore: 3 24: Shakuntla now has 24 points
+ 12:49 Challenge: 3 202 1: Client 3 got award 202
+ 12:49 Challenge: 3 1 1: Client 3 got award 1
+ 12:49 Challenge: 2 2 1: Client 2 got award 2
+ 12:49 Item: 1 weapon_shotgun
+ 12:49 Item: 0 weapon_rocketlauncher
+ 12:50 Item: 0 ammo_rockets
+ 12:52 Item: 3 team_CTF_redflag
+ 12:52 CTF: 3 1 0: Shakuntla got the RED flag!
+ 12:52 PlayerScore: 3 24: Shakuntla now has 24 points
+ 12:52 Item: 2 weapon_plasmagun
+ 12:53 Item: 3 weapon_rocketlauncher
+ 12:55 Kill: 1 3 1: kar killed Shakuntla by MOD_SHOTGUN
+ 12:55 PlayerScore: 1 45: kar now has 45 points
+ 12:55 Challenge: 1 203 1: Client 1 got award 203
+ 12:55 Challenge: 1 1 1: Client 1 got award 1
+ 12:55 Challenge: 3 2 1: Client 3 got award 2
+ 12:55 PlayerScore: 1 47: kar now has 47 points
+ 12:55 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 12:56 Item: 0 ammo_slugs
+ 12:56 Item: 0 weapon_rocketlauncher
+ 12:56 Item: 0 ammo_rockets
+ 12:57 Item: 1 team_CTF_redflag
+ 12:57 PlayerScore: 1 48: kar now has 48 points
+ 12:57 CTF: 1 1 2: kar returned the RED flag!
+ 12:58 Item: 1 weapon_rocketlauncher
+ 12:58 Item: 2 weapon_rocketlauncher
+ 13:02 Item: 3 ammo_lightning
+ 13:02 Item: 3 weapon_lightning
+ 13:02 Item: 3 ammo_lightning
+ 13:03 Item: 1 weapon_lightning
+ 13:04 Item: 1 weapon_lightning
+ 13:04 Item: 2 weapon_rocketlauncher
+ 13:06 Item: 1 ammo_rockets
+ 13:06 Item: 1 weapon_rocketlauncher
+ 13:06 Item: 1 ammo_rockets
+ 13:12 Item: 3 team_CTF_redflag
+ 13:12 CTF: 3 1 0: Shakuntla got the RED flag!
+ 13:12 PlayerScore: 3 24: Shakuntla now has 24 points
+ 13:14 Item: 1 team_CTF_blueflag
+ 13:14 CTF: 1 2 0: kar got the BLUE flag!
+ 13:14 PlayerScore: 1 48: kar now has 48 points
+ 13:14 Item: 3 item_health
+ 13:17 Item: 1 item_health
+ 13:18 Item: 2 weapon_plasmagun
+ 13:18 Item: 3 item_health
+ 13:19 Item: 3 item_health
+ 13:20 Item: 3 item_armor_combat
+ 13:21 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 13:21 PlayerScore: 3 25: Shakuntla now has 25 points
+ 13:21 Challenge: 3 202 1: Client 3 got award 202
+ 13:21 Challenge: 3 1 1: Client 3 got award 1
+ 13:21 Challenge: 2 2 1: Client 2 got award 2
+ 13:21 PlayerScore: 3 27: Shakuntla now has 27 points
+ 13:21 Challenge: 3 305 1: Client 3 got award 305
+ 13:21 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 13:21 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 13:21 PlayerScore: 1 49: kar now has 49 points
+ 13:21 Challenge: 1 206 1: Client 1 got award 206
+ 13:21 Challenge: 1 1 1: Client 1 got award 1
+ 13:21 Challenge: 0 2 1: Client 0 got award 2
+ 13:23 Item: 1 weapon_plasmagun
+ 13:24 Item: 2 weapon_shotgun
+ 13:24 Item: 3 ammo_cells
+ 13:25 Item: 0 ammo_rockets
+ 13:25 Item: 0 weapon_rocketlauncher
+ 13:26 Item: 1 item_health
+ 13:27 Item: 0 weapon_rocketlauncher
+ 13:35 Item: 1 ammo_rockets
+ 13:35 Item: 1 weapon_rocketlauncher
+ 13:36 Item: 1 ammo_rockets
+ 13:36 Item: 3 weapon_lightning
+ 13:39 Item: 2 weapon_plasmagun
+ 13:42 Item: 2 weapon_rocketlauncher
+ 13:43 Item: 3 item_health
+ 13:46 Item: 3 ammo_rockets
+ 13:49 Kill: 2 3 6: DarkWolf killed Shakuntla by MOD_ROCKET
+ 13:49 PlayerScore: 2 52: DarkWolf now has 52 points
+ 13:49 Challenge: 2 205 1: Client 2 got award 205
+ 13:49 Challenge: 2 1 1: Client 2 got award 1
+ 13:49 Challenge: 3 2 1: Client 3 got award 2
+ 13:49 PlayerScore: 2 54: DarkWolf now has 54 points
+ 13:49 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 13:49 Item: 2 team_CTF_redflag
+ 13:49 PlayerScore: 2 55: DarkWolf now has 55 points
+ 13:49 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 13:50 Kill: 0 1 3: DarthVader killed kar by MOD_MACHINEGUN
+ 13:50 PlayerScore: 0 30: DarthVader now has 30 points
+ 13:50 Challenge: 0 202 1: Client 0 got award 202
+ 13:50 Challenge: 0 1 1: Client 0 got award 1
+ 13:50 Challenge: 1 2 1: Client 1 got award 2
+ 13:50 PlayerScore: 0 32: DarthVader now has 32 points
+ 13:50 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 13:52 Item: 1 weapon_lightning
+ 13:53 Item: 0 team_CTF_redflag
+ 13:53 CTF: 0 1 0: DarthVader got the RED flag!
+ 13:53 PlayerScore: 0 32: DarthVader now has 32 points
+ 13:54 Item: 1 ammo_cells
+ 13:54 Item: 1 ammo_bullets
+ 13:55 Item: 2 weapon_rocketlauncher
+ 13:55 Item: 1 ammo_shells
+ 13:57 Item: 0 ammo_cells
+ 13:58 Item: 0 weapon_plasmagun
+ 13:58 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 13:58 PlayerScore: 1 50: kar now has 50 points
+ 13:58 Challenge: 1 206 1: Client 1 got award 206
+ 13:58 Challenge: 1 1 1: Client 1 got award 1
+ 13:58 Challenge: 0 2 1: Client 0 got award 2
+ 13:58 PlayerScore: 1 52: kar now has 52 points
+ 13:58 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 13:59 Item: 1 team_CTF_redflag
+ 13:59 PlayerScore: 1 53: kar now has 53 points
+ 13:59 CTF: 1 1 2: kar returned the RED flag!
+ 13:59 Item: 1 weapon_plasmagun
+ 14:00 Item: 3 weapon_shotgun
+ 14:00 Item: 0 weapon_rocketlauncher
+ 14:03 Item: 2 weapon_rocketlauncher
+ 14:05 Item: 3 weapon_plasmagun
+ 14:07 Item: 3 ammo_cells
+ 14:10 Kill: 3 2 9: Shakuntla killed DarkWolf by MOD_PLASMA_SPLASH
+ 14:10 PlayerScore: 3 28: Shakuntla now has 28 points
+ 14:10 Challenge: 3 207 1: Client 3 got award 207
+ 14:10 Challenge: 3 1 1: Client 3 got award 1
+ 14:10 Challenge: 2 2 1: Client 2 got award 2
+ 14:10 PlayerScore: 3 29: Shakuntla now has 29 points
+ 14:10 Challenge: 3 305 1: Client 3 got award 305
+ 14:10 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 14:11 Item: 1 ammo_rockets
+ 14:12 Kill: 3 1 8: Shakuntla killed kar by MOD_PLASMA
+ 14:12 PlayerScore: 3 30: Shakuntla now has 30 points
+ 14:12 Challenge: 3 207 1: Client 3 got award 207
+ 14:12 Challenge: 3 1 1: Client 3 got award 1
+ 14:12 Challenge: 1 2 1: Client 1 got award 2
+ 14:12 Award: 3 1: Shakuntla gained the EXCELLENT award!
+ 14:12 Challenge: 3 302 1: Client 3 got award 302
+ 14:12 PlayerScore: 3 31: Shakuntla now has 31 points
+ 14:12 Challenge: 3 305 1: Client 3 got award 305
+ 14:12 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 14:13 Item: 2 weapon_shotgun
+ 14:14 Item: 1 weapon_rocketlauncher
+ 14:15 Item: 0 weapon_rocketlauncher
+ 14:15 Item: 0 weapon_rocketlauncher
+ 14:16 Item: 3 item_health
+ 14:17 Item: 1 weapon_plasmagun
+ 14:17 Item: 1 team_CTF_blueflag
+ 14:17 CTF: 1 2 0: kar got the BLUE flag!
+ 14:17 PlayerScore: 1 53: kar now has 53 points
+ 14:19 Item: 1 team_CTF_redflag
+ 14:19 CTF: 1 2 1: kar captured the BLUE flag!
+ 14:19 Award: 1 4: kar gained the CAPTURE award!
+ 14:19 Challenge: 1 303 1: Client 1 got award 303
+ 14:19 PlayerScore: 1 58: kar now has 58 points
+ 14:19 PlayerScore: 2 55: DarkWolf now has 55 points
+ 14:20 Item: 1 weapon_rocketlauncher
+ 14:21 Item: 2 ammo_rockets
+ 14:25 Item: 3 item_health
+ 14:26 Item: 1 ammo_lightning
+ 14:26 Item: 1 weapon_lightning
+ 14:26 Item: 1 ammo_lightning
+ 14:27 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 14:27 PlayerScore: 1 59: kar now has 59 points
+ 14:27 Challenge: 1 206 1: Client 1 got award 206
+ 14:27 Challenge: 1 1 1: Client 1 got award 1
+ 14:27 Challenge: 0 2 1: Client 0 got award 2
+ 14:27 Item: 1 weapon_rocketlauncher
+ 14:29 Item: 2 weapon_plasmagun
+ 14:29 Item: 1 ammo_rockets
+ 14:29 Item: 1 weapon_rocketlauncher
+ 14:30 Item: 1 ammo_rockets
+ 14:30 Item: 0 ammo_shells
+ 14:30 Item: 0 ammo_bullets
+ 14:30 Item: 2 weapon_rocketlauncher
+ 14:31 Item: 0 ammo_cells
+ 14:31 Item: 0 ammo_bullets
+ 14:32 Item: 1 ammo_lightning
+ 14:32 Item: 1 weapon_lightning
+ 14:34 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 14:34 PlayerScore: 1 60: kar now has 60 points
+ 14:34 Challenge: 1 206 1: Client 1 got award 206
+ 14:34 Challenge: 1 1 1: Client 1 got award 1
+ 14:34 Challenge: 3 2 1: Client 3 got award 2
+ 14:37 Item: 3 weapon_shotgun
+ 14:38 Item: 1 team_CTF_blueflag
+ 14:38 CTF: 1 2 0: kar got the BLUE flag!
+ 14:38 PlayerScore: 1 60: kar now has 60 points
+ 14:39 Item: 0 weapon_plasmagun
+ 14:42 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 14:42 PlayerScore: 1 61: kar now has 61 points
+ 14:42 Challenge: 1 206 1: Client 1 got award 206
+ 14:42 Challenge: 1 1 1: Client 1 got award 1
+ 14:42 Challenge: 0 2 1: Client 0 got award 2
+ 14:43 Item: 1 weapon_plasmagun
+ 14:45 Item: 0 weapon_rocketlauncher
+ 14:47 Kill: 3 2 1: Shakuntla killed DarkWolf by MOD_SHOTGUN
+ 14:47 PlayerScore: 3 32: Shakuntla now has 32 points
+ 14:47 Challenge: 3 203 1: Client 3 got award 203
+ 14:47 Challenge: 3 1 1: Client 3 got award 1
+ 14:47 Challenge: 2 2 1: Client 2 got award 2
+ 14:51 Kill: 3 1 1: Shakuntla killed kar by MOD_SHOTGUN
+ 14:51 PlayerScore: 3 33: Shakuntla now has 33 points
+ 14:51 Challenge: 3 203 1: Client 3 got award 203
+ 14:51 Challenge: 3 1 1: Client 3 got award 1
+ 14:51 Challenge: 1 2 1: Client 1 got award 2
+ 14:51 PlayerScore: 3 35: Shakuntla now has 35 points
+ 14:51 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 14:51 Item: 0 weapon_rocketlauncher
+ 14:53 Kill: 2 3 3: DarkWolf killed Shakuntla by MOD_MACHINEGUN
+ 14:53 PlayerScore: 2 56: DarkWolf now has 56 points
+ 14:53 Challenge: 2 202 1: Client 2 got award 202
+ 14:53 Challenge: 2 1 1: Client 2 got award 1
+ 14:53 Challenge: 3 2 1: Client 3 got award 2
+ 14:53 PlayerScore: 2 57: DarkWolf now has 57 points
+ 14:53 Challenge: 2 305 1: Client 2 got award 305
+ 14:53 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 14:53 Item: 2 weapon_lightning
+ 14:53 Item: 2 team_CTF_blueflag
+ 14:53 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 14:53 PlayerScore: 2 57: DarkWolf now has 57 points
+ 14:54 Item: 2 weapon_shotgun
+ 14:55 Item: 3 weapon_lightning
+ 14:56 Item: 2 team_CTF_redflag
+ 14:56 CTF: 2 2 1: DarkWolf captured the BLUE flag!
+ 14:56 Award: 2 4: DarkWolf gained the CAPTURE award!
+ 14:56 Challenge: 2 303 1: Client 2 got award 303
+ 14:56 PlayerScore: 2 62: DarkWolf now has 62 points
+ 14:56 Exit: Capturelimit hit.
+ 14:56 red:8  blue:1
+ 14:56 score: 62  ping: 11  client: 2 DarkWolf
+ 14:56 score: 61  ping: 1  client: 1 kar
+ 14:56 score: 35  ping: 11  client: 3 Shakuntla
+ 14:56 score: 32  ping: 0  client: 0 DarthVader
+ 14:56 PlayerScore: 1 61: kar now has 61 points
+ 15:11 ShutdownGame:
+ 15:11 ------------------------------------------------------------
+ 15:11 ------------------------------------------------------------
+ 15:11 InitGame: \com_protocol\71\g_lms_mode\0\elimination_roundtime\120\g_delagHitscan\0\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\g_voteGametypes\/0/1/3/4/5/6/7/8/9/10/11/12/\g_allowVote\1\capturelimit\8\videoflags\7\g_maxGameClients\0\g_doWarmup\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_dlRate\100\sv_maxRate\0\sv_minRate\0\sv_maxclients\6\sv_hostname\noname\timelimit\30\fraglimit\0\dmflags\0\version\ioq3 1.36+u20140116+gdde36d9-1/Ubuntu linux-x86 Jan 18 2014\com_gamename\Quake3Arena\g_gametype\4\mapname\oasago2\sv_privateClients\0\sv_allowDownload\0\bot_minplayers\0\g_instantgib\0\g_rockets\0\gamename\baseoa\elimflags\0\voteflags\767\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2015-12-22 19:11:17
+ 15:11 Info: ServerInfo length: 834 of 1024
+ 15:11 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+ 15:11 ClientConnect: 0
+ 15:11 Playerstore: Nothing to restore. Guid: 1C2C8B6F8F9CE0E2C0D860E79C114C79
+ 15:11 ClientBegin: 0
+ 15:11 ClientUserinfoChanged: 1 n\kar\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\936499F7D6A1C380B07868B5278C3165
+ 15:11 ClientConnect: 1
+ 15:11 Playerstore: Nothing to restore. Guid: 936499F7D6A1C380B07868B5278C3165
+ 15:11 ClientBegin: 1
+ 15:11 ClientUserinfoChanged: 2 n\DarkWolf\t\1\model\skelebot/blue\hmodel\skelebot/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\8937A8914904C3F25544130D30AA9AAA
+ 15:11 ClientConnect: 2
+ 15:11 Playerstore: Nothing to restore. Guid: 8937A8914904C3F25544130D30AA9AAA
+ 15:11 ClientBegin: 2
+ 15:11 ClientUserinfoChanged: 3 n\Shakuntla\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\176B583E9ED43C4D6463901AE6EA4070
+ 15:11 ClientConnect: 3
+ 15:11 Playerstore: Nothing to restore. Guid: 176B583E9ED43C4D6463901AE6EA4070
+ 15:11 ClientBegin: 3
+ 15:12 ClientUserinfoChanged: 0 n\DarthVader\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\1C2C8B6F8F9CE0E2C0D860E79C114C79
+ 15:15 Item: 0 weapon_railgun
+ 15:16 Item: 1 weapon_rocketlauncher
+ 15:16 Item: 0 ammo_shells
+ 15:17 Item: 1 ammo_rockets
+ 15:22 Item: 1 ammo_lightning
+ 15:22 Item: 1 weapon_lightning
+ 15:23 Item: 0 ammo_bullets
+ 15:23 Item: 0 ammo_cells
+ 15:23 Item: 3 ammo_rockets
+ 15:24 Item: 2 ammo_lightning
+ 15:25 Item: 3 ammo_rockets
+ 15:26 Item: 3 weapon_rocketlauncher
+ 15:30 Kill: 2 0 3: DarkWolf killed DarthVader by MOD_MACHINEGUN
+ 15:30 PlayerScore: 2 1: DarkWolf now has 1 points
+ 15:30 Challenge: 2 202 1: Client 2 got award 202
+ 15:30 Challenge: 2 1 1: Client 2 got award 1
+ 15:30 Challenge: 0 2 1: Client 0 got award 2
+ 15:30 PlayerScore: 2 2: DarkWolf now has 2 points
+ 15:30 Challenge: 2 305 1: Client 2 got award 305
+ 15:30 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 15:32 Item: 1 weapon_rocketlauncher
+ 15:32 Item: 1 ammo_rockets
+ 15:32 Item: 3 weapon_rocketlauncher
+ 15:37 Item: 1 ammo_shells
+ 15:39 Item: 1 item_health_large
+ 15:39 Item: 2 weapon_lightning
+ 15:40 Item: 1 ammo_rockets
+ 15:40 Item: 1 weapon_rocketlauncher
+ 15:40 Item: 0 ammo_lightning
+ 15:40 Item: 1 ammo_rockets
+ 15:40 Item: 0 weapon_lightning
+ 15:40 Item: 0 ammo_lightning
+ 15:43 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 15:43 PlayerScore: 0 1: DarthVader now has 1 points
+ 15:43 Challenge: 0 206 1: Client 0 got award 206
+ 15:43 Challenge: 0 1 1: Client 0 got award 1
+ 15:43 Challenge: 1 2 1: Client 1 got award 2
+ 15:43 Item: 0 weapon_rocketlauncher
+ 15:45 Item: 1 weapon_rocketlauncher
+ 15:47 Item: 0 weapon_rocketlauncher
+ 15:47 Item: 3 weapon_rocketlauncher
+ 15:48 Item: 2 weapon_rocketlauncher
+ 15:49 Item: 0 weapon_lightning
+ 15:51 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 15:51 PlayerScore: 1 1: kar now has 1 points
+ 15:51 Challenge: 1 205 1: Client 1 got award 205
+ 15:51 Challenge: 1 1 1: Client 1 got award 1
+ 15:51 Challenge: 0 2 1: Client 0 got award 2
+ 15:51 Item: 1 weapon_lightning
+ 15:53 Item: 3 weapon_rocketlauncher
+ 15:55 Item: 1 weapon_rocketlauncher
+ 15:59 Item: 0 ammo_cells
+ 16:01 Item: 0 ammo_shells
+ 16:02 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 16:02 PlayerScore: 1 2: kar now has 2 points
+ 16:02 Challenge: 1 206 1: Client 1 got award 206
+ 16:02 Challenge: 1 1 1: Client 1 got award 1
+ 16:02 Challenge: 3 2 1: Client 3 got award 2
+ 16:03 Item: 1 team_CTF_blueflag
+ 16:03 CTF: 1 2 0: kar got the BLUE flag!
+ 16:03 PlayerScore: 1 2: kar now has 2 points
+ 16:03 Kill: 0 1 3: DarthVader killed kar by MOD_MACHINEGUN
+ 16:03 PlayerScore: 0 2: DarthVader now has 2 points
+ 16:03 Challenge: 0 202 1: Client 0 got award 202
+ 16:03 Challenge: 0 1 1: Client 0 got award 1
+ 16:03 Challenge: 1 2 1: Client 1 got award 2
+ 16:03 PlayerScore: 0 4: DarthVader now has 4 points
+ 16:03 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 16:06 Item: 3 weapon_shotgun
+ 16:06 Item: 2 ammo_rockets
+ 16:06 Item: 0 weapon_rocketlauncher
+ 16:07 Item: 1 weapon_rocketlauncher
+ 16:07 Item: 0 ammo_rockets
+ 16:09 Item: 2 weapon_rocketlauncher
+ 16:11 Item: 1 ammo_lightning
+ 16:11 Item: 1 weapon_lightning
+ 16:11 Item: 1 ammo_lightning
+ 16:12 Item: 0 ammo_rockets
+ 16:12 Item: 0 weapon_rocketlauncher
+ 16:13 Item: 2 ammo_rockets
+ 16:14 Item: 1 weapon_rocketlauncher
+ 16:15 Item: 0 weapon_rocketlauncher
+ 16:18 Item: 0 weapon_rocketlauncher
+ 16:19 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 16:19 PlayerScore: 1 3: kar now has 3 points
+ 16:19 Challenge: 1 206 1: Client 1 got award 206
+ 16:19 Challenge: 1 1 1: Client 1 got award 1
+ 16:19 Challenge: 0 2 1: Client 0 got award 2
+ 16:20 Item: 2 weapon_rocketlauncher
+ 16:20 Item: 1 weapon_rocketlauncher
+ 16:22 Item: 0 weapon_rocketlauncher
+ 16:23 Item: 1 team_CTF_blueflag
+ 16:23 CTF: 1 2 0: kar got the BLUE flag!
+ 16:23 PlayerScore: 1 3: kar now has 3 points
+ 16:27 Item: 3 weapon_railgun
+ 16:30 Item: 1 item_armor_combat
+ 16:34 Item: 1 ammo_bullets
+ 16:34 Kill: 3 2 10: Shakuntla killed DarkWolf by MOD_RAILGUN
+ 16:34 PlayerScore: 3 1: Shakuntla now has 1 points
+ 16:34 Challenge: 3 208 1: Client 3 got award 208
+ 16:34 Challenge: 3 1 1: Client 3 got award 1
+ 16:34 Challenge: 2 2 1: Client 2 got award 2
+ 16:34 Item: 1 ammo_shells
+ 16:36 Item: 2 weapon_rocketlauncher
+ 16:37 Item: 3 team_CTF_redflag
+ 16:37 CTF: 3 1 0: Shakuntla got the RED flag!
+ 16:37 PlayerScore: 3 1: Shakuntla now has 1 points
+ 16:37 Kill: 0 1 3: DarthVader killed kar by MOD_MACHINEGUN
+ 16:37 PlayerScore: 0 5: DarthVader now has 5 points
+ 16:37 Challenge: 0 202 1: Client 0 got award 202
+ 16:37 Challenge: 0 1 1: Client 0 got award 1
+ 16:37 Challenge: 1 2 1: Client 1 got award 2
+ 16:37 PlayerScore: 0 7: DarthVader now has 7 points
+ 16:37 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 16:39 Item: 0 team_CTF_blueflag
+ 16:39 PlayerScore: 0 8: DarthVader now has 8 points
+ 16:39 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 16:42 Kill: 3 2 10: Shakuntla killed DarkWolf by MOD_RAILGUN
+ 16:42 PlayerScore: 3 2: Shakuntla now has 2 points
+ 16:42 Challenge: 3 208 1: Client 3 got award 208
+ 16:42 Challenge: 3 1 1: Client 3 got award 1
+ 16:42 Challenge: 2 2 1: Client 2 got award 2
+ 16:42 PlayerScore: 3 4: Shakuntla now has 4 points
+ 16:42 Challenge: 3 305 1: Client 3 got award 305
+ 16:42 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 16:43 Kill: 1 3 3: kar killed Shakuntla by MOD_MACHINEGUN
+ 16:43 PlayerScore: 1 4: kar now has 4 points
+ 16:43 Challenge: 1 202 1: Client 1 got award 202
+ 16:43 Challenge: 1 1 1: Client 1 got award 1
+ 16:43 Challenge: 3 2 1: Client 3 got award 2
+ 16:43 PlayerScore: 1 6: kar now has 6 points
+ 16:43 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 16:43 Item: 0 ammo_shells
+ 16:44 Item: 0 team_CTF_redflag
+ 16:44 CTF: 0 1 0: DarthVader got the RED flag!
+ 16:44 PlayerScore: 0 8: DarthVader now has 8 points
+ 16:44 Item: 1 weapon_railgun
+ 16:45 Item: 0 ammo_bullets
+ 16:45 Item: 2 weapon_plasmagun
+ 16:46 Item: 3 weapon_rocketlauncher
+ 16:47 Item: 0 ammo_rockets
+ 16:47 Item: 0 weapon_rocketlauncher
+ 16:48 Item: 0 ammo_rockets
+ 16:48 Kill: 1 0 3: kar killed DarthVader by MOD_MACHINEGUN
+ 16:48 PlayerScore: 1 7: kar now has 7 points
+ 16:48 Challenge: 1 202 1: Client 1 got award 202
+ 16:48 Challenge: 1 1 1: Client 1 got award 1
+ 16:48 Challenge: 0 2 1: Client 0 got award 2
+ 16:48 PlayerScore: 1 9: kar now has 9 points
+ 16:48 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 16:49 Item: 1 team_CTF_redflag
+ 16:49 PlayerScore: 1 10: kar now has 10 points
+ 16:49 CTF: 1 1 2: kar returned the RED flag!
+ 16:49 Item: 1 weapon_rocketlauncher
+ 16:51 Item: 3 weapon_lightning
+ 16:51 Item: 3 ammo_lightning
+ 16:51 Item: 3 ammo_lightning
+ 16:52 Kill: 1 3 7: kar killed Shakuntla by MOD_ROCKET_SPLASH
+ 16:52 PlayerScore: 1 11: kar now has 11 points
+ 16:52 Challenge: 1 205 1: Client 1 got award 205
+ 16:52 Challenge: 1 1 1: Client 1 got award 1
+ 16:52 Challenge: 3 2 1: Client 3 got award 2
+ 16:52 Item: 0 ammo_rockets
+ 16:53 Item: 0 weapon_rocketlauncher
+ 16:53 Item: 0 ammo_rockets
+ 16:58 Item: 1 team_CTF_blueflag
+ 16:58 CTF: 1 2 0: kar got the BLUE flag!
+ 16:58 PlayerScore: 1 11: kar now has 11 points
+ 16:58 Item: 2 weapon_rocketlauncher
+ 17:03 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+ 17:03 PlayerScore: 3 5: Shakuntla now has 5 points
+ 17:03 Challenge: 3 202 1: Client 3 got award 202
+ 17:03 Challenge: 3 1 1: Client 3 got award 1
+ 17:03 Challenge: 1 2 1: Client 1 got award 2
+ 17:03 PlayerScore: 3 7: Shakuntla now has 7 points
+ 17:03 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 17:04 Item: 3 weapon_rocketlauncher
+ 17:05 Item: 2 team_CTF_blueflag
+ 17:05 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 17:05 PlayerScore: 2 2: DarkWolf now has 2 points
+ 17:06 Kill: 0 2 7: DarthVader killed DarkWolf by MOD_ROCKET_SPLASH
+ 17:06 PlayerScore: 0 9: DarthVader now has 9 points
+ 17:06 Challenge: 0 205 1: Client 0 got award 205
+ 17:06 Challenge: 0 1 1: Client 0 got award 1
+ 17:06 Challenge: 2 2 1: Client 2 got award 2
+ 17:06 PlayerScore: 0 11: DarthVader now has 11 points
+ 17:06 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 17:06 Item: 3 weapon_railgun
+ 17:06 Item: 1 ammo_rockets
+ 17:07 Item: 3 ammo_shells
+ 17:07 Item: 1 weapon_rocketlauncher
+ 17:07 Item: 3 weapon_rocketlauncher
+ 17:07 Item: 3 team_CTF_blueflag
+ 17:07 PlayerScore: 3 8: Shakuntla now has 8 points
+ 17:07 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 17:07 Item: 1 ammo_rockets
+ 17:11 Item: 1 weapon_rocketlauncher
+ 17:16 Kill: 2 0 3: DarkWolf killed DarthVader by MOD_MACHINEGUN
+ 17:16 PlayerScore: 2 3: DarkWolf now has 3 points
+ 17:16 Challenge: 2 202 1: Client 2 got award 202
+ 17:16 Challenge: 2 1 1: Client 2 got award 1
+ 17:16 Challenge: 0 2 1: Client 0 got award 2
+ 17:17 Item: 2 weapon_lightning
+ 17:17 Item: 3 ammo_cells
+ 17:17 Item: 3 weapon_plasmagun
+ 17:17 Item: 2 ammo_lightning
+ 17:19 Item: 0 weapon_rocketlauncher
+ 17:21 Kill: 0 1 6: DarthVader killed kar by MOD_ROCKET
+ 17:21 PlayerScore: 0 12: DarthVader now has 12 points
+ 17:21 Challenge: 0 205 1: Client 0 got award 205
+ 17:21 Challenge: 0 1 1: Client 0 got award 1
+ 17:21 Challenge: 1 2 1: Client 1 got award 2
+ 17:21 PlayerScore: 0 13: DarthVader now has 13 points
+ 17:21 Challenge: 0 305 1: Client 0 got award 305
+ 17:21 Award: 0 3: DarthVader gained the DEFENCE award!
+ 17:23 Item: 0 weapon_rocketlauncher
+ 17:23 Item: 3 weapon_lightning
+ 17:23 Item: 3 ammo_lightning
+ 17:25 Item: 1 weapon_plasmagun
+ 17:25 Kill: 0 2 6: DarthVader killed DarkWolf by MOD_ROCKET
+ 17:25 PlayerScore: 0 14: DarthVader now has 14 points
+ 17:25 Challenge: 0 205 1: Client 0 got award 205
+ 17:25 Challenge: 0 1 1: Client 0 got award 1
+ 17:25 Challenge: 2 2 1: Client 2 got award 2
+ 17:25 PlayerScore: 0 15: DarthVader now has 15 points
+ 17:25 Challenge: 0 305 1: Client 0 got award 305
+ 17:25 Award: 0 3: DarthVader gained the DEFENCE award!
+ 17:28 Item: 2 weapon_shotgun
+ 17:28 Item: 0 weapon_rocketlauncher
+ 17:28 Item: 0 ammo_slugs
+ 17:29 Item: 0 ammo_rockets
+ 17:30 Item: 3 team_CTF_redflag
+ 17:30 CTF: 3 1 0: Shakuntla got the RED flag!
+ 17:30 PlayerScore: 3 8: Shakuntla now has 8 points
+ 17:31 Item: 1 ammo_lightning
+ 17:32 Item: 1 weapon_lightning
+ 17:32 Item: 1 ammo_lightning
+ 17:34 Item: 3 weapon_shotgun
+ 17:35 Kill: 2 3 1: DarkWolf killed Shakuntla by MOD_SHOTGUN
+ 17:35 PlayerScore: 2 4: DarkWolf now has 4 points
+ 17:35 Challenge: 2 203 1: Client 2 got award 203
+ 17:35 Challenge: 2 1 1: Client 2 got award 1
+ 17:35 Challenge: 3 2 1: Client 3 got award 2
+ 17:35 PlayerScore: 2 6: DarkWolf now has 6 points
+ 17:35 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 17:35 Item: 2 ammo_cells
+ 17:36 Item: 2 weapon_shotgun
+ 17:36 Item: 2 team_CTF_redflag
+ 17:36 PlayerScore: 2 7: DarkWolf now has 7 points
+ 17:36 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 17:37 Item: 1 team_CTF_blueflag
+ 17:37 CTF: 1 2 0: kar got the BLUE flag!
+ 17:37 PlayerScore: 1 11: kar now has 11 points
+ 17:38 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+ 17:38 PlayerScore: 3 9: Shakuntla now has 9 points
+ 17:38 Challenge: 3 202 1: Client 3 got award 202
+ 17:38 Challenge: 3 1 1: Client 3 got award 1
+ 17:38 Challenge: 1 2 1: Client 1 got award 2
+ 17:38 PlayerScore: 3 11: Shakuntla now has 11 points
+ 17:38 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 17:39 Item: 3 weapon_lightning
+ 17:39 Item: 3 team_CTF_blueflag
+ 17:39 PlayerScore: 3 12: Shakuntla now has 12 points
+ 17:39 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 17:42 Item: 2 weapon_rocketlauncher
+ 17:42 Item: 1 weapon_plasmagun
+ 17:42 Item: 3 ammo_rockets
+ 17:43 Item: 3 weapon_rocketlauncher
+ 17:46 Item: 0 weapon_lightning
+ 17:51 Item: 3 weapon_rocketlauncher
+ 17:51 Item: 2 ammo_rockets
+ 17:53 Item: 1 team_CTF_blueflag
+ 17:53 CTF: 1 2 0: kar got the BLUE flag!
+ 17:53 PlayerScore: 1 11: kar now has 11 points
+ 17:55 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 17:55 PlayerScore: 3 13: Shakuntla now has 13 points
+ 17:55 Challenge: 3 206 1: Client 3 got award 206
+ 17:55 Challenge: 3 1 1: Client 3 got award 1
+ 17:55 Challenge: 1 2 1: Client 1 got award 2
+ 17:55 PlayerScore: 3 15: Shakuntla now has 15 points
+ 17:55 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 17:56 Item: 0 team_CTF_redflag
+ 17:56 CTF: 0 1 0: DarthVader got the RED flag!
+ 17:56 PlayerScore: 0 15: DarthVader now has 15 points
+ 17:56 Item: 2 weapon_lightning
+ 17:57 Item: 3 team_CTF_blueflag
+ 17:57 PlayerScore: 3 16: Shakuntla now has 16 points
+ 17:57 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 17:57 Item: 0 item_health
+ 17:57 Item: 1 ammo_lightning
+ 17:58 Item: 3 weapon_rocketlauncher
+ 18:00 Item: 0 weapon_plasmagun
+ 18:00 Item: 2 ammo_rockets
+ 18:00 Item: 2 weapon_rocketlauncher
+ 18:00 Item: 2 ammo_rockets
+ 18:02 Item: 3 ammo_rockets
+ 18:03 Item: 2 weapon_lightning
+ 18:04 Item: 1 weapon_rocketlauncher
+ 18:04 Item: 1 ammo_rockets
+ 18:08 Item: 2 team_CTF_blueflag
+ 18:08 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 18:08 PlayerScore: 2 7: DarkWolf now has 7 points
+ 18:10 Item: 3 item_armor_combat
+ 18:10 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 18:10 PlayerScore: 0 16: DarthVader now has 16 points
+ 18:10 Challenge: 0 206 1: Client 0 got award 206
+ 18:10 Challenge: 0 1 1: Client 0 got award 1
+ 18:10 Challenge: 2 2 1: Client 2 got award 2
+ 18:10 PlayerScore: 0 18: DarthVader now has 18 points
+ 18:10 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 18:12 Item: 0 weapon_rocketlauncher
+ 18:13 Item: 2 weapon_rocketlauncher
+ 18:13 Item: 3 weapon_plasmagun
+ 18:19 Item: 2 weapon_rocketlauncher
+ 18:20 Kill: 3 1 8: Shakuntla killed kar by MOD_PLASMA
+ 18:20 PlayerScore: 3 17: Shakuntla now has 17 points
+ 18:20 Challenge: 3 207 1: Client 3 got award 207
+ 18:20 Challenge: 3 1 1: Client 3 got award 1
+ 18:20 Challenge: 1 2 1: Client 1 got award 2
+ 18:21 Item: 3 weapon_rocketlauncher
+ 18:21 Item: 3 weapon_rocketlauncher
+ 18:22 Item: 2 ammo_lightning
+ 18:22 Item: 2 weapon_lightning
+ 18:22 Item: 2 ammo_lightning
+ 18:23 Item: 1 weapon_shotgun
+ 18:25 Item: 2 team_CTF_blueflag
+ 18:25 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 18:25 PlayerScore: 2 7: DarkWolf now has 7 points
+ 18:26 Item: 2 weapon_lightning
+ 18:27 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+ 18:27 PlayerScore: 2 8: DarkWolf now has 8 points
+ 18:27 Challenge: 2 206 1: Client 2 got award 206
+ 18:27 Challenge: 2 1 1: Client 2 got award 1
+ 18:27 Challenge: 0 2 1: Client 0 got award 2
+ 18:27 PlayerScore: 2 10: DarkWolf now has 10 points
+ 18:27 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 18:30 Item: 2 team_CTF_redflag
+ 18:30 PlayerScore: 2 11: DarkWolf now has 11 points
+ 18:30 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 18:30 Item: 2 ammo_rockets
+ 18:31 Item: 0 weapon_lightning
+ 18:36 Item: 3 team_CTF_redflag
+ 18:36 CTF: 3 1 0: Shakuntla got the RED flag!
+ 18:36 PlayerScore: 3 17: Shakuntla now has 17 points
+ 18:36 Item: 1 ammo_cells
+ 18:37 Item: 1 weapon_plasmagun
+ 18:46 Item: 3 weapon_lightning
+ 18:53 Item: 1 weapon_lightning
+ 18:58 Item: 3 ammo_shells
+ 19:00 Item: 3 item_health_large
+ 19:00 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 19:00 PlayerScore: 3 18: Shakuntla now has 18 points
+ 19:00 Challenge: 3 206 1: Client 3 got award 206
+ 19:00 Challenge: 3 1 1: Client 3 got award 1
+ 19:00 Challenge: 1 2 1: Client 1 got award 2
+ 19:00 PlayerScore: 3 20: Shakuntla now has 20 points
+ 19:00 Challenge: 3 305 1: Client 3 got award 305
+ 19:00 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 19:03 Item: 3 weapon_lightning
+ 19:03 Item: 1 weapon_plasmagun
+ 19:04 Kill: 0 2 3: DarthVader killed DarkWolf by MOD_MACHINEGUN
+ 19:04 PlayerScore: 0 19: DarthVader now has 19 points
+ 19:04 Challenge: 0 202 1: Client 0 got award 202
+ 19:04 Challenge: 0 1 1: Client 0 got award 1
+ 19:04 Challenge: 2 2 1: Client 2 got award 2
+ 19:04 PlayerScore: 0 21: DarthVader now has 21 points
+ 19:04 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 19:07 Item: 0 weapon_rocketlauncher
+ 19:07 Item: 0 team_CTF_blueflag
+ 19:07 PlayerScore: 0 22: DarthVader now has 22 points
+ 19:07 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 19:08 Item: 2 weapon_shotgun
+ 19:08 Item: 3 team_CTF_blueflag
+ 19:08 CTF: 3 1 1: Shakuntla captured the RED flag!
+ 19:08 Award: 3 4: Shakuntla gained the CAPTURE award!
+ 19:08 Challenge: 3 303 1: Client 3 got award 303
+ 19:08 PlayerScore: 3 25: Shakuntla now has 25 points
+ 19:08 PlayerScore: 0 22: DarthVader now has 22 points
+ 19:08 PlayerScore: 0 23: DarthVader now has 23 points
+ 19:08 Challenge: 0 304 1: Client 0 got award 304
+ 19:08 Award: 0 5: DarthVader gained the ASSIST award!
+ 19:08 PlayerScore: 0 25: DarthVader now has 25 points
+ 19:08 Challenge: 0 304 1: Client 0 got award 304
+ 19:08 Award: 0 5: DarthVader gained the ASSIST award!
+ 19:09 Item: 3 weapon_rocketlauncher
+ 19:11 Kill: 1 3 8: kar killed Shakuntla by MOD_PLASMA
+ 19:11 PlayerScore: 1 12: kar now has 12 points
+ 19:11 Challenge: 1 207 1: Client 1 got award 207
+ 19:11 Challenge: 1 1 1: Client 1 got award 1
+ 19:11 Challenge: 3 2 1: Client 3 got award 2
+ 19:13 Item: 1 team_CTF_blueflag
+ 19:13 CTF: 1 2 0: kar got the BLUE flag!
+ 19:13 PlayerScore: 1 12: kar now has 12 points
+ 19:14 Item: 2 weapon_rocketlauncher
+ 19:14 Item: 3 weapon_rocketlauncher
+ 19:14 Item: 2 ammo_rockets
+ 19:15 Item: 0 weapon_plasmagun
+ 19:17 Item: 3 weapon_lightning
+ 19:18 Kill: 0 1 8: DarthVader killed kar by MOD_PLASMA
+ 19:18 PlayerScore: 0 26: DarthVader now has 26 points
+ 19:18 Challenge: 0 207 1: Client 0 got award 207
+ 19:18 Challenge: 0 1 1: Client 0 got award 1
+ 19:18 Challenge: 1 2 1: Client 1 got award 2
+ 19:18 PlayerScore: 0 28: DarthVader now has 28 points
+ 19:18 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 19:19 Item: 2 weapon_rocketlauncher
+ 19:19 Item: 2 ammo_rockets
+ 19:21 Item: 3 ammo_cells
+ 19:21 Item: 3 team_CTF_blueflag
+ 19:21 PlayerScore: 3 26: Shakuntla now has 26 points
+ 19:21 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 19:21 Item: 3 weapon_plasmagun
+ 19:21 Item: 3 weapon_plasmagun
+ 19:22 Item: 0 weapon_rocketlauncher
+ 19:23 Item: 0 ammo_rockets
+ 19:27 Item: 2 ammo_lightning
+ 19:27 Item: 2 weapon_lightning
+ 19:27 Item: 2 ammo_lightning
+ 19:27 Item: 0 weapon_rocketlauncher
+ 19:27 Item: 0 ammo_slugs
+ 19:28 Item: 0 ammo_rockets
+ 19:30 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 19:30 PlayerScore: 2 12: DarkWolf now has 12 points
+ 19:30 Challenge: 2 206 1: Client 2 got award 206
+ 19:30 Challenge: 2 1 1: Client 2 got award 1
+ 19:30 Challenge: 3 2 1: Client 3 got award 2
+ 19:30 Item: 1 weapon_rocketlauncher
+ 19:31 Item: 2 weapon_lightning
+ 19:33 Item: 3 weapon_shotgun
+ 19:39 Item: 0 weapon_rocketlauncher
+ 19:39 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 19:39 PlayerScore: 2 13: DarkWolf now has 13 points
+ 19:39 Challenge: 2 206 1: Client 2 got award 206
+ 19:39 Challenge: 2 1 1: Client 2 got award 1
+ 19:39 Challenge: 3 2 1: Client 3 got award 2
+ 19:40 Item: 2 item_armor_combat
+ 19:41 Item: 2 weapon_shotgun
+ 19:44 Item: 3 ammo_rockets
+ 19:44 Item: 2 ammo_lightning
+ 19:45 Item: 2 weapon_lightning
+ 19:47 Kill: 0 2 6: DarthVader killed DarkWolf by MOD_ROCKET
+ 19:47 PlayerScore: 0 29: DarthVader now has 29 points
+ 19:47 Challenge: 0 205 1: Client 0 got award 205
+ 19:47 Challenge: 0 1 1: Client 0 got award 1
+ 19:47 Challenge: 2 2 1: Client 2 got award 2
+ 19:49 Item: 2 weapon_rocketlauncher
+ 19:52 Item: 3 weapon_lightning
+ 19:52 Item: 0 ammo_rockets
+ 19:53 Item: 3 ammo_lightning
+ 19:53 Item: 3 weapon_lightning
+ 19:54 Item: 2 weapon_lightning
+ 19:59 Item: 1 ammo_rockets
+ 20:04 Item: 3 weapon_rocketlauncher
+ 20:08 Kill: 3 2 11: Shakuntla killed DarkWolf by MOD_LIGHTNING
+ 20:08 PlayerScore: 3 27: Shakuntla now has 27 points
+ 20:08 Challenge: 3 206 1: Client 3 got award 206
+ 20:08 Challenge: 3 1 1: Client 3 got award 1
+ 20:08 Challenge: 2 2 1: Client 2 got award 2
+ 20:08 PlayerScore: 3 28: Shakuntla now has 28 points
+ 20:08 Challenge: 3 305 1: Client 3 got award 305
+ 20:08 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 20:12 Item: 3 weapon_lightning
+ 20:14 Item: 3 item_health
+ 20:14 Item: 0 weapon_plasmagun
+ 20:16 Item: 1 ammo_cells
+ 20:16 Item: 0 item_health
+ 20:19 Item: 2 weapon_rocketlauncher
+ 20:20 Item: 2 ammo_rockets
+ 20:21 Item: 3 ammo_rockets
+ 20:23 Item: 1 weapon_lightning
+ 20:25 Kill: 0 1 8: DarthVader killed kar by MOD_PLASMA
+ 20:25 PlayerScore: 0 30: DarthVader now has 30 points
+ 20:25 Challenge: 0 207 1: Client 0 got award 207
+ 20:25 Challenge: 0 1 1: Client 0 got award 1
+ 20:25 Challenge: 1 2 1: Client 1 got award 2
+ 20:26 Item: 0 weapon_lightning
+ 20:26 Item: 3 weapon_rocketlauncher
+ 20:28 Item: 2 weapon_rocketlauncher
+ 20:28 Item: 1 weapon_shotgun
+ 20:32 Item: 3 ammo_rockets
+ 20:33 Item: 2 weapon_rocketlauncher
+ 20:37 Item: 3 weapon_rocketlauncher
+ 20:39 Item: 2 ammo_rockets
+ 20:41 Item: 2 weapon_rocketlauncher
+ 20:41 Item: 1 team_CTF_blueflag
+ 20:41 CTF: 1 2 0: kar got the BLUE flag!
+ 20:41 PlayerScore: 1 12: kar now has 12 points
+ 20:41 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 20:41 PlayerScore: 3 29: Shakuntla now has 29 points
+ 20:41 Challenge: 3 206 1: Client 3 got award 206
+ 20:41 Challenge: 3 1 1: Client 3 got award 1
+ 20:41 Challenge: 1 2 1: Client 1 got award 2
+ 20:41 PlayerScore: 3 31: Shakuntla now has 31 points
+ 20:41 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 20:41 Item: 3 item_health
+ 20:42 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 20:42 PlayerScore: 0 31: DarthVader now has 31 points
+ 20:42 Challenge: 0 206 1: Client 0 got award 206
+ 20:42 Challenge: 0 1 1: Client 0 got award 1
+ 20:42 Challenge: 2 2 1: Client 2 got award 2
+ 20:43 Item: 3 team_CTF_blueflag
+ 20:43 PlayerScore: 3 32: Shakuntla now has 32 points
+ 20:43 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 20:43 Item: 1 weapon_lightning
+ 20:43 Item: 0 team_CTF_redflag
+ 20:43 CTF: 0 1 0: DarthVader got the RED flag!
+ 20:43 PlayerScore: 0 31: DarthVader now has 31 points
+ 20:44 Item: 1 ammo_lightning
+ 20:44 Item: 3 weapon_rocketlauncher
+ 20:45 Item: 2 weapon_plasmagun
+ 20:46 Item: 1 ammo_rockets
+ 20:46 Item: 1 weapon_rocketlauncher
+ 20:47 Item: 1 ammo_rockets
+ 20:51 Item: 3 item_health
+ 20:52 Item: 0 item_armor_combat
+ 20:52 Item: 2 weapon_lightning
+ 20:52 Item: 2 ammo_lightning
+ 20:54 Item: 1 team_CTF_blueflag
+ 20:54 CTF: 1 2 0: kar got the BLUE flag!
+ 20:54 PlayerScore: 1 12: kar now has 12 points
+ 20:54 Item: 1 weapon_shotgun
+ 20:56 Item: 3 ammo_bullets
+ 20:58 Item: 1 ammo_shells
+ 21:01 Item: 1 weapon_rocketlauncher
+ 21:03 Item: 0 weapon_rocketlauncher
+ 21:08 Item: 1 weapon_rocketlauncher
+ 21:10 Item: 0 weapon_rocketlauncher
+ 21:10 Item: 0 ammo_rockets
+ 21:11 Item: 1 weapon_rocketlauncher
+ 21:11 Item: 3 weapon_lightning
+ 21:12 Item: 3 ammo_lightning
+ 21:12 Item: 1 ammo_rockets
+ 21:17 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 21:17 PlayerScore: 3 33: Shakuntla now has 33 points
+ 21:17 Challenge: 3 206 1: Client 3 got award 206
+ 21:17 Challenge: 3 1 1: Client 3 got award 1
+ 21:17 Challenge: 1 2 1: Client 1 got award 2
+ 21:17 PlayerScore: 3 35: Shakuntla now has 35 points
+ 21:17 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 21:18 Item: 3 weapon_shotgun
+ 21:18 Item: 3 team_CTF_blueflag
+ 21:18 PlayerScore: 3 36: Shakuntla now has 36 points
+ 21:18 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 21:20 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+ 21:20 PlayerScore: 2 14: DarkWolf now has 14 points
+ 21:20 Challenge: 2 206 1: Client 2 got award 206
+ 21:20 Challenge: 2 1 1: Client 2 got award 1
+ 21:20 Challenge: 0 2 1: Client 0 got award 2
+ 21:20 PlayerScore: 2 16: DarkWolf now has 16 points
+ 21:20 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 21:20 Item: 1 weapon_plasmagun
+ 21:20 Item: 2 team_CTF_redflag
+ 21:20 PlayerScore: 2 17: DarkWolf now has 17 points
+ 21:20 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 21:21 Item: 2 weapon_plasmagun
+ 21:23 Item: 1 weapon_shotgun
+ 21:23 Item: 0 weapon_rocketlauncher
+ 21:24 Item: 0 ammo_rockets
+ 21:24 Kill: 1 3 1: kar killed Shakuntla by MOD_SHOTGUN
+ 21:24 PlayerScore: 1 13: kar now has 13 points
+ 21:24 Challenge: 1 203 1: Client 1 got award 203
+ 21:24 Challenge: 1 1 1: Client 1 got award 1
+ 21:24 Challenge: 3 2 1: Client 3 got award 2
+ 21:24 Item: 1 weapon_shotgun
+ 21:24 Item: 2 weapon_rocketlauncher
+ 21:28 Item: 1 ammo_cells
+ 21:28 Item: 1 weapon_plasmagun
+ 21:28 Item: 0 weapon_lightning
+ 21:28 Item: 0 ammo_lightning
+ 21:29 Item: 2 weapon_plasmagun
+ 21:29 Item: 2 ammo_cells
+ 21:31 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 21:31 PlayerScore: 0 32: DarthVader now has 32 points
+ 21:31 Challenge: 0 206 1: Client 0 got award 206
+ 21:31 Challenge: 0 1 1: Client 0 got award 1
+ 21:31 Challenge: 1 2 1: Client 1 got award 2
+ 21:32 Item: 0 weapon_shotgun
+ 21:34 Item: 2 team_CTF_blueflag
+ 21:34 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 21:34 PlayerScore: 2 17: DarkWolf now has 17 points
+ 21:35 Item: 0 weapon_plasmagun
+ 21:35 Item: 1 weapon_rocketlauncher
+ 21:36 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 21:36 PlayerScore: 2 18: DarkWolf now has 18 points
+ 21:36 Challenge: 2 206 1: Client 2 got award 206
+ 21:36 Challenge: 2 1 1: Client 2 got award 1
+ 21:36 Challenge: 3 2 1: Client 3 got award 2
+ 21:36 Item: 1 ammo_rockets
+ 21:39 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 21:39 PlayerScore: 3 37: Shakuntla now has 37 points
+ 21:39 Challenge: 3 202 1: Client 3 got award 202
+ 21:39 Challenge: 3 1 1: Client 3 got award 1
+ 21:39 Challenge: 2 2 1: Client 2 got award 2
+ 21:39 PlayerScore: 3 39: Shakuntla now has 39 points
+ 21:39 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 21:41 Item: 3 weapon_lightning
+ 21:41 Item: 3 team_CTF_blueflag
+ 21:41 PlayerScore: 3 40: Shakuntla now has 40 points
+ 21:41 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 21:42 Item: 2 weapon_rocketlauncher
+ 21:45 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 21:45 PlayerScore: 0 33: DarthVader now has 33 points
+ 21:45 Challenge: 0 206 1: Client 0 got award 206
+ 21:45 Challenge: 0 1 1: Client 0 got award 1
+ 21:45 Challenge: 1 2 1: Client 1 got award 2
+ 21:45 Kill: 1 0 7: kar killed DarthVader by MOD_ROCKET_SPLASH
+ 21:45 PlayerScore: 1 14: kar now has 14 points
+ 21:45 Challenge: 1 205 1: Client 1 got award 205
+ 21:45 Challenge: 1 1 1: Client 1 got award 1
+ 21:45 Challenge: 0 2 1: Client 0 got award 2
+ 21:45 PlayerScore: 1 15: kar now has 15 points
+ 21:45 Challenge: 1 305 1: Client 1 got award 305
+ 21:45 Award: 1 3: kar gained the DEFENCE award!
+ 21:47 Item: 1 weapon_lightning
+ 21:47 Item: 2 ammo_shells
+ 21:49 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 21:49 PlayerScore: 1 16: kar now has 16 points
+ 21:49 Challenge: 1 206 1: Client 1 got award 206
+ 21:49 Challenge: 1 1 1: Client 1 got award 1
+ 21:49 Challenge: 3 2 1: Client 3 got award 2
+ 21:50 Item: 1 weapon_lightning
+ 21:52 Item: 3 weapon_lightning
+ 21:52 Item: 2 item_health_large
+ 21:54 Item: 2 ammo_rockets
+ 21:54 Item: 2 weapon_rocketlauncher
+ 21:54 Item: 2 ammo_rockets
+ 21:55 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 21:55 PlayerScore: 3 41: Shakuntla now has 41 points
+ 21:55 Challenge: 3 202 1: Client 3 got award 202
+ 21:55 Challenge: 3 1 1: Client 3 got award 1
+ 21:55 Challenge: 2 2 1: Client 2 got award 2
+ 21:56 Item: 3 weapon_rocketlauncher
+ 21:58 Item: 2 weapon_shotgun
+ 21:59 Item: 3 ammo_lightning
+ 21:59 Item: 3 weapon_lightning
+ 22:00 Item: 3 ammo_lightning
+ 22:01 Item: 2 weapon_shotgun
+ 22:01 Item: 1 team_CTF_blueflag
+ 22:01 CTF: 1 2 0: kar got the BLUE flag!
+ 22:01 PlayerScore: 1 16: kar now has 16 points
+ 22:02 Item: 2 weapon_rocketlauncher
+ 22:04 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+ 22:04 PlayerScore: 2 19: DarkWolf now has 19 points
+ 22:04 Challenge: 2 205 1: Client 2 got award 205
+ 22:04 Challenge: 2 1 1: Client 2 got award 1
+ 22:04 Challenge: 3 2 1: Client 3 got award 2
+ 22:04 PlayerScore: 2 20: DarkWolf now has 20 points
+ 22:04 Challenge: 2 305 1: Client 2 got award 305
+ 22:04 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 22:07 Item: 1 ammo_shells
+ 22:07 Item: 2 weapon_rocketlauncher
+ 22:08 Item: 1 item_health_large
+ 22:09 Item: 3 weapon_shotgun
+ 22:09 Item: 1 weapon_rocketlauncher
+ 22:11 Item: 2 weapon_lightning
+ 22:11 Kill: 1022 0 19: <world> killed DarthVader by MOD_FALLING
+ 22:11 PlayerScore: 0 32: DarthVader now has 32 points
+ 22:13 Item: 0 weapon_lightning
+ 22:17 Item: 2 weapon_rocketlauncher
+ 22:17 Kill: 3 1 1: Shakuntla killed kar by MOD_SHOTGUN
+ 22:17 PlayerScore: 3 42: Shakuntla now has 42 points
+ 22:17 Challenge: 3 203 1: Client 3 got award 203
+ 22:17 Challenge: 3 1 1: Client 3 got award 1
+ 22:17 Challenge: 1 2 1: Client 1 got award 2
+ 22:17 PlayerScore: 3 44: Shakuntla now has 44 points
+ 22:17 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 22:18 Item: 3 team_CTF_blueflag
+ 22:18 PlayerScore: 3 45: Shakuntla now has 45 points
+ 22:18 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 22:19 Item: 3 weapon_rocketlauncher
+ 22:19 Item: 1 weapon_rocketlauncher
+ 22:21 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 22:21 PlayerScore: 1 17: kar now has 17 points
+ 22:21 Challenge: 1 205 1: Client 1 got award 205
+ 22:21 Challenge: 1 1 1: Client 1 got award 1
+ 22:21 Challenge: 3 2 1: Client 3 got award 2
+ 22:21 PlayerScore: 1 18: kar now has 18 points
+ 22:21 Challenge: 1 305 1: Client 1 got award 305
+ 22:21 Award: 1 3: kar gained the DEFENCE award!
+ 22:24 Item: 1 weapon_rocketlauncher
+ 22:25 Item: 2 weapon_rocketlauncher
+ 22:25 Item: 2 ammo_rockets
+ 22:26 Item: 3 ammo_rockets
+ 22:30 Item: 0 weapon_lightning
+ 22:30 Item: 0 ammo_lightning
+ 22:30 Item: 0 ammo_lightning
+ 22:35 Item: 3 ammo_cells
+ 22:35 Item: 3 weapon_plasmagun
+ 22:36 Item: 1 ammo_rockets
+ 22:37 Item: 1 weapon_rocketlauncher
+ 22:37 Item: 1 ammo_rockets
+ 22:39 Item: 2 weapon_rocketlauncher
+ 22:39 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 22:39 PlayerScore: 0 33: DarthVader now has 33 points
+ 22:39 Challenge: 0 206 1: Client 0 got award 206
+ 22:39 Challenge: 0 1 1: Client 0 got award 1
+ 22:39 Challenge: 2 2 1: Client 2 got award 2
+ 22:41 Item: 0 team_CTF_redflag
+ 22:41 CTF: 0 1 0: DarthVader got the RED flag!
+ 22:41 PlayerScore: 0 33: DarthVader now has 33 points
+ 22:41 Item: 2 weapon_lightning
+ 22:42 Item: 2 ammo_lightning
+ 22:44 Item: 0 ammo_cells
+ 22:45 Kill: 3 1 8: Shakuntla killed kar by MOD_PLASMA
+ 22:45 PlayerScore: 3 46: Shakuntla now has 46 points
+ 22:45 Challenge: 3 207 1: Client 3 got award 207
+ 22:45 Challenge: 3 1 1: Client 3 got award 1
+ 22:45 Challenge: 1 2 1: Client 1 got award 2
+ 22:45 PlayerScore: 3 47: Shakuntla now has 47 points
+ 22:45 Challenge: 3 305 1: Client 3 got award 305
+ 22:45 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 22:45 Item: 0 weapon_plasmagun
+ 22:46 Item: 3 weapon_rocketlauncher
+ 22:48 Item: 3 weapon_rocketlauncher
+ 22:48 Item: 3 ammo_rockets
+ 22:51 Item: 1 ammo_lightning
+ 22:51 Item: 1 weapon_lightning
+ 22:54 Item: 1 weapon_rocketlauncher
+ 22:55 Item: 0 team_CTF_blueflag
+ 22:55 CTF: 0 1 1: DarthVader captured the RED flag!
+ 22:55 Award: 0 4: DarthVader gained the CAPTURE award!
+ 22:55 Challenge: 0 303 1: Client 0 got award 303
+ 22:55 PlayerScore: 0 38: DarthVader now has 38 points
+ 22:55 PlayerScore: 3 47: Shakuntla now has 47 points
+ 22:56 Item: 2 team_CTF_blueflag
+ 22:56 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 22:56 PlayerScore: 2 20: DarkWolf now has 20 points
+ 22:57 Item: 2 weapon_rocketlauncher
+ 22:58 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 22:58 PlayerScore: 0 39: DarthVader now has 39 points
+ 22:58 Challenge: 0 206 1: Client 0 got award 206
+ 22:58 Challenge: 0 1 1: Client 0 got award 1
+ 22:58 Challenge: 2 2 1: Client 2 got award 2
+ 22:58 PlayerScore: 0 41: DarthVader now has 41 points
+ 22:58 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 22:58 Item: 3 team_CTF_blueflag
+ 22:58 PlayerScore: 3 48: Shakuntla now has 48 points
+ 22:58 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 23:01 Item: 2 weapon_plasmagun
+ 23:01 Item: 3 weapon_rocketlauncher
+ 23:02 Item: 1 team_CTF_blueflag
+ 23:02 CTF: 1 2 0: kar got the BLUE flag!
+ 23:02 PlayerScore: 1 18: kar now has 18 points
+ 23:02 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 23:02 PlayerScore: 0 42: DarthVader now has 42 points
+ 23:02 Challenge: 0 206 1: Client 0 got award 206
+ 23:02 Challenge: 0 1 1: Client 0 got award 1
+ 23:02 Challenge: 1 2 1: Client 1 got award 2
+ 23:02 PlayerScore: 0 44: DarthVader now has 44 points
+ 23:02 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 23:03 Item: 3 weapon_rocketlauncher
+ 23:03 Item: 3 team_CTF_blueflag
+ 23:03 PlayerScore: 3 49: Shakuntla now has 49 points
+ 23:03 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 23:06 Item: 0 ammo_slugs
+ 23:06 Item: 0 weapon_rocketlauncher
+ 23:06 Item: 0 ammo_rockets
+ 23:06 Item: 3 item_health
+ 23:11 Item: 0 weapon_lightning
+ 23:11 Kill: 2 0 8: DarkWolf killed DarthVader by MOD_PLASMA
+ 23:11 PlayerScore: 2 21: DarkWolf now has 21 points
+ 23:11 Challenge: 2 207 1: Client 2 got award 207
+ 23:11 Challenge: 2 1 1: Client 2 got award 1
+ 23:11 Challenge: 0 2 1: Client 0 got award 2
+ 23:11 Item: 2 ammo_lightning
+ 23:11 Item: 2 ammo_lightning
+ 23:11 Item: 1 ammo_shells
+ 23:12 Item: 3 ammo_rockets
+ 23:13 Item: 0 weapon_rocketlauncher
+ 23:15 Item: 1 weapon_rocketlauncher
+ 23:19 Item: 2 weapon_rocketlauncher
+ 23:19 Item: 2 team_CTF_blueflag
+ 23:19 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 23:19 PlayerScore: 2 21: DarkWolf now has 21 points
+ 23:21 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 23:21 PlayerScore: 1 19: kar now has 19 points
+ 23:21 Challenge: 1 205 1: Client 1 got award 205
+ 23:21 Challenge: 1 1 1: Client 1 got award 1
+ 23:21 Challenge: 3 2 1: Client 3 got award 2
+ 23:21 PlayerScore: 1 20: kar now has 20 points
+ 23:21 Challenge: 1 305 1: Client 1 got award 305
+ 23:21 Award: 1 3: kar gained the DEFENCE award!
+ 23:24 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 23:24 PlayerScore: 1 21: kar now has 21 points
+ 23:24 Challenge: 1 205 1: Client 1 got award 205
+ 23:24 Challenge: 1 1 1: Client 1 got award 1
+ 23:24 Challenge: 0 2 1: Client 0 got award 2
+ 23:24 Award: 1 1: kar gained the EXCELLENT award!
+ 23:24 Challenge: 1 302 1: Client 1 got award 302
+ 23:24 PlayerScore: 1 22: kar now has 22 points
+ 23:24 Challenge: 1 305 1: Client 1 got award 305
+ 23:24 Award: 1 3: kar gained the DEFENCE award!
+ 23:25 Item: 2 ammo_bullets
+ 23:26 Item: 2 weapon_rocketlauncher
+ 23:27 Item: 0 weapon_rocketlauncher
+ 23:28 Item: 3 ammo_cells
+ 23:28 Item: 3 weapon_plasmagun
+ 23:28 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 23:28 PlayerScore: 1 23: kar now has 23 points
+ 23:28 Challenge: 1 205 1: Client 1 got award 205
+ 23:28 Challenge: 1 1 1: Client 1 got award 1
+ 23:28 Challenge: 3 2 1: Client 3 got award 2
+ 23:28 PlayerScore: 1 24: kar now has 24 points
+ 23:28 Challenge: 1 305 1: Client 1 got award 305
+ 23:28 Award: 1 3: kar gained the DEFENCE award!
+ 23:30 Item: 2 ammo_lightning
+ 23:30 Item: 2 weapon_lightning
+ 23:31 Item: 3 weapon_rocketlauncher
+ 23:32 Item: 0 weapon_lightning
+ 23:35 Item: 3 weapon_rocketlauncher
+ 23:35 Item: 2 team_CTF_redflag
+ 23:35 CTF: 2 2 1: DarkWolf captured the BLUE flag!
+ 23:35 Award: 2 4: DarkWolf gained the CAPTURE award!
+ 23:35 Challenge: 2 303 1: Client 2 got award 303
+ 23:35 PlayerScore: 2 26: DarkWolf now has 26 points
+ 23:35 PlayerScore: 1 24: kar now has 24 points
+ 23:36 Item: 2 ammo_rockets
+ 23:36 Item: 2 weapon_rocketlauncher
+ 23:42 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 23:42 PlayerScore: 0 45: DarthVader now has 45 points
+ 23:42 Challenge: 0 206 1: Client 0 got award 206
+ 23:42 Challenge: 0 1 1: Client 0 got award 1
+ 23:42 Challenge: 2 2 1: Client 2 got award 2
+ 23:42 Item: 3 weapon_plasmagun
+ 23:43 Item: 3 weapon_plasmagun
+ 23:43 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 23:43 PlayerScore: 0 46: DarthVader now has 46 points
+ 23:43 Challenge: 0 206 1: Client 0 got award 206
+ 23:43 Challenge: 0 1 1: Client 0 got award 1
+ 23:43 Challenge: 1 2 1: Client 1 got award 2
+ 23:43 Award: 0 1: DarthVader gained the EXCELLENT award!
+ 23:43 Challenge: 0 302 1: Client 0 got award 302
+ 23:45 Item: 2 weapon_shotgun
+ 23:45 Item: 0 team_CTF_redflag
+ 23:45 CTF: 0 1 0: DarthVader got the RED flag!
+ 23:45 PlayerScore: 0 46: DarthVader now has 46 points
+ 23:47 Kill: 1 0 3: kar killed DarthVader by MOD_MACHINEGUN
+ 23:47 PlayerScore: 1 25: kar now has 25 points
+ 23:47 Challenge: 1 202 1: Client 1 got award 202
+ 23:47 Challenge: 1 1 1: Client 1 got award 1
+ 23:47 Challenge: 0 2 1: Client 0 got award 2
+ 23:47 PlayerScore: 1 27: kar now has 27 points
+ 23:47 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 23:49 Item: 2 weapon_plasmagun
+ 23:49 Item: 1 team_CTF_redflag
+ 23:49 PlayerScore: 1 28: kar now has 28 points
+ 23:49 CTF: 1 1 2: kar returned the RED flag!
+ 23:50 Item: 3 weapon_railgun
+ 23:50 Item: 2 weapon_rocketlauncher
+ 23:51 Item: 1 ammo_lightning
+ 23:51 Item: 1 weapon_lightning
+ 23:54 Item: 1 ammo_rockets
+ 23:54 Item: 1 weapon_rocketlauncher
+ 23:54 Item: 1 ammo_rockets
+ 23:54 Item: 2 ammo_lightning
+ 23:54 Item: 2 weapon_lightning
+ 23:54 Item: 2 ammo_lightning
+ 23:55 Item: 3 team_CTF_redflag
+ 23:55 CTF: 3 1 0: Shakuntla got the RED flag!
+ 23:55 PlayerScore: 3 49: Shakuntla now has 49 points
+ 23:57 Item: 0 item_health
+ 23:59 Item: 0 item_health
+ 24:00 Item: 3 weapon_plasmagun
+ 24:00 Item: 2 team_CTF_blueflag
+ 24:00 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 24:00 PlayerScore: 2 26: DarkWolf now has 26 points
+ 24:06 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 24:06 PlayerScore: 1 29: kar now has 29 points
+ 24:06 Challenge: 1 205 1: Client 1 got award 205
+ 24:06 Challenge: 1 1 1: Client 1 got award 1
+ 24:06 Challenge: 0 2 1: Client 0 got award 2
+ 24:06 PlayerScore: 1 31: kar now has 31 points
+ 24:06 Award: 1 3: kar gained the DEFENCE award!
+ 24:06 Challenge: 1 305 1: Client 1 got award 305
+ 24:10 Kill: 3 1 8: Shakuntla killed kar by MOD_PLASMA
+ 24:10 PlayerScore: 3 50: Shakuntla now has 50 points
+ 24:10 Challenge: 3 207 1: Client 3 got award 207
+ 24:10 Challenge: 3 1 1: Client 3 got award 1
+ 24:10 Challenge: 1 2 1: Client 1 got award 2
+ 24:10 PlayerScore: 3 52: Shakuntla now has 52 points
+ 24:10 Challenge: 3 305 1: Client 3 got award 305
+ 24:10 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 24:10 Item: 0 ammo_shells
+ 24:10 Item: 0 ammo_bullets
+ 24:11 Item: 0 ammo_cells
+ 24:11 Item: 3 weapon_rocketlauncher
+ 24:12 Item: 1 weapon_rocketlauncher
+ 24:13 Item: 2 ammo_lightning
+ 24:13 Item: 2 weapon_lightning
+ 24:17 Item: 0 weapon_plasmagun
+ 24:17 Item: 3 weapon_rocketlauncher
+ 24:18 Item: 3 ammo_rockets
+ 24:21 Item: 2 item_health
+ 24:21 Item: 2 item_health
+ 24:22 Item: 0 weapon_lightning
+ 24:23 Item: 3 weapon_lightning
+ 24:27 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 24:27 PlayerScore: 0 47: DarthVader now has 47 points
+ 24:27 Challenge: 0 206 1: Client 0 got award 206
+ 24:27 Challenge: 0 1 1: Client 0 got award 1
+ 24:27 Challenge: 2 2 1: Client 2 got award 2
+ 24:27 PlayerScore: 0 49: DarthVader now has 49 points
+ 24:27 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 24:28 Item: 0 team_CTF_blueflag
+ 24:28 PlayerScore: 0 50: DarthVader now has 50 points
+ 24:28 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 24:28 Item: 0 weapon_lightning
+ 24:31 Item: 3 team_CTF_blueflag
+ 24:31 CTF: 3 1 1: Shakuntla captured the RED flag!
+ 24:31 Award: 3 4: Shakuntla gained the CAPTURE award!
+ 24:31 Challenge: 3 303 1: Client 3 got award 303
+ 24:31 PlayerScore: 3 57: Shakuntla now has 57 points
+ 24:31 PlayerScore: 0 50: DarthVader now has 50 points
+ 24:31 PlayerScore: 0 51: DarthVader now has 51 points
+ 24:31 Challenge: 0 304 1: Client 0 got award 304
+ 24:31 Award: 0 5: DarthVader gained the ASSIST award!
+ 24:31 PlayerScore: 0 53: DarthVader now has 53 points
+ 24:31 Challenge: 0 304 1: Client 0 got award 304
+ 24:31 Award: 0 5: DarthVader gained the ASSIST award!
+ 24:34 Item: 0 ammo_lightning
+ 24:34 Item: 0 weapon_lightning
+ 24:35 Item: 2 ammo_cells
+ 24:35 Item: 2 weapon_plasmagun
+ 24:36 Item: 3 item_health
+ 24:36 Item: 3 item_health
+ 24:37 Item: 2 weapon_rocketlauncher
+ 24:37 Item: 1 ammo_rockets
+ 24:41 Item: 2 ammo_lightning
+ 24:41 Item: 2 weapon_lightning
+ 24:41 Item: 2 ammo_lightning
+ 24:46 Item: 1 ammo_rockets
+ 24:46 Item: 0 weapon_lightning
+ 24:48 Item: 2 team_CTF_blueflag
+ 24:48 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 24:48 PlayerScore: 2 26: DarkWolf now has 26 points
+ 24:49 Item: 3 weapon_rocketlauncher
+ 24:49 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 24:49 PlayerScore: 2 27: DarkWolf now has 27 points
+ 24:49 Challenge: 2 206 1: Client 2 got award 206
+ 24:49 Challenge: 2 1 1: Client 2 got award 1
+ 24:49 Challenge: 3 2 1: Client 3 got award 2
+ 24:49 PlayerScore: 2 29: DarkWolf now has 29 points
+ 24:49 Challenge: 2 305 1: Client 2 got award 305
+ 24:49 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 24:49 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 24:49 PlayerScore: 0 54: DarthVader now has 54 points
+ 24:49 Challenge: 0 206 1: Client 0 got award 206
+ 24:49 Challenge: 0 1 1: Client 0 got award 1
+ 24:49 Challenge: 1 2 1: Client 1 got award 2
+ 24:52 Item: 0 team_CTF_redflag
+ 24:52 CTF: 0 1 0: DarthVader got the RED flag!
+ 24:52 PlayerScore: 0 54: DarthVader now has 54 points
+ 24:57 Item: 0 weapon_lightning
+ 24:57 Item: 0 ammo_lightning
+ 24:58 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 24:58 PlayerScore: 3 58: Shakuntla now has 58 points
+ 24:58 Challenge: 3 202 1: Client 3 got award 202
+ 24:58 Challenge: 3 1 1: Client 3 got award 1
+ 24:58 Challenge: 2 2 1: Client 2 got award 2
+ 24:58 PlayerScore: 3 60: Shakuntla now has 60 points
+ 24:58 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 24:59 Item: 0 team_CTF_blueflag
+ 24:59 PlayerScore: 0 55: DarthVader now has 55 points
+ 24:59 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 24:59 Item: 0 weapon_lightning
+ 25:04 Item: 2 ammo_rockets
+ 25:04 Item: 2 weapon_rocketlauncher
+ 25:05 Item: 2 ammo_rockets
+ 25:06 Item: 3 weapon_plasmagun
+ 25:06 Item: 3 ammo_cells
+ 25:09 Item: 1 weapon_rocketlauncher
+ 25:09 Item: 0 team_CTF_blueflag
+ 25:09 CTF: 0 1 1: DarthVader captured the RED flag!
+ 25:09 Award: 0 4: DarthVader gained the CAPTURE award!
+ 25:09 Challenge: 0 303 1: Client 0 got award 303
+ 25:09 PlayerScore: 0 60: DarthVader now has 60 points
+ 25:09 PlayerScore: 3 60: Shakuntla now has 60 points
+ 25:10 Item: 1 weapon_rocketlauncher
+ 25:10 Item: 0 weapon_rocketlauncher
+ 25:10 Item: 0 ammo_rockets
+ 25:11 Kill: 3 2 8: Shakuntla killed DarkWolf by MOD_PLASMA
+ 25:11 PlayerScore: 3 61: Shakuntla now has 61 points
+ 25:11 Challenge: 3 207 1: Client 3 got award 207
+ 25:11 Challenge: 3 1 1: Client 3 got award 1
+ 25:11 Challenge: 2 2 1: Client 2 got award 2
+ 25:11 PlayerScore: 3 62: Shakuntla now has 62 points
+ 25:11 Challenge: 3 305 1: Client 3 got award 305
+ 25:11 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 25:14 Item: 0 weapon_rocketlauncher
+ 25:15 Item: 3 weapon_rocketlauncher
+ 25:16 Item: 1 weapon_rocketlauncher
+ 25:17 Item: 3 ammo_rockets
+ 25:17 Item: 3 weapon_lightning
+ 25:19 Item: 3 item_health
+ 25:20 Item: 3 item_health
+ 25:20 Item: 2 ammo_cells
+ 25:20 Item: 2 weapon_plasmagun
+ 25:22 Item: 0 weapon_lightning
+ 25:22 Item: 2 weapon_rocketlauncher
+ 25:26 Item: 2 ammo_lightning
+ 25:26 Item: 2 weapon_lightning
+ 25:26 Item: 2 ammo_lightning
+ 25:28 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 25:28 PlayerScore: 1 32: kar now has 32 points
+ 25:28 Challenge: 1 205 1: Client 1 got award 205
+ 25:28 Challenge: 1 1 1: Client 1 got award 1
+ 25:28 Challenge: 0 2 1: Client 0 got award 2
+ 25:28 PlayerScore: 1 33: kar now has 33 points
+ 25:28 Challenge: 1 305 1: Client 1 got award 305
+ 25:28 Award: 1 3: kar gained the DEFENCE award!
+ 25:30 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 25:30 PlayerScore: 2 30: DarkWolf now has 30 points
+ 25:30 Challenge: 2 206 1: Client 2 got award 206
+ 25:30 Challenge: 2 1 1: Client 2 got award 1
+ 25:30 Challenge: 3 2 1: Client 3 got award 2
+ 25:31 Item: 0 weapon_rocketlauncher
+ 25:31 Item: 1 weapon_lightning
+ 25:32 Item: 2 team_CTF_blueflag
+ 25:32 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 25:32 PlayerScore: 2 30: DarkWolf now has 30 points
+ 25:39 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 25:39 PlayerScore: 2 31: DarkWolf now has 31 points
+ 25:39 Challenge: 2 206 1: Client 2 got award 206
+ 25:39 Challenge: 2 1 1: Client 2 got award 1
+ 25:39 Challenge: 3 2 1: Client 3 got award 2
+ 25:39 PlayerScore: 2 33: DarkWolf now has 33 points
+ 25:39 Challenge: 2 305 1: Client 2 got award 305
+ 25:39 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 25:39 Item: 2 weapon_rocketlauncher
+ 25:41 Item: 3 weapon_lightning
+ 25:41 Item: 1 weapon_rocketlauncher
+ 25:45 Item: 0 weapon_rocketlauncher
+ 25:46 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 25:46 PlayerScore: 1 34: kar now has 34 points
+ 25:46 Challenge: 1 206 1: Client 1 got award 206
+ 25:46 Challenge: 1 1 1: Client 1 got award 1
+ 25:46 Challenge: 3 2 1: Client 3 got award 2
+ 25:47 Kill: 0 1 7: DarthVader killed kar by MOD_ROCKET_SPLASH
+ 25:47 PlayerScore: 0 61: DarthVader now has 61 points
+ 25:47 Challenge: 0 205 1: Client 0 got award 205
+ 25:47 Challenge: 0 1 1: Client 0 got award 1
+ 25:47 Challenge: 1 2 1: Client 1 got award 2
+ 25:49 Item: 2 team_CTF_redflag
+ 25:49 CTF: 2 2 1: DarkWolf captured the BLUE flag!
+ 25:49 Award: 2 4: DarkWolf gained the CAPTURE award!
+ 25:49 Challenge: 2 303 1: Client 2 got award 303
+ 25:49 PlayerScore: 2 38: DarkWolf now has 38 points
+ 25:49 PlayerScore: 1 34: kar now has 34 points
+ 25:49 Item: 3 weapon_plasmagun
+ 25:49 Item: 1 weapon_rocketlauncher
+ 25:52 Kill: 0 2 3: DarthVader killed DarkWolf by MOD_MACHINEGUN
+ 25:52 PlayerScore: 0 62: DarthVader now has 62 points
+ 25:52 Challenge: 0 202 1: Client 0 got award 202
+ 25:52 Challenge: 0 1 1: Client 0 got award 1
+ 25:52 Challenge: 2 2 1: Client 2 got award 2
+ 25:53 Item: 0 weapon_rocketlauncher
+ 25:54 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 25:54 PlayerScore: 1 35: kar now has 35 points
+ 25:54 Challenge: 1 205 1: Client 1 got award 205
+ 25:54 Challenge: 1 1 1: Client 1 got award 1
+ 25:54 Challenge: 0 2 1: Client 0 got award 2
+ 25:54 PlayerScore: 1 36: kar now has 36 points
+ 25:54 Challenge: 1 305 1: Client 1 got award 305
+ 25:54 Award: 1 3: kar gained the DEFENCE award!
+ 25:55 Item: 3 ammo_lightning
+ 25:55 Item: 3 weapon_lightning
+ 25:55 Item: 3 ammo_lightning
+ 25:57 Item: 2 weapon_rocketlauncher
+ 25:57 Item: 2 weapon_rocketlauncher
+ 25:57 Item: 0 ammo_rockets
+ 25:58 Item: 0 ammo_bullets
+ 25:58 Item: 0 ammo_cells
+ 25:58 Item: 0 ammo_bullets
+ 25:58 Item: 2 ammo_rockets
+ 25:58 Kill: 2 3 6: DarkWolf killed Shakuntla by MOD_ROCKET
+ 25:58 PlayerScore: 2 39: DarkWolf now has 39 points
+ 25:58 Challenge: 2 205 1: Client 2 got award 205
+ 25:58 Challenge: 2 1 1: Client 2 got award 1
+ 25:58 Challenge: 3 2 1: Client 3 got award 2
+ 25:58 PlayerScore: 2 40: DarkWolf now has 40 points
+ 25:58 Challenge: 2 305 1: Client 2 got award 305
+ 25:58 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 26:00 Item: 0 weapon_shotgun
+ 26:00 Item: 2 weapon_lightning
+ 26:02 Item: 3 weapon_rocketlauncher
+ 26:03 Item: 1 ammo_rockets
+ 26:05 Item: 1 weapon_rocketlauncher
+ 26:06 Item: 2 ammo_rockets
+ 26:07 Item: 3 ammo_rockets
+ 26:10 Item: 1 weapon_rocketlauncher
+ 26:12 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 26:12 PlayerScore: 2 41: DarkWolf now has 41 points
+ 26:12 Challenge: 2 206 1: Client 2 got award 206
+ 26:12 Challenge: 2 1 1: Client 2 got award 1
+ 26:12 Challenge: 3 2 1: Client 3 got award 2
+ 26:14 Item: 3 weapon_lightning
+ 26:14 Item: 0 weapon_lightning
+ 26:14 Item: 2 team_CTF_blueflag
+ 26:14 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 26:14 PlayerScore: 2 41: DarkWolf now has 41 points
+ 26:15 Item: 3 ammo_lightning
+ 26:18 Item: 2 weapon_shotgun
+ 26:19 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 26:19 PlayerScore: 0 63: DarthVader now has 63 points
+ 26:19 Challenge: 0 206 1: Client 0 got award 206
+ 26:19 Challenge: 0 1 1: Client 0 got award 1
+ 26:19 Challenge: 2 2 1: Client 2 got award 2
+ 26:19 PlayerScore: 0 65: DarthVader now has 65 points
+ 26:19 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 26:20 Item: 0 ammo_shells
+ 26:20 Item: 3 weapon_railgun
+ 26:22 Item: 3 weapon_shotgun
+ 26:22 Item: 3 team_CTF_blueflag
+ 26:22 PlayerScore: 3 63: Shakuntla now has 63 points
+ 26:22 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 26:23 Item: 1 weapon_rocketlauncher
+ 26:23 Item: 1 ammo_rockets
+ 26:23 Item: 2 weapon_rocketlauncher
+ 26:28 Item: 3 weapon_lightning
+ 26:30 Item: 1 weapon_rocketlauncher
+ 26:31 Item: 1 team_CTF_blueflag
+ 26:31 CTF: 1 2 0: kar got the BLUE flag!
+ 26:31 PlayerScore: 1 36: kar now has 36 points
+ 26:31 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 26:31 PlayerScore: 0 66: DarthVader now has 66 points
+ 26:31 Challenge: 0 206 1: Client 0 got award 206
+ 26:31 Challenge: 0 1 1: Client 0 got award 1
+ 26:31 Challenge: 1 2 1: Client 1 got award 2
+ 26:31 PlayerScore: 0 68: DarthVader now has 68 points
+ 26:31 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 26:33 Item: 0 ammo_rockets
+ 26:34 Item: 0 team_CTF_blueflag
+ 26:34 PlayerScore: 0 69: DarthVader now has 69 points
+ 26:34 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 26:35 Item: 1 weapon_shotgun
+ 26:35 Item: 0 weapon_rocketlauncher
+ 26:35 Item: 3 team_CTF_redflag
+ 26:35 CTF: 3 1 0: Shakuntla got the RED flag!
+ 26:35 PlayerScore: 3 63: Shakuntla now has 63 points
+ 26:36 Item: 1 weapon_shotgun
+ 26:38 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 26:38 PlayerScore: 3 64: Shakuntla now has 64 points
+ 26:38 Challenge: 3 206 1: Client 3 got award 206
+ 26:38 Challenge: 3 1 1: Client 3 got award 1
+ 26:38 Challenge: 1 2 1: Client 1 got award 2
+ 26:38 PlayerScore: 3 66: Shakuntla now has 66 points
+ 26:38 Challenge: 3 305 1: Client 3 got award 305
+ 26:38 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 26:38 Item: 3 weapon_shotgun
+ 26:38 Kill: 2 0 6: DarkWolf killed DarthVader by MOD_ROCKET
+ 26:38 PlayerScore: 2 42: DarkWolf now has 42 points
+ 26:38 Challenge: 2 205 1: Client 2 got award 205
+ 26:38 Challenge: 2 1 1: Client 2 got award 1
+ 26:38 Challenge: 0 2 1: Client 0 got award 2
+ 26:39 Item: 2 weapon_rocketlauncher
+ 26:40 Item: 1 weapon_rocketlauncher
+ 26:40 Item: 1 ammo_slugs
+ 26:41 Item: 2 weapon_rocketlauncher
+ 26:41 Item: 2 team_CTF_blueflag
+ 26:41 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 26:41 PlayerScore: 2 42: DarkWolf now has 42 points
+ 26:42 Kill: 0 2 3: DarthVader killed DarkWolf by MOD_MACHINEGUN
+ 26:42 PlayerScore: 0 70: DarthVader now has 70 points
+ 26:42 Challenge: 0 202 1: Client 0 got award 202
+ 26:42 Challenge: 0 1 1: Client 0 got award 1
+ 26:42 Challenge: 2 2 1: Client 2 got award 2
+ 26:42 PlayerScore: 0 72: DarthVader now has 72 points
+ 26:42 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 26:46 Item: 1 ammo_rockets
+ 26:46 Item: 0 weapon_rocketlauncher
+ 26:46 Item: 1 weapon_rocketlauncher
+ 26:46 Item: 0 team_CTF_blueflag
+ 26:46 PlayerScore: 0 73: DarthVader now has 73 points
+ 26:46 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 26:49 Item: 0 weapon_rocketlauncher
+ 26:49 Item: 0 ammo_rockets
+ 26:50 Item: 3 team_CTF_blueflag
+ 26:50 CTF: 3 1 1: Shakuntla captured the RED flag!
+ 26:50 Award: 3 4: Shakuntla gained the CAPTURE award!
+ 26:50 Challenge: 3 303 1: Client 3 got award 303
+ 26:50 PlayerScore: 3 71: Shakuntla now has 71 points
+ 26:50 PlayerScore: 0 73: DarthVader now has 73 points
+ 26:50 PlayerScore: 0 74: DarthVader now has 74 points
+ 26:50 Challenge: 0 304 1: Client 0 got award 304
+ 26:50 Award: 0 5: DarthVader gained the ASSIST award!
+ 26:50 PlayerScore: 0 76: DarthVader now has 76 points
+ 26:50 Challenge: 0 304 1: Client 0 got award 304
+ 26:50 Award: 0 5: DarthVader gained the ASSIST award!
+ 26:52 Item: 2 ammo_cells
+ 26:52 Item: 2 weapon_plasmagun
+ 26:54 Item: 1 team_CTF_blueflag
+ 26:54 CTF: 1 2 0: kar got the BLUE flag!
+ 26:54 PlayerScore: 1 36: kar now has 36 points
+ 26:54 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 26:54 PlayerScore: 3 72: Shakuntla now has 72 points
+ 26:54 Challenge: 3 206 1: Client 3 got award 206
+ 26:54 Challenge: 3 1 1: Client 3 got award 1
+ 26:54 Challenge: 1 2 1: Client 1 got award 2
+ 26:54 PlayerScore: 3 74: Shakuntla now has 74 points
+ 26:54 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 26:54 Kill: 1 3 7: kar killed Shakuntla by MOD_ROCKET_SPLASH
+ 26:54 PlayerScore: 1 37: kar now has 37 points
+ 26:54 Challenge: 1 205 1: Client 1 got award 205
+ 26:54 Challenge: 1 1 1: Client 1 got award 1
+ 26:54 Challenge: 3 2 1: Client 3 got award 2
+ 26:57 Item: 3 weapon_lightning
+ 26:58 Item: 1 ammo_rockets
+ 26:58 Item: 1 weapon_rocketlauncher
+ 26:58 Item: 2 ammo_lightning
+ 26:58 Item: 1 ammo_rockets
+ 27:02 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 27:02 PlayerScore: 3 75: Shakuntla now has 75 points
+ 27:02 Challenge: 3 202 1: Client 3 got award 202
+ 27:02 Challenge: 3 1 1: Client 3 got award 1
+ 27:02 Challenge: 2 2 1: Client 2 got award 2
+ 27:02 PlayerScore: 3 76: Shakuntla now has 76 points
+ 27:02 Challenge: 3 305 1: Client 3 got award 305
+ 27:02 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 27:02 Item: 3 weapon_plasmagun
+ 27:05 Item: 2 weapon_plasmagun
+ 27:05 Item: 3 weapon_rocketlauncher
+ 27:05 Item: 0 weapon_lightning
+ 27:05 Item: 3 team_CTF_blueflag
+ 27:05 PlayerScore: 3 77: Shakuntla now has 77 points
+ 27:05 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 27:05 Item: 0 ammo_lightning
+ 27:06 Item: 3 weapon_lightning
+ 27:08 Item: 3 item_health
+ 27:08 Item: 2 weapon_rocketlauncher
+ 27:08 Item: 3 item_health
+ 27:13 Item: 2 weapon_lightning
+ 27:15 Item: 3 weapon_rocketlauncher
+ 27:16 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 27:16 PlayerScore: 0 77: DarthVader now has 77 points
+ 27:16 Challenge: 0 206 1: Client 0 got award 206
+ 27:16 Challenge: 0 1 1: Client 0 got award 1
+ 27:16 Challenge: 2 2 1: Client 2 got award 2
+ 27:16 Item: 0 weapon_lightning
+ 27:16 Item: 1 weapon_rocketlauncher
+ 27:19 Item: 0 weapon_lightning
+ 27:22 Item: 3 weapon_rocketlauncher
+ 27:25 Item: 1 ammo_lightning
+ 27:26 Item: 1 ammo_lightning
+ 27:26 Item: 1 weapon_lightning
+ 27:27 Item: 2 weapon_rocketlauncher
+ 27:29 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 27:29 PlayerScore: 0 78: DarthVader now has 78 points
+ 27:29 Challenge: 0 206 1: Client 0 got award 206
+ 27:29 Challenge: 0 1 1: Client 0 got award 1
+ 27:29 Challenge: 2 2 1: Client 2 got award 2
+ 27:30 Item: 3 ammo_rockets
+ 27:30 Item: 0 team_CTF_redflag
+ 27:30 CTF: 0 1 0: DarthVader got the RED flag!
+ 27:30 PlayerScore: 0 78: DarthVader now has 78 points
+ 27:32 Item: 0 item_health
+ 27:32 Item: 1 weapon_rocketlauncher
+ 27:33 Kill: 2 0 3: DarkWolf killed DarthVader by MOD_MACHINEGUN
+ 27:33 PlayerScore: 2 43: DarkWolf now has 43 points
+ 27:33 Challenge: 2 202 1: Client 2 got award 202
+ 27:33 Challenge: 2 1 1: Client 2 got award 1
+ 27:33 Challenge: 0 2 1: Client 0 got award 2
+ 27:33 PlayerScore: 2 45: DarkWolf now has 45 points
+ 27:33 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 27:34 Item: 1 item_health
+ 27:34 Item: 1 team_CTF_redflag
+ 27:34 PlayerScore: 1 38: kar now has 38 points
+ 27:34 CTF: 1 1 2: kar returned the RED flag!
+ 27:34 Item: 1 weapon_lightning
+ 27:36 Item: 0 weapon_rocketlauncher
+ 27:39 Item: 2 ammo_rockets
+ 27:39 Item: 3 weapon_rocketlauncher
+ 27:39 Item: 2 weapon_rocketlauncher
+ 27:41 Item: 0 weapon_lightning
+ 27:44 Item: 0 ammo_rockets
+ 27:44 Item: 0 weapon_rocketlauncher
+ 27:44 Item: 0 ammo_rockets
+ 27:46 Item: 2 weapon_rocketlauncher
+ 27:49 Item: 2 ammo_rockets
+ 27:50 Item: 3 item_health
+ 27:50 Item: 3 item_health
+ 27:53 Item: 1 weapon_rocketlauncher
+ 27:53 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 27:53 PlayerScore: 0 79: DarthVader now has 79 points
+ 27:53 Challenge: 0 206 1: Client 0 got award 206
+ 27:53 Challenge: 0 1 1: Client 0 got award 1
+ 27:53 Challenge: 2 2 1: Client 2 got award 2
+ 27:54 Kill: 2 0 7: DarkWolf killed DarthVader by MOD_ROCKET_SPLASH
+ 27:54 PlayerScore: 2 46: DarkWolf now has 46 points
+ 27:54 Challenge: 2 205 1: Client 2 got award 205
+ 27:54 Challenge: 2 1 1: Client 2 got award 1
+ 27:54 Challenge: 0 2 1: Client 0 got award 2
+ 27:54 PlayerScore: 2 47: DarkWolf now has 47 points
+ 27:54 Challenge: 2 305 1: Client 2 got award 305
+ 27:54 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 27:56 Item: 0 weapon_rocketlauncher
+ 27:57 Item: 2 weapon_rocketlauncher
+ 27:58 Item: 1 weapon_rocketlauncher
+ 28:00 Item: 0 ammo_lightning
+ 28:00 Item: 0 weapon_lightning
+ 28:01 Item: 0 ammo_lightning
+ 28:01 Item: 1 weapon_lightning
+ 28:10 Kill: 2 0 6: DarkWolf killed DarthVader by MOD_ROCKET
+ 28:10 PlayerScore: 2 48: DarkWolf now has 48 points
+ 28:10 Challenge: 2 205 1: Client 2 got award 205
+ 28:10 Challenge: 2 1 1: Client 2 got award 1
+ 28:10 Challenge: 0 2 1: Client 0 got award 2
+ 28:10 PlayerScore: 2 49: DarkWolf now has 49 points
+ 28:10 Challenge: 2 305 1: Client 2 got award 305
+ 28:10 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 28:12 Item: 1 weapon_lightning
+ 28:13 Item: 0 weapon_rocketlauncher
+ 28:17 Item: 0 weapon_lightning
+ 28:19 Item: 1 ammo_rockets
+ 28:20 Item: 2 weapon_rocketlauncher
+ 28:25 Item: 1 weapon_rocketlauncher
+ 28:27 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 28:27 PlayerScore: 0 80: DarthVader now has 80 points
+ 28:27 Challenge: 0 206 1: Client 0 got award 206
+ 28:27 Challenge: 0 1 1: Client 0 got award 1
+ 28:27 Challenge: 1 2 1: Client 1 got award 2
+ 28:29 Item: 0 team_CTF_redflag
+ 28:29 CTF: 0 1 0: DarthVader got the RED flag!
+ 28:29 PlayerScore: 0 80: DarthVader now has 80 points
+ 28:30 Item: 1 weapon_plasmagun
+ 28:30 Kill: 3 2 11: Shakuntla killed DarkWolf by MOD_LIGHTNING
+ 28:30 PlayerScore: 3 78: Shakuntla now has 78 points
+ 28:30 Challenge: 3 206 1: Client 3 got award 206
+ 28:30 Challenge: 3 1 1: Client 3 got award 1
+ 28:30 Challenge: 2 2 1: Client 2 got award 2
+ 28:30 PlayerScore: 3 79: Shakuntla now has 79 points
+ 28:30 Challenge: 3 305 1: Client 3 got award 305
+ 28:30 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 28:32 Item: 3 weapon_rocketlauncher
+ 28:35 Item: 1 weapon_rocketlauncher
+ 28:36 Item: 2 weapon_lightning
+ 28:43 Item: 3 weapon_shotgun
+ 28:44 Item: 0 team_CTF_blueflag
+ 28:44 CTF: 0 1 1: DarthVader captured the RED flag!
+ 28:44 Award: 0 4: DarthVader gained the CAPTURE award!
+ 28:44 Challenge: 0 303 1: Client 0 got award 303
+ 28:44 PlayerScore: 0 85: DarthVader now has 85 points
+ 28:44 PlayerScore: 3 79: Shakuntla now has 79 points
+ 28:44 Item: 1 team_CTF_blueflag
+ 28:44 CTF: 1 2 0: kar got the BLUE flag!
+ 28:44 PlayerScore: 1 38: kar now has 38 points
+ 28:45 Item: 0 weapon_rocketlauncher
+ 28:45 Item: 0 ammo_rockets
+ 28:50 Item: 0 weapon_lightning
+ 28:50 Item: 0 ammo_lightning
+ 28:51 Kill: 2 3 3: DarkWolf killed Shakuntla by MOD_MACHINEGUN
+ 28:51 PlayerScore: 2 50: DarkWolf now has 50 points
+ 28:51 Challenge: 2 202 1: Client 2 got award 202
+ 28:51 Challenge: 2 1 1: Client 2 got award 1
+ 28:51 Challenge: 3 2 1: Client 3 got award 2
+ 28:53 Item: 2 weapon_shotgun
+ 28:53 Item: 3 weapon_rocketlauncher
+ 28:58 Item: 2 weapon_plasmagun
+ 28:59 Item: 3 weapon_railgun
+ 29:00 Item: 1 team_CTF_redflag
+ 29:00 CTF: 1 2 1: kar captured the BLUE flag!
+ 29:00 Award: 1 4: kar gained the CAPTURE award!
+ 29:00 Challenge: 1 303 1: Client 1 got award 303
+ 29:00 PlayerScore: 1 43: kar now has 43 points
+ 29:00 PlayerScore: 2 50: DarkWolf now has 50 points
+ 29:02 Kill: 1 0 6: kar killed DarthVader by MOD_ROCKET
+ 29:02 PlayerScore: 1 44: kar now has 44 points
+ 29:02 Challenge: 1 205 1: Client 1 got award 205
+ 29:02 Challenge: 1 1 1: Client 1 got award 1
+ 29:02 Challenge: 0 2 1: Client 0 got award 2
+ 29:02 PlayerScore: 1 45: kar now has 45 points
+ 29:02 Challenge: 1 305 1: Client 1 got award 305
+ 29:02 Award: 1 3: kar gained the DEFENCE award!
+ 29:02 Item: 2 item_armor_combat
+ 29:03 Item: 1 weapon_lightning
+ 29:04 Kill: 2 3 8: DarkWolf killed Shakuntla by MOD_PLASMA
+ 29:04 PlayerScore: 2 51: DarkWolf now has 51 points
+ 29:04 Challenge: 2 207 1: Client 2 got award 207
+ 29:04 Challenge: 2 1 1: Client 2 got award 1
+ 29:04 Challenge: 3 2 1: Client 3 got award 2
+ 29:05 Item: 1 weapon_rocketlauncher
+ 29:05 Item: 1 ammo_rockets
+ 29:06 Item: 2 weapon_rocketlauncher
+ 29:06 Item: 0 ammo_shells
+ 29:06 Item: 0 ammo_bullets
+ 29:06 Item: 0 ammo_cells
+ 29:07 Item: 0 ammo_bullets
+ 29:11 Item: 2 ammo_cells
+ 29:11 Item: 3 ammo_lightning
+ 29:11 Item: 3 weapon_lightning
+ 29:14 Item: 0 weapon_rocketlauncher
+ 29:14 Item: 2 team_CTF_blueflag
+ 29:14 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 29:14 PlayerScore: 2 51: DarkWolf now has 51 points
+ 29:18 Item: 1 weapon_rocketlauncher
+ 29:19 Item: 0 weapon_lightning
+ 29:21 Item: 2 weapon_rocketlauncher
+ 29:21 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 29:21 PlayerScore: 3 80: Shakuntla now has 80 points
+ 29:21 Challenge: 3 206 1: Client 3 got award 206
+ 29:21 Challenge: 3 1 1: Client 3 got award 1
+ 29:21 Challenge: 1 2 1: Client 1 got award 2
+ 29:22 Item: 3 team_CTF_redflag
+ 29:22 CTF: 3 1 0: Shakuntla got the RED flag!
+ 29:22 PlayerScore: 3 80: Shakuntla now has 80 points
+ 29:24 Item: 1 weapon_lightning
+ 29:25 Item: 2 ammo_lightning
+ 29:25 Item: 2 weapon_lightning
+ 29:25 Item: 2 ammo_lightning
+ 29:28 Item: 3 item_health_large
+ 29:28 Item: 1 ammo_shells
+ 29:29 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 29:29 PlayerScore: 1 46: kar now has 46 points
+ 29:29 Challenge: 1 206 1: Client 1 got award 206
+ 29:29 Challenge: 1 1 1: Client 1 got award 1
+ 29:29 Challenge: 3 2 1: Client 3 got award 2
+ 29:29 PlayerScore: 1 48: kar now has 48 points
+ 29:29 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 29:32 Item: 1 team_CTF_redflag
+ 29:32 PlayerScore: 1 49: kar now has 49 points
+ 29:32 CTF: 1 1 2: kar returned the RED flag!
+ 29:33 Item: 2 weapon_rocketlauncher
+ 29:34 Item: 2 ammo_rockets
+ 29:34 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 29:34 PlayerScore: 0 86: DarthVader now has 86 points
+ 29:34 Challenge: 0 206 1: Client 0 got award 206
+ 29:34 Challenge: 0 1 1: Client 0 got award 1
+ 29:34 Challenge: 2 2 1: Client 2 got award 2
+ 29:34 PlayerScore: 0 88: DarthVader now has 88 points
+ 29:34 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 29:36 Item: 0 team_CTF_redflag
+ 29:36 CTF: 0 1 0: DarthVader got the RED flag!
+ 29:36 PlayerScore: 0 88: DarthVader now has 88 points
+ 29:36 Item: 2 weapon_rocketlauncher
+ 29:37 Item: 3 weapon_plasmagun
+ 29:38 Kill: 2 0 6: DarkWolf killed DarthVader by MOD_ROCKET
+ 29:38 PlayerScore: 2 52: DarkWolf now has 52 points
+ 29:38 Challenge: 2 205 1: Client 2 got award 205
+ 29:38 Challenge: 2 1 1: Client 2 got award 1
+ 29:38 Challenge: 0 2 1: Client 0 got award 2
+ 29:38 PlayerScore: 2 54: DarkWolf now has 54 points
+ 29:38 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 29:39 Item: 1 weapon_rocketlauncher
+ 29:39 Item: 1 team_CTF_blueflag
+ 29:39 CTF: 1 2 0: kar got the BLUE flag!
+ 29:39 PlayerScore: 1 49: kar now has 49 points
+ 29:40 Item: 2 team_CTF_redflag
+ 29:40 PlayerScore: 2 55: DarkWolf now has 55 points
+ 29:40 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 29:41 Item: 1 team_CTF_redflag
+ 29:41 CTF: 1 2 1: kar captured the BLUE flag!
+ 29:41 Award: 1 4: kar gained the CAPTURE award!
+ 29:41 Challenge: 1 303 1: Client 1 got award 303
+ 29:41 PlayerScore: 1 54: kar now has 54 points
+ 29:41 PlayerScore: 2 55: DarkWolf now has 55 points
+ 29:41 PlayerScore: 2 56: DarkWolf now has 56 points
+ 29:41 Challenge: 2 304 1: Client 2 got award 304
+ 29:41 Award: 2 5: DarkWolf gained the ASSIST award!
+ 29:41 PlayerScore: 2 58: DarkWolf now has 58 points
+ 29:41 Challenge: 2 304 1: Client 2 got award 304
+ 29:41 Award: 2 5: DarkWolf gained the ASSIST award!
+ 29:41 Item: 0 weapon_shotgun
+ 29:42 Item: 3 weapon_lightning
+ 29:42 Item: 2 weapon_lightning
+ 29:43 Item: 1 weapon_rocketlauncher
+ 29:48 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 29:48 PlayerScore: 2 59: DarkWolf now has 59 points
+ 29:48 Challenge: 2 206 1: Client 2 got award 206
+ 29:48 Challenge: 2 1 1: Client 2 got award 1
+ 29:48 Challenge: 3 2 1: Client 3 got award 2
+ 29:48 PlayerScore: 2 60: DarkWolf now has 60 points
+ 29:48 Challenge: 2 305 1: Client 2 got award 305
+ 29:48 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 29:51 Item: 0 weapon_rocketlauncher
+ 29:51 Item: 0 ammo_slugs
+ 29:51 Item: 0 ammo_rockets
+ 29:52 Item: 1 weapon_lightning
+ 29:52 Item: 1 ammo_slugs
+ 29:52 Item: 1 weapon_rocketlauncher
+ 29:54 Item: 2 ammo_rockets
+ 29:55 Item: 2 weapon_rocketlauncher
+ 30:06 Item: 1 weapon_rocketlauncher
+ 30:07 Item: 0 weapon_lightning
+ 30:07 Item: 0 ammo_lightning
+ 30:08 Item: 3 weapon_railgun
+ 30:09 Item: 3 ammo_shells
+ 30:18 Item: 1 ammo_rockets
+ 30:18 Item: 2 ammo_lightning
+ 30:18 Item: 2 weapon_lightning
+ 30:19 Item: 2 ammo_lightning
+ 30:19 Item: 3 weapon_lightning
+ 30:19 Item: 3 ammo_lightning
+ 30:20 Item: 1 weapon_rocketlauncher
+ 30:24 Item: 3 item_health
+ 30:24 Item: 3 item_health
+ 30:26 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 30:26 PlayerScore: 2 61: DarkWolf now has 61 points
+ 30:26 Challenge: 2 206 1: Client 2 got award 206
+ 30:26 Challenge: 2 1 1: Client 2 got award 1
+ 30:26 Challenge: 3 2 1: Client 3 got award 2
+ 30:28 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 30:28 PlayerScore: 0 89: DarthVader now has 89 points
+ 30:28 Challenge: 0 206 1: Client 0 got award 206
+ 30:28 Challenge: 0 1 1: Client 0 got award 1
+ 30:28 Challenge: 1 2 1: Client 1 got award 2
+ 30:29 Item: 3 weapon_rocketlauncher
+ 30:30 Item: 2 team_CTF_blueflag
+ 30:30 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 30:30 PlayerScore: 2 61: DarkWolf now has 61 points
+ 30:30 Item: 1 weapon_rocketlauncher
+ 30:30 Item: 0 team_CTF_redflag
+ 30:30 CTF: 0 1 0: DarthVader got the RED flag!
+ 30:30 PlayerScore: 0 89: DarthVader now has 89 points
+ 30:33 Item: 3 weapon_lightning
+ 30:34 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 30:34 PlayerScore: 0 90: DarthVader now has 90 points
+ 30:34 Challenge: 0 206 1: Client 0 got award 206
+ 30:34 Challenge: 0 1 1: Client 0 got award 1
+ 30:34 Challenge: 1 2 1: Client 1 got award 2
+ 30:34 PlayerScore: 0 92: DarthVader now has 92 points
+ 30:34 Challenge: 0 305 1: Client 0 got award 305
+ 30:34 Award: 0 3: DarthVader gained the DEFENCE award!
+ 30:34 Item: 2 ammo_shells
+ 30:35 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 30:35 PlayerScore: 2 62: DarkWolf now has 62 points
+ 30:35 Challenge: 2 206 1: Client 2 got award 206
+ 30:35 Challenge: 2 1 1: Client 2 got award 1
+ 30:35 Challenge: 3 2 1: Client 3 got award 2
+ 30:36 Item: 0 item_health_large
+ 30:37 Item: 1 weapon_shotgun
+ 30:38 Item: 3 weapon_shotgun
+ 30:40 Item: 0 weapon_plasmagun
+ 30:40 Item: 2 ammo_rockets
+ 30:41 Item: 0 ammo_cells
+ 30:41 Item: 2 weapon_rocketlauncher
+ 30:41 Item: 2 ammo_rockets
+ 30:43 Item: 3 weapon_rocketlauncher
+ 30:45 Item: 1 weapon_lightning
+ 30:46 Item: 0 weapon_rocketlauncher
+ 30:47 Item: 3 item_armor_combat
+ 30:48 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 30:48 PlayerScore: 1 55: kar now has 55 points
+ 30:48 Challenge: 1 206 1: Client 1 got award 206
+ 30:48 Challenge: 1 1 1: Client 1 got award 1
+ 30:48 Challenge: 0 2 1: Client 0 got award 2
+ 30:48 PlayerScore: 1 57: kar now has 57 points
+ 30:48 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 30:49 Item: 1 weapon_rocketlauncher
+ 30:49 Item: 1 team_CTF_redflag
+ 30:49 PlayerScore: 1 58: kar now has 58 points
+ 30:49 CTF: 1 1 2: kar returned the RED flag!
+ 30:50 Item: 3 weapon_plasmagun
+ 30:51 Item: 3 ammo_cells
+ 30:51 Item: 2 team_CTF_redflag
+ 30:51 CTF: 2 2 1: DarkWolf captured the BLUE flag!
+ 30:51 Award: 2 4: DarkWolf gained the CAPTURE award!
+ 30:51 Challenge: 2 303 1: Client 2 got award 303
+ 30:51 PlayerScore: 2 67: DarkWolf now has 67 points
+ 30:51 PlayerScore: 1 58: kar now has 58 points
+ 30:51 PlayerScore: 1 59: kar now has 59 points
+ 30:51 Challenge: 1 304 1: Client 1 got award 304
+ 30:51 Award: 1 5: kar gained the ASSIST award!
+ 30:51 PlayerScore: 1 61: kar now has 61 points
+ 30:51 Challenge: 1 304 1: Client 1 got award 304
+ 30:51 Award: 1 5: kar gained the ASSIST award!
+ 30:52 Item: 0 weapon_shotgun
+ 30:54 Item: 1 weapon_lightning
+ 30:54 Item: 1 ammo_lightning
+ 30:55 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+ 30:55 PlayerScore: 2 68: DarkWolf now has 68 points
+ 30:55 Challenge: 2 205 1: Client 2 got award 205
+ 30:55 Challenge: 2 1 1: Client 2 got award 1
+ 30:55 Challenge: 3 2 1: Client 3 got award 2
+ 30:55 PlayerScore: 2 69: DarkWolf now has 69 points
+ 30:55 Challenge: 2 305 1: Client 2 got award 305
+ 30:55 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 30:56 Item: 2 ammo_rockets
+ 30:57 Item: 2 weapon_rocketlauncher
+ 30:59 Item: 0 ammo_lightning
+ 30:59 Item: 0 weapon_lightning
+ 30:59 Item: 0 ammo_lightning
+ 31:01 Item: 2 weapon_rocketlauncher
+ 31:01 Item: 1 team_CTF_blueflag
+ 31:01 CTF: 1 2 0: kar got the BLUE flag!
+ 31:01 PlayerScore: 1 61: kar now has 61 points
+ 31:02 Item: 2 ammo_rockets
+ 31:03 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 31:03 PlayerScore: 0 93: DarthVader now has 93 points
+ 31:03 Challenge: 0 206 1: Client 0 got award 206
+ 31:03 Challenge: 0 1 1: Client 0 got award 1
+ 31:03 Challenge: 2 2 1: Client 2 got award 2
+ 31:04 Item: 0 weapon_rocketlauncher
+ 31:04 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+ 31:04 PlayerScore: 3 81: Shakuntla now has 81 points
+ 31:04 Challenge: 3 202 1: Client 3 got award 202
+ 31:04 Challenge: 3 1 1: Client 3 got award 1
+ 31:04 Challenge: 1 2 1: Client 1 got award 2
+ 31:04 PlayerScore: 3 83: Shakuntla now has 83 points
+ 31:04 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 31:05 Item: 0 team_CTF_redflag
+ 31:05 CTF: 0 1 0: DarthVader got the RED flag!
+ 31:05 PlayerScore: 0 93: DarthVader now has 93 points
+ 31:06 Item: 2 weapon_plasmagun
+ 31:07 Item: 3 team_CTF_blueflag
+ 31:07 PlayerScore: 3 84: Shakuntla now has 84 points
+ 31:07 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 31:07 Item: 1 weapon_shotgun
+ 31:09 Item: 0 weapon_plasmagun
+ 31:09 Item: 2 ammo_bullets
+ 31:09 Kill: 2 0 8: DarkWolf killed DarthVader by MOD_PLASMA
+ 31:09 PlayerScore: 2 70: DarkWolf now has 70 points
+ 31:09 Challenge: 2 207 1: Client 2 got award 207
+ 31:09 Challenge: 2 1 1: Client 2 got award 1
+ 31:09 Challenge: 0 2 1: Client 0 got award 2
+ 31:09 PlayerScore: 2 72: DarkWolf now has 72 points
+ 31:09 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 31:10 Item: 2 weapon_shotgun
+ 31:10 Item: 3 weapon_rocketlauncher
+ 31:10 Item: 1 team_CTF_redflag
+ 31:10 PlayerScore: 1 62: kar now has 62 points
+ 31:10 CTF: 1 1 2: kar returned the RED flag!
+ 31:11 Item: 3 ammo_rockets
+ 31:12 Item: 0 weapon_lightning
+ 31:13 Item: 3 item_health
+ 31:13 Item: 3 item_health
+ 31:16 Item: 1 ammo_lightning
+ 31:16 Item: 3 weapon_plasmagun
+ 31:17 Item: 2 weapon_rocketlauncher
+ 31:21 Item: 3 weapon_lightning
+ 31:21 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 31:21 PlayerScore: 0 94: DarthVader now has 94 points
+ 31:21 Challenge: 0 206 1: Client 0 got award 206
+ 31:21 Challenge: 0 1 1: Client 0 got award 1
+ 31:21 Challenge: 1 2 1: Client 1 got award 2
+ 31:21 PlayerScore: 0 95: DarthVader now has 95 points
+ 31:21 Challenge: 0 305 1: Client 0 got award 305
+ 31:21 Award: 0 3: DarthVader gained the DEFENCE award!
+ 31:22 Item: 0 weapon_rocketlauncher
+ 31:23 Kill: 2 3 6: DarkWolf killed Shakuntla by MOD_ROCKET
+ 31:23 PlayerScore: 2 73: DarkWolf now has 73 points
+ 31:23 Challenge: 2 205 1: Client 2 got award 205
+ 31:23 Challenge: 2 1 1: Client 2 got award 1
+ 31:23 Challenge: 3 2 1: Client 3 got award 2
+ 31:23 PlayerScore: 2 74: DarkWolf now has 74 points
+ 31:23 Challenge: 2 305 1: Client 2 got award 305
+ 31:23 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 31:24 Item: 0 weapon_shotgun
+ 31:24 Item: 2 weapon_rocketlauncher
+ 31:25 Item: 0 weapon_rocketlauncher
+ 31:25 Item: 0 ammo_rockets
+ 31:26 Item: 3 weapon_plasmagun
+ 31:30 Item: 0 weapon_lightning
+ 31:31 Item: 2 weapon_lightning
+ 31:33 Item: 1 weapon_lightning
+ 31:36 Item: 1 ammo_rockets
+ 31:36 Item: 1 weapon_rocketlauncher
+ 31:36 Item: 1 ammo_rockets
+ 31:39 Item: 1 ammo_lightning
+ 31:39 Item: 1 weapon_lightning
+ 31:41 Item: 2 weapon_rocketlauncher
+ 31:43 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 31:43 PlayerScore: 0 96: DarthVader now has 96 points
+ 31:43 Challenge: 0 206 1: Client 0 got award 206
+ 31:43 Challenge: 0 1 1: Client 0 got award 1
+ 31:43 Challenge: 1 2 1: Client 1 got award 2
+ 31:43 PlayerScore: 0 97: DarthVader now has 97 points
+ 31:43 Challenge: 0 305 1: Client 0 got award 305
+ 31:43 Award: 0 3: DarthVader gained the DEFENCE award!
+ 31:45 Item: 1 weapon_rocketlauncher
+ 31:47 Item: 0 weapon_rocketlauncher
+ 31:47 Item: 0 ammo_slugs
+ 31:47 Kill: 3 2 3: Shakuntla killed DarkWolf by MOD_MACHINEGUN
+ 31:47 PlayerScore: 3 85: Shakuntla now has 85 points
+ 31:47 Challenge: 3 202 1: Client 3 got award 202
+ 31:47 Challenge: 3 1 1: Client 3 got award 1
+ 31:47 Challenge: 2 2 1: Client 2 got award 2
+ 31:48 Item: 0 ammo_rockets
+ 31:48 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 31:48 PlayerScore: 1 63: kar now has 63 points
+ 31:48 Challenge: 1 205 1: Client 1 got award 205
+ 31:48 Challenge: 1 1 1: Client 1 got award 1
+ 31:48 Challenge: 3 2 1: Client 3 got award 2
+ 31:48 PlayerScore: 1 64: kar now has 64 points
+ 31:48 Challenge: 1 305 1: Client 1 got award 305
+ 31:48 Award: 1 3: kar gained the DEFENCE award!
+ 31:51 Item: 2 weapon_rocketlauncher
+ 31:51 Item: 2 weapon_rocketlauncher
+ 31:52 Item: 2 ammo_rockets
+ 31:53 Item: 0 weapon_lightning
+ 31:55 Item: 1 ammo_lightning
+ 31:55 Item: 1 weapon_lightning
+ 31:56 Item: 1 ammo_lightning
+ 31:58 Item: 2 weapon_rocketlauncher
+ 31:58 Item: 1 weapon_rocketlauncher
+ 31:58 Item: 0 item_health
+ 31:58 Item: 2 ammo_rockets
+ 31:58 Item: 0 item_health
+ 32:01 Item: 3 weapon_lightning
+ 32:03 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 32:03 PlayerScore: 0 98: DarthVader now has 98 points
+ 32:03 Challenge: 0 206 1: Client 0 got award 206
+ 32:03 Challenge: 0 1 1: Client 0 got award 1
+ 32:03 Challenge: 1 2 1: Client 1 got award 2
+ 32:03 PlayerScore: 0 99: DarthVader now has 99 points
+ 32:03 Challenge: 0 305 1: Client 0 got award 305
+ 32:03 Award: 0 3: DarthVader gained the DEFENCE award!
+ 32:05 Item: 2 weapon_rocketlauncher
+ 32:10 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+ 32:10 PlayerScore: 2 75: DarkWolf now has 75 points
+ 32:10 Challenge: 2 205 1: Client 2 got award 205
+ 32:10 Challenge: 2 1 1: Client 2 got award 1
+ 32:10 Challenge: 3 2 1: Client 3 got award 2
+ 32:10 PlayerScore: 2 76: DarkWolf now has 76 points
+ 32:10 Challenge: 2 305 1: Client 2 got award 305
+ 32:10 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 32:11 Item: 2 item_health
+ 32:13 Item: 0 weapon_lightning
+ 32:13 Item: 2 weapon_rocketlauncher
+ 32:14 Item: 3 weapon_plasmagun
+ 32:16 Item: 1 weapon_lightning
+ 32:19 Item: 2 weapon_rocketlauncher
+ 32:22 Item: 1 weapon_rocketlauncher
+ 32:23 Item: 1 ammo_bullets
+ 32:24 Item: 1 ammo_shells
+ 32:25 Kill: 2 3 7: DarkWolf killed Shakuntla by MOD_ROCKET_SPLASH
+ 32:25 PlayerScore: 2 77: DarkWolf now has 77 points
+ 32:25 Challenge: 2 205 1: Client 2 got award 205
+ 32:25 Challenge: 2 1 1: Client 2 got award 1
+ 32:25 Challenge: 3 2 1: Client 3 got award 2
+ 32:25 PlayerScore: 2 78: DarkWolf now has 78 points
+ 32:25 Challenge: 2 305 1: Client 2 got award 305
+ 32:25 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 32:26 Item: 2 item_health
+ 32:27 Item: 2 weapon_plasmagun
+ 32:28 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 32:28 PlayerScore: 0 100: DarthVader now has 100 points
+ 32:28 Challenge: 0 206 1: Client 0 got award 206
+ 32:28 Challenge: 0 1 1: Client 0 got award 1
+ 32:28 Challenge: 1 2 1: Client 1 got award 2
+ 32:28 PlayerScore: 0 101: DarthVader now has 101 points
+ 32:28 Challenge: 0 305 1: Client 0 got award 305
+ 32:28 Award: 0 3: DarthVader gained the DEFENCE award!
+ 32:29 Item: 0 weapon_rocketlauncher
+ 32:30 Item: 2 weapon_rocketlauncher
+ 32:31 Item: 0 ammo_rockets
+ 32:32 Item: 1 weapon_lightning
+ 32:32 Item: 0 ammo_rockets
+ 32:32 Item: 2 ammo_rockets
+ 32:35 Item: 1 ammo_rockets
+ 32:35 Item: 1 weapon_rocketlauncher
+ 32:35 Item: 1 ammo_rockets
+ 32:36 Item: 2 weapon_rocketlauncher
+ 32:36 Item: 3 weapon_rocketlauncher
+ 32:38 Item: 1 ammo_lightning
+ 32:38 Item: 1 weapon_lightning
+ 32:38 Item: 1 ammo_lightning
+ 32:39 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 32:39 PlayerScore: 1 65: kar now has 65 points
+ 32:39 Challenge: 1 206 1: Client 1 got award 206
+ 32:39 Challenge: 1 1 1: Client 1 got award 1
+ 32:39 Challenge: 0 2 1: Client 0 got award 2
+ 32:41 Item: 1 weapon_shotgun
+ 32:42 Item: 3 weapon_rocketlauncher
+ 32:43 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+ 32:43 PlayerScore: 3 86: Shakuntla now has 86 points
+ 32:43 Challenge: 3 202 1: Client 3 got award 202
+ 32:43 Challenge: 3 1 1: Client 3 got award 1
+ 32:43 Challenge: 1 2 1: Client 1 got award 2
+ 32:43 PlayerScore: 3 87: Shakuntla now has 87 points
+ 32:43 Challenge: 3 305 1: Client 3 got award 305
+ 32:43 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 32:43 Item: 3 weapon_rocketlauncher
+ 32:44 Item: 0 ammo_rockets
+ 32:44 Item: 0 ammo_bullets
+ 32:44 Item: 2 weapon_rocketlauncher
+ 32:44 Item: 0 ammo_cells
+ 32:45 Item: 0 ammo_bullets
+ 32:45 Item: 2 ammo_rockets
+ 32:45 Item: 0 ammo_shells
+ 32:45 Item: 1 weapon_rocketlauncher
+ 32:46 Item: 0 weapon_plasmagun
+ 32:48 Item: 3 weapon_rocketlauncher
+ 32:49 Item: 1 ammo_lightning
+ 32:49 Item: 1 weapon_lightning
+ 32:49 Item: 1 ammo_lightning
+ 32:51 Item: 2 weapon_rocketlauncher
+ 32:55 Item: 3 weapon_rocketlauncher
+ 32:56 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 32:56 PlayerScore: 1 66: kar now has 66 points
+ 32:56 Challenge: 1 206 1: Client 1 got award 206
+ 32:56 Challenge: 1 1 1: Client 1 got award 1
+ 32:56 Challenge: 0 2 1: Client 0 got award 2
+ 32:56 PlayerScore: 1 67: kar now has 67 points
+ 32:56 Challenge: 1 305 1: Client 1 got award 305
+ 32:56 Award: 1 3: kar gained the DEFENCE award!
+ 32:58 Item: 1 weapon_lightning
+ 32:59 Item: 0 weapon_plasmagun
+ 33:00 Item: 3 weapon_rocketlauncher
+ 33:01 Item: 2 weapon_rocketlauncher
+ 33:02 Item: 1 weapon_rocketlauncher
+ 33:05 Item: 2 item_health
+ 33:05 Item: 2 item_health
+ 33:08 Kill: 3 1 3: Shakuntla killed kar by MOD_MACHINEGUN
+ 33:08 PlayerScore: 3 88: Shakuntla now has 88 points
+ 33:08 Challenge: 3 202 1: Client 3 got award 202
+ 33:08 Challenge: 3 1 1: Client 3 got award 1
+ 33:08 Challenge: 1 2 1: Client 1 got award 2
+ 33:08 PlayerScore: 3 89: Shakuntla now has 89 points
+ 33:08 Challenge: 3 305 1: Client 3 got award 305
+ 33:08 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 33:10 Item: 1 weapon_lightning
+ 33:10 Item: 0 weapon_lightning
+ 33:11 Item: 3 item_health
+ 33:11 Item: 3 item_health
+ 33:11 Item: 1 weapon_plasmagun
+ 33:13 Item: 2 ammo_rockets
+ 33:15 Item: 3 ammo_rockets
+ 33:15 Item: 2 weapon_rocketlauncher
+ 33:15 Item: 1 ammo_rockets
+ 33:15 Item: 1 weapon_rocketlauncher
+ 33:15 Item: 3 weapon_rocketlauncher
+ 33:15 Item: 1 ammo_rockets
+ 33:21 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 33:21 PlayerScore: 1 68: kar now has 68 points
+ 33:21 Challenge: 1 206 1: Client 1 got award 206
+ 33:21 Challenge: 1 1 1: Client 1 got award 1
+ 33:21 Challenge: 3 2 1: Client 3 got award 2
+ 33:22 Item: 1 team_CTF_blueflag
+ 33:22 CTF: 1 2 0: kar got the BLUE flag!
+ 33:22 PlayerScore: 1 68: kar now has 68 points
+ 33:23 Item: 3 weapon_rocketlauncher
+ 33:23 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 33:23 PlayerScore: 0 102: DarthVader now has 102 points
+ 33:23 Challenge: 0 206 1: Client 0 got award 206
+ 33:23 Challenge: 0 1 1: Client 0 got award 1
+ 33:23 Challenge: 2 2 1: Client 2 got award 2
+ 33:24 Item: 0 team_CTF_redflag
+ 33:24 CTF: 0 1 0: DarthVader got the RED flag!
+ 33:24 PlayerScore: 0 102: DarthVader now has 102 points
+ 33:25 Item: 2 weapon_lightning
+ 33:27 Item: 1 weapon_plasmagun
+ 33:28 Item: 0 ammo_shells
+ 33:35 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+ 33:35 PlayerScore: 2 79: DarkWolf now has 79 points
+ 33:35 Challenge: 2 206 1: Client 2 got award 206
+ 33:35 Challenge: 2 1 1: Client 2 got award 1
+ 33:35 Challenge: 0 2 1: Client 0 got award 2
+ 33:35 PlayerScore: 2 81: DarkWolf now has 81 points
+ 33:35 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 33:35 Item: 2 team_CTF_redflag
+ 33:35 PlayerScore: 2 82: DarkWolf now has 82 points
+ 33:35 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 33:35 Item: 2 weapon_lightning
+ 33:39 Item: 0 ammo_shells
+ 33:39 Item: 0 ammo_bullets
+ 33:39 Item: 0 ammo_cells
+ 33:40 Item: 0 ammo_bullets
+ 33:40 Item: 0 ammo_rockets
+ 33:40 Kill: 1 3 8: kar killed Shakuntla by MOD_PLASMA
+ 33:40 PlayerScore: 1 69: kar now has 69 points
+ 33:40 Challenge: 1 207 1: Client 1 got award 207
+ 33:40 Challenge: 1 1 1: Client 1 got award 1
+ 33:40 Challenge: 3 2 1: Client 3 got award 2
+ 33:40 PlayerScore: 1 71: kar now has 71 points
+ 33:40 Challenge: 1 305 1: Client 1 got award 305
+ 33:40 Award: 1 3: kar gained the DEFENCE award!
+ 33:42 Item: 3 weapon_lightning
+ 33:43 Item: 1 team_CTF_redflag
+ 33:43 CTF: 1 2 1: kar captured the BLUE flag!
+ 33:43 Award: 1 4: kar gained the CAPTURE award!
+ 33:43 Challenge: 1 303 1: Client 1 got award 303
+ 33:43 PlayerScore: 1 76: kar now has 76 points
+ 33:43 PlayerScore: 2 82: DarkWolf now has 82 points
+ 33:43 PlayerScore: 2 83: DarkWolf now has 83 points
+ 33:43 Challenge: 2 304 1: Client 2 got award 304
+ 33:43 Award: 2 5: DarkWolf gained the ASSIST award!
+ 33:43 PlayerScore: 2 85: DarkWolf now has 85 points
+ 33:43 Challenge: 2 304 1: Client 2 got award 304
+ 33:43 Award: 2 5: DarkWolf gained the ASSIST award!
+ 33:44 Item: 1 weapon_rocketlauncher
+ 33:45 Item: 1 ammo_rockets
+ 33:45 Item: 1 weapon_rocketlauncher
+ 33:47 Item: 0 ammo_lightning
+ 33:47 Item: 0 weapon_lightning
+ 33:47 Item: 0 ammo_lightning
+ 33:50 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 33:50 PlayerScore: 0 103: DarthVader now has 103 points
+ 33:50 Challenge: 0 206 1: Client 0 got award 206
+ 33:50 Challenge: 0 1 1: Client 0 got award 1
+ 33:50 Challenge: 1 2 1: Client 1 got award 2
+ 33:51 Item: 3 weapon_plasmagun
+ 33:53 Item: 3 item_health
+ 33:53 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 33:53 PlayerScore: 0 104: DarthVader now has 104 points
+ 33:53 Challenge: 0 206 1: Client 0 got award 206
+ 33:53 Challenge: 0 1 1: Client 0 got award 1
+ 33:53 Challenge: 2 2 1: Client 2 got award 2
+ 33:54 Item: 0 team_CTF_redflag
+ 33:54 CTF: 0 1 0: DarthVader got the RED flag!
+ 33:54 PlayerScore: 0 104: DarthVader now has 104 points
+ 33:57 Kill: 1 0 3: kar killed DarthVader by MOD_MACHINEGUN
+ 33:57 PlayerScore: 1 77: kar now has 77 points
+ 33:57 Challenge: 1 202 1: Client 1 got award 202
+ 33:57 Challenge: 1 1 1: Client 1 got award 1
+ 33:57 Challenge: 0 2 1: Client 0 got award 2
+ 33:57 PlayerScore: 1 79: kar now has 79 points
+ 33:57 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 33:58 Item: 1 team_CTF_redflag
+ 33:58 PlayerScore: 1 80: kar now has 80 points
+ 33:58 CTF: 1 1 2: kar returned the RED flag!
+ 33:58 Item: 1 weapon_lightning
+ 34:01 Item: 0 ammo_rockets
+ 34:01 Item: 0 weapon_rocketlauncher
+ 34:02 Kill: 2 3 3: DarkWolf killed Shakuntla by MOD_MACHINEGUN
+ 34:02 PlayerScore: 2 86: DarkWolf now has 86 points
+ 34:02 Challenge: 2 202 1: Client 2 got award 202
+ 34:02 Challenge: 2 1 1: Client 2 got award 1
+ 34:02 Challenge: 3 2 1: Client 3 got award 2
+ 34:02 PlayerScore: 2 87: DarkWolf now has 87 points
+ 34:02 Challenge: 2 305 1: Client 2 got award 305
+ 34:02 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 34:05 Item: 3 weapon_shotgun
+ 34:06 Item: 2 weapon_rocketlauncher
+ 34:06 Item: 2 ammo_rockets
+ 34:07 Item: 3 weapon_plasmagun
+ 34:08 Item: 0 ammo_lightning
+ 34:08 Item: 0 weapon_lightning
+ 34:08 Item: 0 ammo_lightning
+ 34:10 Item: 0 ammo_rockets
+ 34:13 Item: 3 weapon_lightning
+ 34:14 Item: 2 weapon_rocketlauncher
+ 34:15 Item: 0 ammo_cells
+ 34:16 Kill: 3 2 11: Shakuntla killed DarkWolf by MOD_LIGHTNING
+ 34:16 PlayerScore: 3 90: Shakuntla now has 90 points
+ 34:16 Challenge: 3 206 1: Client 3 got award 206
+ 34:16 Challenge: 3 1 1: Client 3 got award 1
+ 34:16 Challenge: 2 2 1: Client 2 got award 2
+ 34:16 Item: 1 weapon_rocketlauncher
+ 34:17 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 34:17 PlayerScore: 3 91: Shakuntla now has 91 points
+ 34:17 Challenge: 3 206 1: Client 3 got award 206
+ 34:17 Challenge: 3 1 1: Client 3 got award 1
+ 34:17 Challenge: 1 2 1: Client 1 got award 2
+ 34:17 Award: 3 1: Shakuntla gained the EXCELLENT award!
+ 34:17 Challenge: 3 302 1: Client 3 got award 302
+ 34:19 Item: 0 team_CTF_redflag
+ 34:19 CTF: 0 1 0: DarthVader got the RED flag!
+ 34:19 PlayerScore: 0 104: DarthVader now has 104 points
+ 34:20 Item: 1 weapon_plasmagun
+ 34:20 Kill: 3 2 11: Shakuntla killed DarkWolf by MOD_LIGHTNING
+ 34:20 PlayerScore: 3 92: Shakuntla now has 92 points
+ 34:20 Challenge: 3 206 1: Client 3 got award 206
+ 34:20 Challenge: 3 1 1: Client 3 got award 1
+ 34:20 Challenge: 2 2 1: Client 2 got award 2
+ 34:20 PlayerScore: 3 94: Shakuntla now has 94 points
+ 34:20 Award: 3 3: Shakuntla gained the DEFENCE award!
+ 34:20 Challenge: 3 305 1: Client 3 got award 305
+ 34:23 Kill: 1 0 8: kar killed DarthVader by MOD_PLASMA
+ 34:23 PlayerScore: 1 81: kar now has 81 points
+ 34:23 Challenge: 1 207 1: Client 1 got award 207
+ 34:23 Challenge: 1 1 1: Client 1 got award 1
+ 34:23 Challenge: 0 2 1: Client 0 got award 2
+ 34:23 PlayerScore: 1 83: kar now has 83 points
+ 34:23 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 34:23 Item: 1 weapon_lightning
+ 34:23 Item: 1 team_CTF_redflag
+ 34:23 PlayerScore: 1 84: kar now has 84 points
+ 34:23 CTF: 1 1 2: kar returned the RED flag!
+ 34:24 Kill: 2 3 3: DarkWolf killed Shakuntla by MOD_MACHINEGUN
+ 34:24 PlayerScore: 2 88: DarkWolf now has 88 points
+ 34:24 Challenge: 2 202 1: Client 2 got award 202
+ 34:24 Challenge: 2 1 1: Client 2 got award 1
+ 34:24 Challenge: 3 2 1: Client 3 got award 2
+ 34:24 PlayerScore: 2 89: DarkWolf now has 89 points
+ 34:24 Challenge: 2 305 1: Client 2 got award 305
+ 34:24 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 34:25 Item: 2 weapon_plasmagun
+ 34:26 Item: 0 ammo_rockets
+ 34:27 Item: 0 weapon_rocketlauncher
+ 34:28 Item: 2 weapon_rocketlauncher
+ 34:29 Item: 2 weapon_rocketlauncher
+ 34:30 Item: 2 ammo_rockets
+ 34:32 Item: 3 weapon_lightning
+ 34:37 Item: 0 ammo_cells
+ 34:38 Item: 0 ammo_shells
+ 34:40 Kill: 3 2 11: Shakuntla killed DarkWolf by MOD_LIGHTNING
+ 34:40 PlayerScore: 3 95: Shakuntla now has 95 points
+ 34:40 Challenge: 3 206 1: Client 3 got award 206
+ 34:40 Challenge: 3 1 1: Client 3 got award 1
+ 34:40 Challenge: 2 2 1: Client 2 got award 2
+ 34:41 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 34:41 PlayerScore: 1 85: kar now has 85 points
+ 34:41 Challenge: 1 206 1: Client 1 got award 206
+ 34:41 Challenge: 1 1 1: Client 1 got award 1
+ 34:41 Challenge: 3 2 1: Client 3 got award 2
+ 34:41 PlayerScore: 1 86: kar now has 86 points
+ 34:41 Challenge: 1 305 1: Client 1 got award 305
+ 34:41 Award: 1 3: kar gained the DEFENCE award!
+ 34:43 Item: 2 weapon_rocketlauncher
+ 34:43 Item: 1 weapon_lightning
+ 34:44 Item: 3 weapon_rocketlauncher
+ 34:46 Item: 0 ammo_rockets
+ 34:48 Item: 3 ammo_lightning
+ 34:48 Item: 3 weapon_lightning
+ 34:48 Item: 3 ammo_lightning
+ 34:49 Item: 2 weapon_rocketlauncher
+ 34:49 Item: 2 ammo_rockets
+ 34:49 Item: 2 weapon_rocketlauncher
+ 34:55 Item: 2 weapon_rocketlauncher
+ 34:57 Kill: 3 1 11: Shakuntla killed kar by MOD_LIGHTNING
+ 34:57 PlayerScore: 3 96: Shakuntla now has 96 points
+ 34:57 Challenge: 3 206 1: Client 3 got award 206
+ 34:57 Challenge: 3 1 1: Client 3 got award 1
+ 34:57 Challenge: 1 2 1: Client 1 got award 2
+ 34:58 Kill: 2 3 6: DarkWolf killed Shakuntla by MOD_ROCKET
+ 34:58 PlayerScore: 2 90: DarkWolf now has 90 points
+ 34:58 Challenge: 2 205 1: Client 2 got award 205
+ 34:58 Challenge: 2 1 1: Client 2 got award 1
+ 34:58 Challenge: 3 2 1: Client 3 got award 2
+ 34:58 PlayerScore: 2 91: DarkWolf now has 91 points
+ 34:58 Challenge: 2 305 1: Client 2 got award 305
+ 34:58 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 35:00 Item: 0 weapon_lightning
+ 35:00 Item: 1 weapon_lightning
+ 35:00 Item: 1 ammo_lightning
+ 35:00 Item: 2 weapon_rocketlauncher
+ 35:01 Item: 2 weapon_lightning
+ 35:02 Item: 2 weapon_lightning
+ 35:03 Item: 1 ammo_rockets
+ 35:03 Item: 1 weapon_rocketlauncher
+ 35:03 Item: 1 ammo_rockets
+ 35:05 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 35:05 PlayerScore: 1 87: kar now has 87 points
+ 35:05 Challenge: 1 206 1: Client 1 got award 206
+ 35:05 Challenge: 1 1 1: Client 1 got award 1
+ 35:05 Challenge: 3 2 1: Client 3 got award 2
+ 35:10 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 35:10 PlayerScore: 1 88: kar now has 88 points
+ 35:10 Challenge: 1 206 1: Client 1 got award 206
+ 35:10 Challenge: 1 1 1: Client 1 got award 1
+ 35:10 Challenge: 3 2 1: Client 3 got award 2
+ 35:10 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 35:10 PlayerScore: 0 105: DarthVader now has 105 points
+ 35:10 Challenge: 0 206 1: Client 0 got award 206
+ 35:10 Challenge: 0 1 1: Client 0 got award 1
+ 35:10 Challenge: 2 2 1: Client 2 got award 2
+ 35:11 Item: 0 weapon_rocketlauncher
+ 35:12 Item: 0 team_CTF_redflag
+ 35:12 CTF: 0 1 0: DarthVader got the RED flag!
+ 35:12 PlayerScore: 0 105: DarthVader now has 105 points
+ 35:12 Item: 1 team_CTF_blueflag
+ 35:12 CTF: 1 2 0: kar got the BLUE flag!
+ 35:12 PlayerScore: 1 88: kar now has 88 points
+ 35:12 Item: 2 weapon_rocketlauncher
+ 35:13 Item: 0 weapon_lightning
+ 35:13 Item: 3 weapon_plasmagun
+ 35:16 Item: 0 ammo_shells
+ 35:16 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 35:16 PlayerScore: 1 89: kar now has 89 points
+ 35:16 Challenge: 1 206 1: Client 1 got award 206
+ 35:16 Challenge: 1 1 1: Client 1 got award 1
+ 35:16 Challenge: 3 2 1: Client 3 got award 2
+ 35:16 PlayerScore: 1 91: kar now has 91 points
+ 35:16 Challenge: 1 305 1: Client 1 got award 305
+ 35:16 Award: 1 3: kar gained the DEFENCE award!
+ 35:18 Item: 1 ammo_bullets
+ 35:19 Item: 3 weapon_shotgun
+ 35:19 Item: 1 weapon_rocketlauncher
+ 35:24 Kill: 3 1 1: Shakuntla killed kar by MOD_SHOTGUN
+ 35:24 PlayerScore: 3 97: Shakuntla now has 97 points
+ 35:24 Challenge: 3 203 1: Client 3 got award 203
+ 35:24 Challenge: 3 1 1: Client 3 got award 1
+ 35:24 Challenge: 1 2 1: Client 1 got award 2
+ 35:24 PlayerScore: 3 99: Shakuntla now has 99 points
+ 35:24 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 35:26 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 35:26 PlayerScore: 0 106: DarthVader now has 106 points
+ 35:26 Challenge: 0 206 1: Client 0 got award 206
+ 35:26 Challenge: 0 1 1: Client 0 got award 1
+ 35:26 Challenge: 2 2 1: Client 2 got award 2
+ 35:26 PlayerScore: 0 107: DarthVader now has 107 points
+ 35:26 Challenge: 0 305 1: Client 0 got award 305
+ 35:26 Award: 0 3: DarthVader gained the DEFENCE award!
+ 35:26 Item: 3 team_CTF_blueflag
+ 35:26 PlayerScore: 3 100: Shakuntla now has 100 points
+ 35:26 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 35:26 Item: 1 weapon_rocketlauncher
+ 35:27 Item: 3 weapon_lightning
+ 35:28 Item: 0 team_CTF_blueflag
+ 35:28 CTF: 0 1 1: DarthVader captured the RED flag!
+ 35:28 Award: 0 4: DarthVader gained the CAPTURE award!
+ 35:28 Challenge: 0 303 1: Client 0 got award 303
+ 35:28 PlayerScore: 0 112: DarthVader now has 112 points
+ 35:28 PlayerScore: 3 100: Shakuntla now has 100 points
+ 35:28 PlayerScore: 3 101: Shakuntla now has 101 points
+ 35:28 Challenge: 3 304 1: Client 3 got award 304
+ 35:28 Award: 3 5: Shakuntla gained the ASSIST award!
+ 35:28 PlayerScore: 3 103: Shakuntla now has 103 points
+ 35:28 Challenge: 3 304 1: Client 3 got award 304
+ 35:28 Award: 3 5: Shakuntla gained the ASSIST award!
+ 35:29 Item: 2 weapon_shotgun
+ 35:29 Kill: 1 3 6: kar killed Shakuntla by MOD_ROCKET
+ 35:29 PlayerScore: 1 92: kar now has 92 points
+ 35:29 Challenge: 1 205 1: Client 1 got award 205
+ 35:29 Challenge: 1 1 1: Client 1 got award 1
+ 35:29 Challenge: 3 2 1: Client 3 got award 2
+ 35:29 PlayerScore: 1 93: kar now has 93 points
+ 35:29 Challenge: 1 305 1: Client 1 got award 305
+ 35:29 Award: 1 3: kar gained the DEFENCE award!
+ 35:30 Item: 1 weapon_lightning
+ 35:31 Item: 2 weapon_rocketlauncher
+ 35:34 Item: 3 weapon_plasmagun
+ 35:34 Item: 0 ammo_slugs
+ 35:35 Item: 0 weapon_rocketlauncher
+ 35:35 Item: 0 ammo_rockets
+ 35:35 Item: 2 ammo_lightning
+ 35:35 Item: 2 weapon_lightning
+ 35:35 Item: 2 ammo_lightning
+ 35:40 Item: 3 item_armor_combat
+ 35:40 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 35:40 PlayerScore: 0 113: DarthVader now has 113 points
+ 35:40 Challenge: 0 206 1: Client 0 got award 206
+ 35:40 Challenge: 0 1 1: Client 0 got award 1
+ 35:40 Challenge: 2 2 1: Client 2 got award 2
+ 35:40 PlayerScore: 0 114: DarthVader now has 114 points
+ 35:40 Challenge: 0 305 1: Client 0 got award 305
+ 35:40 Award: 0 3: DarthVader gained the DEFENCE award!
+ 35:43 Item: 3 weapon_plasmagun
+ 35:43 Item: 3 ammo_cells
+ 35:45 Item: 0 weapon_lightning
+ 35:47 Item: 0 item_health
+ 35:47 Item: 0 item_health
+ 35:49 Kill: 2 3 3: DarkWolf killed Shakuntla by MOD_MACHINEGUN
+ 35:49 PlayerScore: 2 92: DarkWolf now has 92 points
+ 35:49 Challenge: 2 202 1: Client 2 got award 202
+ 35:49 Challenge: 2 1 1: Client 2 got award 1
+ 35:49 Challenge: 3 2 1: Client 3 got award 2
+ 35:49 PlayerScore: 2 93: DarkWolf now has 93 points
+ 35:49 Challenge: 2 305 1: Client 2 got award 305
+ 35:49 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 35:49 Item: 2 weapon_rocketlauncher
+ 35:50 Item: 2 ammo_rockets
+ 35:51 Item: 2 ammo_rockets
+ 35:52 Item: 3 weapon_plasmagun
+ 35:55 Item: 1 weapon_rocketlauncher
+ 35:58 Item: 3 ammo_cells
+ 35:58 Item: 3 ammo_bullets
+ 35:59 Item: 3 ammo_shells
+ 36:03 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 36:03 PlayerScore: 0 115: DarthVader now has 115 points
+ 36:03 Challenge: 0 206 1: Client 0 got award 206
+ 36:03 Challenge: 0 1 1: Client 0 got award 1
+ 36:03 Challenge: 2 2 1: Client 2 got award 2
+ 36:06 Item: 0 team_CTF_redflag
+ 36:06 CTF: 0 1 0: DarthVader got the RED flag!
+ 36:06 PlayerScore: 0 115: DarthVader now has 115 points
+ 36:07 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 36:07 PlayerScore: 0 116: DarthVader now has 116 points
+ 36:07 Challenge: 0 206 1: Client 0 got award 206
+ 36:07 Challenge: 0 1 1: Client 0 got award 1
+ 36:07 Challenge: 1 2 1: Client 1 got award 2
+ 36:07 Item: 0 weapon_rocketlauncher
+ 36:13 Item: 1 weapon_plasmagun
+ 36:15 Item: 2 weapon_lightning
+ 36:16 Kill: 2 3 11: DarkWolf killed Shakuntla by MOD_LIGHTNING
+ 36:16 PlayerScore: 2 94: DarkWolf now has 94 points
+ 36:16 Challenge: 2 206 1: Client 2 got award 206
+ 36:16 Challenge: 2 1 1: Client 2 got award 1
+ 36:16 Challenge: 3 2 1: Client 3 got award 2
+ 36:19 Item: 0 ammo_shells
+ 36:21 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+ 36:21 PlayerScore: 2 95: DarkWolf now has 95 points
+ 36:21 Challenge: 2 206 1: Client 2 got award 206
+ 36:21 Challenge: 2 1 1: Client 2 got award 1
+ 36:21 Challenge: 0 2 1: Client 0 got award 2
+ 36:21 PlayerScore: 2 97: DarkWolf now has 97 points
+ 36:21 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 36:22 Item: 2 team_CTF_redflag
+ 36:22 PlayerScore: 2 98: DarkWolf now has 98 points
+ 36:22 CTF: 2 1 2: DarkWolf returned the RED flag!
+ 36:24 Item: 1 team_CTF_blueflag
+ 36:24 CTF: 1 2 0: kar got the BLUE flag!
+ 36:24 PlayerScore: 1 93: kar now has 93 points
+ 36:24 Item: 3 weapon_rocketlauncher
+ 36:24 Item: 3 ammo_rockets
+ 36:24 Item: 0 ammo_rockets
+ 36:26 Kill: 0 2 3: DarthVader killed DarkWolf by MOD_MACHINEGUN
+ 36:26 PlayerScore: 0 117: DarthVader now has 117 points
+ 36:26 Challenge: 0 202 1: Client 0 got award 202
+ 36:26 Challenge: 0 1 1: Client 0 got award 1
+ 36:26 Challenge: 2 2 1: Client 2 got award 2
+ 36:26 PlayerScore: 0 118: DarthVader now has 118 points
+ 36:26 Challenge: 0 305 1: Client 0 got award 305
+ 36:26 Award: 0 3: DarthVader gained the DEFENCE award!
+ 36:29 Item: 2 weapon_rocketlauncher
+ 36:30 Kill: 0 1 3: DarthVader killed kar by MOD_MACHINEGUN
+ 36:30 PlayerScore: 0 119: DarthVader now has 119 points
+ 36:30 Challenge: 0 202 1: Client 0 got award 202
+ 36:30 Challenge: 0 1 1: Client 0 got award 1
+ 36:30 Challenge: 1 2 1: Client 1 got award 2
+ 36:30 PlayerScore: 0 121: DarthVader now has 121 points
+ 36:30 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 36:31 Item: 3 team_CTF_blueflag
+ 36:31 PlayerScore: 3 104: Shakuntla now has 104 points
+ 36:31 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 36:31 Item: 3 weapon_plasmagun
+ 36:31 Item: 0 ammo_cells
+ 36:32 Item: 1 weapon_lightning
+ 36:35 Item: 1 ammo_rockets
+ 36:35 Item: 1 weapon_rocketlauncher
+ 36:35 Item: 1 ammo_rockets
+ 36:35 Item: 3 item_health
+ 36:35 Item: 3 item_health
+ 36:37 Item: 0 ammo_lightning
+ 36:37 Item: 0 weapon_lightning
+ 36:37 Item: 0 ammo_lightning
+ 36:38 Item: 2 weapon_rocketlauncher
+ 36:38 Item: 3 weapon_plasmagun
+ 36:43 Kill: 1 3 11: kar killed Shakuntla by MOD_LIGHTNING
+ 36:43 PlayerScore: 1 94: kar now has 94 points
+ 36:43 Challenge: 1 206 1: Client 1 got award 206
+ 36:43 Challenge: 1 1 1: Client 1 got award 1
+ 36:43 Challenge: 3 2 1: Client 3 got award 2
+ 36:44 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 36:44 PlayerScore: 0 122: DarthVader now has 122 points
+ 36:44 Challenge: 0 206 1: Client 0 got award 206
+ 36:44 Challenge: 0 1 1: Client 0 got award 1
+ 36:44 Challenge: 2 2 1: Client 2 got award 2
+ 36:44 Item: 0 team_CTF_redflag
+ 36:44 CTF: 0 1 0: DarthVader got the RED flag!
+ 36:44 PlayerScore: 0 122: DarthVader now has 122 points
+ 36:44 Item: 1 team_CTF_blueflag
+ 36:44 CTF: 1 2 0: kar got the BLUE flag!
+ 36:44 PlayerScore: 1 94: kar now has 94 points
+ 36:45 Item: 1 weapon_plasmagun
+ 36:46 Item: 3 weapon_plasmagun
+ 36:48 Kill: 3 1 8: Shakuntla killed kar by MOD_PLASMA
+ 36:48 PlayerScore: 3 105: Shakuntla now has 105 points
+ 36:48 Challenge: 3 207 1: Client 3 got award 207
+ 36:48 Challenge: 3 1 1: Client 3 got award 1
+ 36:48 Challenge: 1 2 1: Client 1 got award 2
+ 36:48 PlayerScore: 3 107: Shakuntla now has 107 points
+ 36:48 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 36:48 Item: 3 team_CTF_blueflag
+ 36:48 PlayerScore: 3 108: Shakuntla now has 108 points
+ 36:48 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 36:48 Item: 3 weapon_lightning
+ 36:51 Item: 1 weapon_lightning
+ 36:52 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 36:52 PlayerScore: 0 123: DarthVader now has 123 points
+ 36:52 Challenge: 0 206 1: Client 0 got award 206
+ 36:52 Challenge: 0 1 1: Client 0 got award 1
+ 36:52 Challenge: 2 2 1: Client 2 got award 2
+ 36:52 PlayerScore: 0 125: DarthVader now has 125 points
+ 36:52 Challenge: 0 305 1: Client 0 got award 305
+ 36:52 Award: 0 3: DarthVader gained the DEFENCE award!
+ 36:53 Kill: 1 0 11: kar killed DarthVader by MOD_LIGHTNING
+ 36:53 PlayerScore: 1 95: kar now has 95 points
+ 36:53 Challenge: 1 206 1: Client 1 got award 206
+ 36:53 Challenge: 1 1 1: Client 1 got award 1
+ 36:53 Challenge: 0 2 1: Client 0 got award 2
+ 36:53 PlayerScore: 1 97: kar now has 97 points
+ 36:53 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 36:54 Item: 1 team_CTF_redflag
+ 36:54 PlayerScore: 1 98: kar now has 98 points
+ 36:54 CTF: 1 1 2: kar returned the RED flag!
+ 36:56 Item: 2 ammo_rockets
+ 36:56 Item: 2 weapon_rocketlauncher
+ 36:57 Item: 3 weapon_rocketlauncher
+ 36:58 Item: 1 ammo_rockets
+ 37:00 Item: 0 weapon_plasmagun
+ 37:00 Item: 2 weapon_rocketlauncher
+ 37:04 Item: 3 ammo_rockets
+ 37:05 Item: 3 ammo_rockets
+ 37:10 Item: 0 weapon_lightning
+ 37:13 Item: 3 item_health
+ 37:13 Item: 3 item_health
+ 37:15 Item: 0 weapon_rocketlauncher
+ 37:15 Kill: 0 1 6: DarthVader killed kar by MOD_ROCKET
+ 37:15 PlayerScore: 0 126: DarthVader now has 126 points
+ 37:15 Challenge: 0 205 1: Client 0 got award 205
+ 37:15 Challenge: 0 1 1: Client 0 got award 1
+ 37:15 Challenge: 1 2 1: Client 1 got award 2
+ 37:17 Item: 0 team_CTF_redflag
+ 37:17 CTF: 0 1 0: DarthVader got the RED flag!
+ 37:17 PlayerScore: 0 126: DarthVader now has 126 points
+ 37:17 Item: 3 weapon_rocketlauncher
+ 37:18 Item: 1 weapon_shotgun
+ 37:19 Item: 0 item_health
+ 37:19 Item: 0 item_health
+ 37:19 Item: 2 team_CTF_blueflag
+ 37:19 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 37:19 PlayerScore: 2 98: DarkWolf now has 98 points
+ 37:20 Kill: 1 0 1: kar killed DarthVader by MOD_SHOTGUN
+ 37:20 PlayerScore: 1 99: kar now has 99 points
+ 37:20 Challenge: 1 203 1: Client 1 got award 203
+ 37:20 Challenge: 1 1 1: Client 1 got award 1
+ 37:20 Challenge: 0 2 1: Client 0 got award 2
+ 37:20 PlayerScore: 1 101: kar now has 101 points
+ 37:20 CTF: 1 2 3: kar fragged BLUE's flag carrier!
+ 37:22 Item: 1 team_CTF_redflag
+ 37:22 PlayerScore: 1 102: kar now has 102 points
+ 37:22 CTF: 1 1 2: kar returned the RED flag!
+ 37:22 Item: 0 weapon_lightning
+ 37:23 Item: 0 ammo_lightning
+ 37:26 Item: 2 weapon_rocketlauncher
+ 37:26 Kill: 3 2 6: Shakuntla killed DarkWolf by MOD_ROCKET
+ 37:26 PlayerScore: 3 109: Shakuntla now has 109 points
+ 37:26 Challenge: 3 205 1: Client 3 got award 205
+ 37:26 Challenge: 3 1 1: Client 3 got award 1
+ 37:26 Challenge: 2 2 1: Client 2 got award 2
+ 37:26 PlayerScore: 3 111: Shakuntla now has 111 points
+ 37:26 CTF: 3 1 3: Shakuntla fragged RED's flag carrier!
+ 37:28 Item: 3 team_CTF_blueflag
+ 37:28 PlayerScore: 3 112: Shakuntla now has 112 points
+ 37:28 CTF: 3 2 2: Shakuntla returned the BLUE flag!
+ 37:29 Item: 3 weapon_rocketlauncher
+ 37:30 Item: 1 weapon_rocketlauncher
+ 37:31 Item: 3 weapon_plasmagun
+ 37:31 Item: 3 ammo_cells
+ 37:33 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 37:33 PlayerScore: 0 127: DarthVader now has 127 points
+ 37:33 Challenge: 0 206 1: Client 0 got award 206
+ 37:33 Challenge: 0 1 1: Client 0 got award 1
+ 37:33 Challenge: 2 2 1: Client 2 got award 2
+ 37:35 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 37:35 PlayerScore: 0 128: DarthVader now has 128 points
+ 37:35 Challenge: 0 206 1: Client 0 got award 206
+ 37:35 Challenge: 0 1 1: Client 0 got award 1
+ 37:35 Challenge: 1 2 1: Client 1 got award 2
+ 37:35 Award: 0 1: DarthVader gained the EXCELLENT award!
+ 37:35 Challenge: 0 302 1: Client 0 got award 302
+ 37:36 Item: 0 weapon_rocketlauncher
+ 37:36 Item: 0 team_CTF_redflag
+ 37:36 CTF: 0 1 0: DarthVader got the RED flag!
+ 37:36 PlayerScore: 0 128: DarthVader now has 128 points
+ 37:36 Item: 2 weapon_shotgun
+ 37:37 Item: 3 weapon_rocketlauncher
+ 37:40 Kill: 2 0 1: DarkWolf killed DarthVader by MOD_SHOTGUN
+ 37:40 PlayerScore: 2 99: DarkWolf now has 99 points
+ 37:40 Challenge: 2 203 1: Client 2 got award 203
+ 37:40 Challenge: 2 1 1: Client 2 got award 1
+ 37:40 Challenge: 0 2 1: Client 0 got award 2
+ 37:40 PlayerScore: 2 101: DarkWolf now has 101 points
+ 37:40 CTF: 2 2 3: DarkWolf fragged BLUE's flag carrier!
+ 37:40 Item: 1 team_CTF_redflag
+ 37:40 PlayerScore: 1 103: kar now has 103 points
+ 37:40 CTF: 1 1 2: kar returned the RED flag!
+ 37:41 Item: 2 weapon_plasmagun
+ 37:43 Item: 2 ammo_cells
+ 37:43 Item: 3 weapon_rocketlauncher
+ 37:45 Item: 2 weapon_rocketlauncher
+ 37:47 Item: 1 ammo_rockets
+ 37:47 Item: 1 weapon_rocketlauncher
+ 37:51 Item: 0 ammo_lightning
+ 37:51 Item: 0 weapon_lightning
+ 37:51 Item: 0 ammo_lightning
+ 37:54 Item: 2 team_CTF_blueflag
+ 37:54 CTF: 2 2 0: DarkWolf got the BLUE flag!
+ 37:54 PlayerScore: 2 101: DarkWolf now has 101 points
+ 37:56 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 37:56 PlayerScore: 0 129: DarthVader now has 129 points
+ 37:56 Challenge: 0 206 1: Client 0 got award 206
+ 37:56 Challenge: 0 1 1: Client 0 got award 1
+ 37:56 Challenge: 1 2 1: Client 1 got award 2
+ 37:58 Item: 3 team_CTF_redflag
+ 37:58 CTF: 3 1 0: Shakuntla got the RED flag!
+ 37:58 PlayerScore: 3 112: Shakuntla now has 112 points
+ 37:58 Item: 3 weapon_rocketlauncher
+ 37:59 Item: 1 weapon_rocketlauncher
+ 38:03 Kill: 0 1 11: DarthVader killed kar by MOD_LIGHTNING
+ 38:03 PlayerScore: 0 130: DarthVader now has 130 points
+ 38:03 Challenge: 0 206 1: Client 0 got award 206
+ 38:03 Challenge: 0 1 1: Client 0 got award 1
+ 38:03 Challenge: 1 2 1: Client 1 got award 2
+ 38:04 Item: 2 weapon_lightning
+ 38:07 Item: 3 ammo_lightning
+ 38:07 Item: 3 weapon_lightning
+ 38:08 Item: 3 ammo_lightning
+ 38:09 Item: 1 ammo_rockets
+ 38:09 Item: 1 weapon_rocketlauncher
+ 38:09 Item: 1 ammo_rockets
+ 38:10 Kill: 2 0 11: DarkWolf killed DarthVader by MOD_LIGHTNING
+ 38:10 PlayerScore: 2 102: DarkWolf now has 102 points
+ 38:10 Challenge: 2 206 1: Client 2 got award 206
+ 38:10 Challenge: 2 1 1: Client 2 got award 1
+ 38:10 Challenge: 0 2 1: Client 0 got award 2
+ 38:10 PlayerScore: 2 104: DarkWolf now has 104 points
+ 38:10 Challenge: 2 305 1: Client 2 got award 305
+ 38:10 Award: 2 3: DarkWolf gained the DEFENCE award!
+ 38:11 Item: 2 weapon_lightning
+ 38:13 Item: 3 item_health
+ 38:13 Item: 3 item_health
+ 38:16 Kill: 0 1 3: DarthVader killed kar by MOD_MACHINEGUN
+ 38:16 PlayerScore: 0 131: DarthVader now has 131 points
+ 38:16 Challenge: 0 202 1: Client 0 got award 202
+ 38:16 Challenge: 0 1 1: Client 0 got award 1
+ 38:16 Challenge: 1 2 1: Client 1 got award 2
+ 38:16 PlayerScore: 0 132: DarthVader now has 132 points
+ 38:16 Challenge: 0 305 1: Client 0 got award 305
+ 38:16 Award: 0 3: DarthVader gained the DEFENCE award!
+ 38:16 Item: 0 ammo_rockets
+ 38:17 Item: 2 weapon_rocketlauncher
+ 38:17 Item: 2 ammo_rockets
+ 38:18 Item: 0 weapon_rocketlauncher
+ 38:18 Item: 2 weapon_rocketlauncher
+ 38:18 Item: 1 weapon_rocketlauncher
+ 38:22 Item: 3 ammo_rockets
+ 38:22 Item: 0 weapon_lightning
+ 38:22 Item: 3 weapon_rocketlauncher
+ 38:23 Item: 1 weapon_lightning
+ 38:25 Item: 2 weapon_rocketlauncher
+ 38:29 Kill: 0 2 11: DarthVader killed DarkWolf by MOD_LIGHTNING
+ 38:29 PlayerScore: 0 133: DarthVader now has 133 points
+ 38:29 Challenge: 0 206 1: Client 0 got award 206
+ 38:29 Challenge: 0 1 1: Client 0 got award 1
+ 38:29 Challenge: 2 2 1: Client 2 got award 2
+ 38:29 PlayerScore: 0 135: DarthVader now has 135 points
+ 38:29 CTF: 0 1 3: DarthVader fragged RED's flag carrier!
+ 38:30 Item: 0 weapon_rocketlauncher
+ 38:30 Item: 0 team_CTF_blueflag
+ 38:30 PlayerScore: 0 136: DarthVader now has 136 points
+ 38:30 CTF: 0 2 2: DarthVader returned the BLUE flag!
+ 38:30 Item: 3 weapon_rocketlauncher
+ 38:31 Item: 2 weapon_lightning
+ 38:31 Item: 2 ammo_lightning
+ 38:33 Item: 3 team_CTF_blueflag
+ 38:33 CTF: 3 1 1: Shakuntla captured the RED flag!
+ 38:33 Award: 3 4: Shakuntla gained the CAPTURE award!
+ 38:33 Challenge: 3 303 1: Client 3 got award 303
+ 38:33 PlayerScore: 3 117: Shakuntla now has 117 points
+ 38:33 Exit: Capturelimit hit.
+ 38:33 red:6  blue:8
+ 38:33 score: 136  ping: 0  client: 0 DarthVader
+ 38:33 score: 117  ping: 10  client: 3 Shakuntla
+ 38:33 score: 104  ping: 1  client: 2 DarkWolf
+ 38:33 score: 103  ping: 9  client: 1 kar
+ 38:33 PlayerScore: 0 136: DarthVader now has 136 points
+ 38:33 PlayerScore: 0 137: DarthVader now has 137 points
+ 38:33 Challenge: 0 304 1: Client 0 got award 304
+ 38:33 Award: 0 5: DarthVader gained the ASSIST award!
+ 38:33 PlayerScore: 0 139: DarthVader now has 139 points
+ 38:33 Challenge: 0 304 1: Client 0 got award 304
+ 38:33 Award: 0 5: DarthVader gained the ASSIST award!
+ 38:33 Item: 1 team_CTF_blueflag
+ 38:33 CTF: 1 2 0: kar got the BLUE flag!
+ 38:33 PlayerScore: 1 103: kar now has 103 points
+ 39:17 Playerstore: Stored player with guid: 936499F7D6A1C380B07868B5278C3165 in 0
+ 39:17 ClientDisconnect: 1
+ 39:21 ShutdownGame:
+ 39:21 ------------------------------------------------------------
