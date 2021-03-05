@@ -1,6 +1,8 @@
 # If not running interactively, don't do anything
 [ -z "$PS1" ] && return
-
+parse_git_branch() {
+ git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+}
 
 #-------------------------------------------------------------
 
@@ -274,7 +276,7 @@ case ${TERM} in
         # Prompt (with 'job' info):
         PS1=${PS1}"\[\$(job_color)\]>\[${NC}\] "
         # Set title of current xterm:
-        PS1=${PS1}"\[\e]0;[\u@\h] \w\a\]"
+	PS1=${PS1}"\[\e]0;[\u@\h] \w\a\$(parse_git_branch)| \]"
         ;;
     *)
         PS1="(\A \u@\h \W) > " # --> PS1="(\A \u@\h \w) > "
@@ -883,7 +885,13 @@ _killall()
 
 complete -F _killall killall killps
 
-
+# added later
+export PATH="$HOME/ide/GoLand-2020.3.2/bin:$PATH"
+export PATH="$HOME/ide/idea-IC-203.7148.57/bin:$PATH"
+export PATH=$PATH:/usr/local/go/bin
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/bin/java
+export PATH=$JAVA_HOME/bin:$PATH
+export GOPRIVATE=gitlab.com/balance-inc/*
 
 # Local Variables:
 # mode:shell-script
