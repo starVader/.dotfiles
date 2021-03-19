@@ -886,8 +886,6 @@ _killall()
 complete -F _killall killall killps
 
 # added later
-export PATH="$HOME/ide/GoLand-2020.3.2/bin:$PATH"
-export PATH="$HOME/ide/idea-IC-203.7148.57/bin:$PATH"
 export PATH=$PATH:/usr/local/go/bin
 export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/bin/java
 export PATH=$JAVA_HOME/bin:$PATH
