@@ -129,10 +129,11 @@ NC="\e[m"               # Color Reset
 ALERT=${BWhite}${On_Red} # Bold White on red background
 
 
-echo -e "${BCyan}Hi ${USER} Welcome!"
-echo -e "${BCyan}This is BASH ${BRed}${BASH_VERSION%.*}${BCyan}\
-- DISPLAY on ${BRed}$DISPLAY${NC}\n"
+echo -e "${BCyan}Hi ${USER} Welcome! BASH:${BASH_VERSION%.*},DISPLAY:$DISPLAY\n${NC}"
+#echo -e "This is BASH ${BRed}${BASH_VERSION%.*}${BCyan}\
+#- DISPLAY on ${BRed}$DISPLAY${NC}\n"
 date
+
 if [ -x /usr/games/fortune ]; then
     /usr/games/fortune -s     # Makes our day a bit more fun.... :-)
 fi
@@ -276,7 +277,7 @@ case ${TERM} in
         # Prompt (with 'job' info):
         PS1=${PS1}"\[\$(job_color)\]>\[${NC}\] "
         # Set title of current xterm:
-	PS1=${PS1}"\[\e]0;[\u@\h] \w\a\$(parse_git_branch)| \]"
+	PS1=${PS1}"\[\e]0;[\u@\h] \w\a\$(parse_git_branch) \[\033[00m\]"
         ;;
     *)
         PS1="(\A \u@\h \W) > " # --> PS1="(\A \u@\h \w) > "
@@ -886,6 +887,7 @@ _killall()
 complete -F _killall killall killps
 
 # added later
+export PATH="$HOME/ide/idea-IC-203.7148.57/bin:$PATH"
 export PATH=$PATH:/usr/local/go/bin
 export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/bin/java
 export PATH=$JAVA_HOME/bin:$PATH
@@ -898,7 +900,6 @@ alias gupmaster="git pull --rebase origin master"
 alias gst="git status"
 alias gcm="git commit"
 alias gcma="git commit --amend"
-
 # Local Variables:
 # mode:shell-script
 # sh-shell:bash
