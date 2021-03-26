@@ -891,6 +891,14 @@ export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/bin/java
 export PATH=$JAVA_HOME/bin:$PATH
 export GOPRIVATE=gitlab.com/balance-inc/*
 
+# Git Aliases
+alias gco="git checkout"
+alias gup="git pull --rebase"
+alias gupmaster="git pull --rebase origin master"
+alias gst="git status"
+alias gcm="git commit"
+alias gcma="git commit --amend"
+
 # Local Variables:
 # mode:shell-script
 # sh-shell:bash
